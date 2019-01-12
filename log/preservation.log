@@ -1,0 +1,70 @@
+Initial-errors
+--------------
+
+ross-spencer@artefactual:~/git/nasawakeupcalls/nasawakeupcalls.data$ java -jar tika-app-1.20.jar 
+Jan 12, 2019 2:38:37 PM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: J2KImageReader not loaded. JPEG2000 files will not be processed.
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+
+Jan 12, 2019 2:38:37 PM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: org.xerial's sqlite-jdbc is not loaded.
+Please provide the jar on your classpath to parse sqlite files.
+See tika-parsers/pom.xml for the correct version.
+WARN  New fonts found, font cache will be re-built
+WARN  Building on-disk font cache, this may take a while
+WARN  Finished building on-disk font cache, found 314 fonts
+INFO  OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,BoldItalic are not implemented in PDFBox and will be ignored
+WARN  Using fallback font 'LiberationSans' for 'Helvetica,Italic'
+INFO  OpenType Layout tables used in font Arial,BoldItalic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+WARN  Format 14 cmap table is not supported and will be ignored
+INFO  OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Helvetica are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,BoldItalic are not implemented in PDFBox and will be ignored
+WARN  Using fallback font 'LiberationSans' for 'Helvetica,Italic'
+INFO  OpenType Layout tables used in font Arial,BoldItalic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+WARN  Format 14 cmap table is not supported and will be ignored
+INFO  OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Helvetica are not implemented in PDFBox and will be ignored
+
+Secondary-errors
+----------------
+
+ross-spencer@artefactual:~/git/nasawakeupcalls/nasawakeupcalls.data$ java -jar tika-app-1.20.jar 
+Jan 12, 2019 2:44:42 PM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: J2KImageReader not loaded. JPEG2000 files will not be processed.
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+
+Jan 12, 2019 2:44:42 PM org.apache.tika.config.InitializableProblemHandler$3 handleInitializableProblem
+WARNING: org.xerial's sqlite-jdbc is not loaded.
+Please provide the jar on your classpath to parse sqlite files.
+See tika-parsers/pom.xml for the correct version.
+WARN  New fonts found, font cache will be re-built
+WARN  Building on-disk font cache, this may take a while
+WARN  Finished building on-disk font cache, found 374 fonts
+INFO  OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,BoldItalic are not implemented in PDFBox and will be ignored
+WARN  Using fallback font 'ArialMT' for 'Helvetica,Italic'
+INFO  OpenType Layout tables used in font Arial,BoldItalic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+WARN  Format 14 cmap table is not supported and will be ignored
+INFO  OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Helvetica are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,Italic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Times New Roman,BoldItalic are not implemented in PDFBox and will be ignored
+WARN  Using fallback font 'ArialMT' for 'Helvetica,Italic'
+INFO  OpenType Layout tables used in font Arial,BoldItalic are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Arial are not implemented in PDFBox and will be ignored
+WARN  Format 14 cmap table is not supported and will be ignored
+INFO  OpenType Layout tables used in font ABCDEE+Cambria Math are not implemented in PDFBox and will be ignored
+INFO  OpenType Layout tables used in font Helvetica are not implemented in PDFBox and will be ignored
+
