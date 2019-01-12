@@ -7,3 +7,20 @@ lovely.
 
 Credit for the source material goes to Colin Fries of the NASA historical
 division.
+
+## Requirements
+
+* `pip install nltk`
+* With `nltk` installed run `python3`:
+
+```
+		import nltk
+		nltk.download("punkt")
+```
+## Process
+
+1. Tokenize output using `tokenize-nasawakeup.py`
+2. This will leave `6779` lines that can be manipulated, I expect a mix of
+   automated and manual intervention, e.g. to separate logical components,
+   the intro, and the sources, from the data are two examples.
+3. Not yet known.
