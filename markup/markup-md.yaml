@@ -1,0 +1,12 @@
+# Information about how the text markup in NASA wakeup calls is done.
+# Lists of keys and values used.
+---
+MARKUP TITLE: 'NASA WAKEUP CALLS MARKED UP'
+LINE_SEPARATOR: '-----'
+SECTION: BEGIN
+SECTION: END
+SECTIONCOMMENT: #--
+HEADER: BEGIN
+HEADER: END
+TEXTSTART: BEGIN
+TEXTSTART: END
