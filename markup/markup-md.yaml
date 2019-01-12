@@ -1,12 +1,32 @@
 # Information about how the text markup in NASA wakeup calls is done.
 # Lists of keys and values used.
+
+# Notes:
+# Red Team and Blue team need separating
+# Find out who PC is
+# Markup Gemini and Apollo
+# Figure out what to do with links
+
 ---
 MARKUP TITLE: 'NASA WAKEUP CALLS MARKED UP'
 LINE_SEPARATOR: '-----'
+
 SECTION: BEGIN
 SECTION: END
 SECTIONCOMMENT: #--
+
 HEADER: BEGIN
 HEADER: END
+
 TEXTSTART: BEGIN
 TEXTSTART: END
+
+PROGRAM: BEGIN
+PROGRAM: END
+
+MISSION: BEGIN
+MISSION: END
+MISSIONSUMMARY: BEGIN
+MISSIONSUMMARY: END
+
+TYPE: ["SONG", "SPEECH"]
