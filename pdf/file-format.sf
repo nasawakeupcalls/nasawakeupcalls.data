@@ -1,0 +1,46 @@
+---
+siegfried   : 1.7.10
+scandate    : 2019-01-12T14:39:40+01:00
+signature   : default.sig
+created     : 2018-09-19T11:32:11+10:00
+identifiers : 
+  - name    : 'pronom'
+    details : 'DROID_SignatureFile_V94.xml; container-signature-20180917.xml'
+  - name    : 'tika'
+    details : 'tika-mimetypes.xml (1.18, 2018-04-20)'
+  - name    : 'freedesktop.org'
+    details : 'freedesktop.org.xml (1.10, 2018-28-06)'
+  - name    : 'loc'
+    details : 'fddXML.zip (2018-06-14, DROID_SignatureFile_V94.xml, container-signature-20180917.xml)'
+---
+filename : 'working-copy.pdf'
+filesize : 1332071
+modified : 2019-01-12T14:37:46+01:00
+errors   : 
+matches  :
+  - ns      : 'pronom'
+    id      : 'fmt/19'
+    format  : 'Acrobat PDF 1.5 - Portable Document Format'
+    version : '1.5'
+    mime    : 'application/pdf'
+    basis   : 'extension match pdf; byte match at [[0 8] [1332066 5]]'
+    warning : 
+  - ns      : 'tika'
+    id      : 'application/pdf'
+    format  : 'Portable Document Format'
+    mime    : 'application/pdf'
+    basis   : 'extension match pdf; byte match at 0, 5 (signature 1/4)'
+    warning : 
+  - ns      : 'freedesktop.org'
+    id      : 'application/pdf'
+    format  : 'PDF document'
+    mime    : 'application/pdf'
+    basis   : 'extension match pdf; byte match at 0, 5'
+    warning : 
+  - ns      : 'loc'
+    id      : 'fdd000030'
+    format  : 'PDF (Portable Document Format) Family'
+    full    : 'PDF (Portable Document Format) Family'
+    mime    : 'application/pdf'
+    basis   : 'extension match pdf; byte match at 0, 4'
+    warning : 

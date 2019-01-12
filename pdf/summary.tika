@@ -1,0 +1,46 @@
+Author: cfries
+Content-Length: 1332071
+Content-Type: application/pdf
+Creation-Date: 2015-07-08T16:11:13Z
+Last-Modified: 2015-07-08T16:11:13Z
+Last-Save-Date: 2015-07-08T16:11:13Z
+X-Parsed-By: org.apache.tika.parser.DefaultParser
+X-Parsed-By: org.apache.tika.parser.pdf.PDFParser
+X-TIKA:digest:MD5: 0062a6ff9fee499705be40430cd0a3c7
+X-TIKA:digest:SHA256: b24c77156e61eff38675defdcdc7fd5ddb65869140380bb254ff8560032a4b36
+access_permission:assemble_document: true
+access_permission:can_modify: true
+access_permission:can_print: true
+access_permission:can_print_degraded: true
+access_permission:extract_content: true
+access_permission:extract_for_accessibility: true
+access_permission:fill_in_form: true
+access_permission:modify_annotations: true
+created: 2015-07-08T16:11:13Z
+creator: cfries
+date: 2015-07-08T16:11:13Z
+dc:creator: cfries
+dc:format: application/pdf; version=1.5
+dc:language: en-US
+dc:title: SPACE SHUTTLE MUSIC
+dcterms:created: 2015-07-08T16:11:13Z
+dcterms:modified: 2015-07-08T16:11:13Z
+language: en-US
+meta:author: cfries
+meta:creation-date: 2015-07-08T16:11:13Z
+meta:save-date: 2015-07-08T16:11:13Z
+modified: 2015-07-08T16:11:13Z
+pdf:PDFVersion: 1.5
+pdf:docinfo:created: 2015-07-08T16:11:13Z
+pdf:docinfo:creator: cfries
+pdf:docinfo:creator_tool: Microsoft® Word 2013
+pdf:docinfo:modified: 2015-07-08T16:11:13Z
+pdf:docinfo:producer: Microsoft® Word 2013
+pdf:docinfo:title: SPACE SHUTTLE MUSIC
+pdf:encrypted: false
+producer: Microsoft® Word 2013
+resourceName: working-copy.pdf
+title: SPACE SHUTTLE MUSIC
+xmp:CreatorTool: Microsoft® Word 2013
+xmpTPg:NPages: 89
+
