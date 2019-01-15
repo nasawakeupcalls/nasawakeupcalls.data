@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-"""Stage 1 script for manipulating the NASA wakeup call data."""
+"""Stage 1 script for manipulating the NASA wakeup call data. This script will
+take a document and parse it into sentences as best it can.
+"""
 
 from __future__ import print_function
 from __future__ import unicode_literals
