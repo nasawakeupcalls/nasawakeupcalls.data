@@ -30,18 +30,19 @@ def format_contents(contents):
     return contents.replace("\n", "").replace('\\"', "").strip()
 
 
-def format_and_print_match(section, match_object, line):
-
+def format_and_print_date_match(section, match_object, line):
+    """Output what we know when we receive a new Date match."""
     print("")
-    print("Mission", mission)
-    print("Date", match_object.group(0))
-    contents = line.split(match_object.group(0), 1)
-    if len(contents) == 2:
-        formatted = format_contents(contents[1])
-        print("Contents", formatted)
-    else:
-        print("Error with: {}".format(contents), file=sys.stderr)
-
+    if match_object is not None:
+        print("Mission", mission)
+        print("Date", match_object.group(0))
+        contents = line.split(match_object.group(0), 1)
+        if len(contents) == 2:
+            formatted = format_contents(contents[1])
+            print("Contents", formatted)
+        else:
+            print("Error with: {}".format(contents), file=sys.stderr)
+        print("")
 
 def find_mission(section, line):
 
@@ -49,7 +50,11 @@ def find_mission(section, line):
     apollo = "^APOLLO.[0-9]{1,2}"
     skylab = "^SKYLAB.[0-9]{1}"
     space_shuttle = "^STS-[0-9]{1,3}"
-    missions = [gemini, apollo, skylab, space_shuttle]
+    pathfinder = "^MARS.PATHFINDER"
+    spirit = "^MARS SPIRIT"
+    opportunity = "^MARS OPPORTUNITY"
+    missions = [gemini, apollo, skylab, space_shuttle, pathfinder,
+                spirit, opportunity]
     for miss in missions:
         match = re.match(miss, line)
         if match:
@@ -75,21 +80,26 @@ def split_lines(section, line):
     sol_match = re.match(sol_expr, line)
     military_match = re.match(military_expr, line)
 
-
     # Output depending on what we want to do.
     if date_match:
-        format_and_print_match(
+        format_and_print_date_match(
             section=section, match_object=date_match, line=line)
         return
     elif sol_match:
-        format_and_print_match(
+        format_and_print_date_match(
             section=section, match_object=sol_match, line=line)
         return
-    elif military_match:
-        format_and_print_match(
+    if military_match:
+        print("There should be no military matches now, and it turns out this "
+              "regexx related to an audio time-stamp (possibly!) from the "
+              "mission records.")
+        return
+        # Leave the below for now...
+        format_and_print_date_match(
             section=section, match_object=military_match, line=line)
         return
 
+    '''
     if line.startswith("CAPCOM"):
         capcom = line.split("CAPCOM", 1)[1].replace(":", "").strip().replace("\n", "")
         print("CAPCOM", capcom)
@@ -102,6 +112,7 @@ def split_lines(section, line):
             print(line)
         if line.startswith("######"):
             print("#########################")
+    '''
 
 
 def main():
