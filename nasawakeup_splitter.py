@@ -32,17 +32,31 @@ def format_contents(contents):
 
 def format_and_print_date_match(section, match_object, line):
     """Output what we know when we receive a new Date match."""
-    print("")
+    # print("")
     if match_object is not None:
-        print("Mission", mission)
-        print("Date", match_object.group(0))
+        # print("Mission", mission)
+        # print("Date", match_object.group(0))
         contents = line.split(match_object.group(0), 1)
         if len(contents) == 2:
             formatted = format_contents(contents[1])
-            print("Contents", formatted)
+
+
+            # print("Contents", formatted)
+
+            # Split song if at all possible.
+            test = formatted.split("by", 1)
+            if len(test) == 2:
+                a = 1
+                # print("Song", test[0])
+                # print("Artist", test[1])
+            else:
+                print("Error!", formatted, "\n")
+
+
+
         else:
             print("Error with: {}".format(contents), file=sys.stderr)
-        print("")
+        # print("")
 
 def find_mission(section, line):
 
@@ -60,7 +74,7 @@ def find_mission(section, line):
         if match:
             global mission
             mission = match.group(0)
-            print("Mission", match.group(0))
+            # print("Mission", match.group(0))  # don't need this...
             # print("Dates", line.split(match.group(0), 1)[1].strip())
 
 mission = None
