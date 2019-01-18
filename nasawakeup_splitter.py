@@ -39,24 +39,26 @@ def format_and_print_date_match(section, match_object, line):
         contents = line.split(match_object.group(0), 1)
         if len(contents) == 2:
             formatted = format_contents(contents[1])
-
-
             # print("Contents", formatted)
-
             # Split song if at all possible.
-            test = formatted.split("by", 1)
-            if len(test) == 2:
-                a = 1
-                # print("Song", test[0])
-                # print("Artist", test[1])
+            song_artist = formatted.split("by", 1)
+            if len(song_artist) == 2:
+                # print("Song", song_artist[0])
+                artist_comment = song_artist[1].split("COMMENT:", 1)
+                if len(artist_comment) <= 2:
+                    print("Artist", artist_comment[0])
+                    try:
+                        comment = artist_comment[1]
+                        # print("Comment", comment)
+                    except IndexError:
+                        pass
+                else:
+                    print("Error!", formatted, "\n", file=sys.stderr)
             else:
-                print("Error!", formatted, "\n")
-
-
-
+                print("Error!", formatted, "\n", file=sys.stderr)
         else:
             print("Error with: {}".format(contents), file=sys.stderr)
-        # print("")
+        print("")
 
 def find_mission(section, line):
 
@@ -87,7 +89,6 @@ def split_lines(section, line):
     date_expr = "^[0-9]{1,2}/[0-9]{1,2}/[0-9]{2,4}"
     sol_expr = "^Sol.[0-9]{1,3}.?[0-9]{0,3}:"
     military_expr = "^[0-9]{2}.[0-9]{2}.[0-9]{2}.[0-9]{2}"
-
 
     # Find our matches.
     date_match = re.match(date_expr, line)
