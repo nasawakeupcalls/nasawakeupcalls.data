@@ -41,12 +41,12 @@ def format_and_print_date_match(section, match_object, line):
             formatted = format_contents(contents[1])
             # print("Contents", formatted)
             # Split song if at all possible.
-            song_artist = formatted.split("by", 1)
+            song_artist = formatted.split(" by ", 1)
             if len(song_artist) == 2:
                 # print("Song", song_artist[0])
                 artist_comment = song_artist[1].split("COMMENT:", 1)
                 if len(artist_comment) <= 2:
-                    print("Artist", artist_comment[0])
+                    print("Artist", artist_comment[0].strip())
                     try:
                         comment = artist_comment[1]
                         # print("Comment", comment)
