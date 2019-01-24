@@ -34,8 +34,8 @@ def format_and_print_date_match(section, match_object, line):
     """Output what we know when we receive a new Date match."""
     # print("")
     if match_object is not None:
-        # print("Mission", mission)
-        # print("Date", match_object.group(0))
+        print("Mission", mission)
+        print("Date", match_object.group(0))
         contents = line.split(match_object.group(0), 1)
         if len(contents) == 2:
             formatted = format_contents(contents[1])
@@ -43,15 +43,25 @@ def format_and_print_date_match(section, match_object, line):
             # Split song if at all possible.
             song_artist = formatted.split(" by ", 1)
             if len(song_artist) == 2:
-                # print("Song", song_artist[0])
+                print("Song", song_artist[0])
                 artist_comment = song_artist[1].split("COMMENT:", 1)
                 if len(artist_comment) <= 2:
                     print("Artist", artist_comment[0].strip())
+                    '''
                     try:
-                        comment = artist_comment[1]
-                        # print("Comment", comment)
+                        if "TEAM" in artist_comment[1]:
+                            print(
+                                "Comment", artist_comment[0]
+                                .split("TEAM", 1)[0])
+                            print(
+                                "Team", artist_comment[0]
+                                .split("TEAM", 1)[1])
+                        else:
+                            comment = artist_comment[1]
+                            print("Comment", comment)
                     except IndexError:
                         pass
+                    '''
                 else:
                     print("Error!", formatted, "\n", file=sys.stderr)
             else:
@@ -60,8 +70,9 @@ def format_and_print_date_match(section, match_object, line):
             print("Error with: {}".format(contents), file=sys.stderr)
         print("")
 
-def find_mission(section, line):
 
+def find_mission(section, line):
+    """Function docstring."""
     gemini = "^GEMINI.[0-9]{1,2}"
     apollo = "^APOLLO.[0-9]{1,2}"
     skylab = "^SKYLAB.[0-9]{1}"
@@ -79,7 +90,10 @@ def find_mission(section, line):
             # print("Mission", match.group(0))  # don't need this...
             # print("Dates", line.split(match.group(0), 1)[1].strip())
 
+
+# Global to be used throughout splitter.
 mission = None
+
 
 def split_lines(section, line):
 
