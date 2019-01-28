@@ -32,43 +32,37 @@ def format_contents(contents):
 
 def format_and_print_date_match(section, match_object, line):
     """Output what we know when we receive a new Date match."""
-    # print("")
+    print("")
     if match_object is not None:
-        print("Mission", mission)
-        print("Date", match_object.group(0))
+        print("MISSION:", mission)
+        print("DATE:", match_object.group(0).replace(":", "").strip())
         contents = line.split(match_object.group(0), 1)
         if len(contents) == 2:
             formatted = format_contents(contents[1])
-            # print("Contents", formatted)
             # Split song if at all possible.
             song_artist = formatted.split(" by ", 1)
             if len(song_artist) == 2:
-                print("Song", song_artist[0])
+                print("SONG:", song_artist[0])
                 artist_comment = song_artist[1].split("COMMENT:", 1)
                 if len(artist_comment) <= 2:
-                    print("Artist", artist_comment[0].strip())
-                    '''
+                    print("ARTIST:", artist_comment[0].strip())
                     try:
                         if "TEAM" in artist_comment[1]:
-                            print(
-                                "Comment", artist_comment[0]
-                                .split("TEAM", 1)[0])
-                            print(
-                                "Team", artist_comment[0]
-                                .split("TEAM", 1)[1])
+                            print("COMMENT:", artist_comment[1]\
+                                .split("TEAM", 1)[0].strip())
+                            print("TEAM:", artist_comment[1]\
+                                .split("TEAM", 1)[1].replace(":", "").strip())
                         else:
                             comment = artist_comment[1]
-                            print("Comment", comment)
+                            print("COMMENT:", comment.strip())
                     except IndexError:
                         pass
-                    '''
                 else:
                     print("Error!", formatted, "\n", file=sys.stderr)
             else:
                 print("Error!", formatted, "\n", file=sys.stderr)
         else:
             print("Error with: {}".format(contents), file=sys.stderr)
-        print("")
 
 
 def find_mission(section, line):
@@ -78,17 +72,19 @@ def find_mission(section, line):
     skylab = "^SKYLAB.[0-9]{1}"
     space_shuttle = "^STS-[0-9]{1,3}"
     pathfinder = "^MARS.PATHFINDER"
+    iss = "^INTERNATIONAL SPACE STATION.[(]ISS[)]"
     spirit = "^MARS SPIRIT"
     opportunity = "^MARS OPPORTUNITY"
-    missions = [gemini, apollo, skylab, space_shuttle, pathfinder,
+    missions = [gemini, apollo, skylab, space_shuttle, iss, pathfinder,
                 spirit, opportunity]
     for miss in missions:
         match = re.match(miss, line)
         if match:
+            tmp_mission = match.group(0)
+            if line.startswith("STS-"):
+                tmp_mission = line.split(" ", 1)[0].strip()
             global mission
-            mission = match.group(0)
-            # print("Mission", match.group(0))  # don't need this...
-            # print("Dates", line.split(match.group(0), 1)[1].strip())
+            mission = tmp_mission
 
 
 # Global to be used throughout splitter.
@@ -107,6 +103,9 @@ def split_lines(section, line):
     # Find our matches.
     date_match = re.match(date_expr, line)
     sol_match = re.match(sol_expr, line)
+
+    # Turns out this might not be a military thing after all. May be some sort
+    # of timestamp related to a recording device.
     military_match = re.match(military_expr, line)
 
     # Output depending on what we want to do.
@@ -120,28 +119,43 @@ def split_lines(section, line):
         return
     if military_match:
         print("There should be no military matches now, and it turns out this "
-              "regexx related to an audio time-stamp (possibly!) from the "
-              "mission records.")
+              "regex related to an audio time-stamp (possibly!) from the "
+              "mission records.", file=sys.stderr)
         return
         # Leave the below for now...
         format_and_print_date_match(
             section=section, match_object=military_match, line=line)
         return
 
-    '''
     if line.startswith("CAPCOM"):
         capcom = line.split("CAPCOM", 1)[1].replace(":", "").strip().replace("\n", "")
-        print("CAPCOM", capcom)
+        print("CAPCOM:", capcom)
         return
 
+    if line.startswith("INTRO"):
+        intro = line.split("INTRO", 1)[1].replace(":", "").strip()
+        print("INTRO:", intro)
+        return
+
+    if line.startswith("TIME"):
+        intro = line.split("TIME", 1)[1].replace(":", "").strip()
+        print("TIME:", intro)
+        return
 
     else:
-        return
-        if not line.startswith("-----") and not line.startswith("\n"):
-            print(line)
-        if line.startswith("######"):
-            print("#########################")
-    '''
+        # [n] markup denotes missions with no info and reasons why there is
+        # no info.
+        if line.startswith("[n]"):
+            print(line.strip(), file=sys.stderr)
+        elif line.startswith("######"):
+            """Do nothing."""
+        elif line.startswith("-----"):
+            """Do nothing."""
+        elif line == "\n":
+            """Do nothing."""
+        else:
+            """Do nothing."""
+            #print("{}".format(line.strip()), file=sys.stderr)
 
 
 def main():

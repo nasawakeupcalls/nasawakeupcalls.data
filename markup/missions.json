@@ -100,8 +100,8 @@
 	{
 		"Title": "APOLLO",
 		"Duration": "1960–1972",
-		"FirstFlight": "1966-02-26",
-		"LastFlight": "1968-10-11",
+		"FirstFlight": null,
+		"LastFlight": null,
 		"Sources": [
 			{"Wikipedia": "https://en.wikipedia.org/wiki/Apollo_program"}
 		],
