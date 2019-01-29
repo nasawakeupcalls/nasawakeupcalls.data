@@ -15,6 +15,9 @@ import json
 import sys
 
 
+BOM = False
+
+
 def flush_section(section):
     print(pretty_json(section))
     section.clear()
@@ -32,8 +35,13 @@ def format_contents(contents):
 
 def format_and_print_date_match(section, match_object, line):
     """Output what we know when we receive a new Date match."""
-    print("")
+    global BOM
+    if BOM:
+        print("EOE")
+        print("")
     if match_object is not None:
+        if not BOM:
+            BOM = True
         print("MISSION:", mission)
         date = match_object.group(0).replace(":", "").strip()
         if "sol" in date.lower():
