@@ -35,7 +35,11 @@ def format_and_print_date_match(section, match_object, line):
     print("")
     if match_object is not None:
         print("MISSION:", mission)
-        print("DATE:", match_object.group(0).replace(":", "").strip())
+        date = match_object.group(0).replace(":", "").strip()
+        if "sol" in date.lower():
+            print("SOL:", match_object.group(0).replace(":", "").strip())
+        else:
+            print("DATE:", match_object.group(0).replace(":", "").strip())
         contents = line.split(match_object.group(0), 1)
         if len(contents) == 2:
             formatted = format_contents(contents[1])
