@@ -855,7 +855,12 @@
                 "ARTIST": "Dean Martin",
                 "DATE": "2/8/74",
                 "SONG": "Goin'Back to Houston"
-            },
+            }
+        ]
+    },
+    {
+        "MISSION": "APOLLO-SOYUZ TEST PROJECT (ASTP)",
+        "WakeupCalls": [
             {
                 "ARTIST": "Chicago",
                 "DATE": "7/16/75",

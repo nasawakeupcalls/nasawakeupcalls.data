@@ -36,6 +36,9 @@ def format_contents(contents):
 def format_and_print_date_match(section, match_object, line):
     """Output what we know when we receive a new Date match."""
     global BOM
+    # global capcom
+    # global time
+    global intro
     if BOM:
         print("EOE")
         print("")
@@ -75,7 +78,13 @@ def format_and_print_date_match(section, match_object, line):
                 print("Error!", formatted, "\n", file=sys.stderr)
         else:
             print("Error with: {}".format(contents), file=sys.stderr)
-
+    if BOM:
+        #print("CAPCOM:", capcom)
+        #print("TIME:", time)
+        print("INTRO:", intro)
+        #capcom = None
+        #time = None
+        intro = None
 
 def find_mission(section, line):
     """Function docstring."""
@@ -102,7 +111,9 @@ def find_mission(section, line):
 
 # Global to be used throughout splitter.
 mission = None
-
+# capcom = None
+# time = None
+intro = None
 
 def split_lines(section, line):
 
@@ -140,20 +151,25 @@ def split_lines(section, line):
             section=section, match_object=military_match, line=line)
         return
 
+    # global capcom
+    global intro
+    # global time
+
     if line.startswith("CAPCOM"):
         capcom = line.split("CAPCOM", 1)[1].replace(":", "").strip().replace("\n", "")
         print("CAPCOM:", capcom)
         return
 
+
     if line.startswith("INTRO"):
         intro = line.split("INTRO", 1)[1].replace(":", "").strip()
-        print("INTRO:", intro)
         return
 
     if line.startswith("TIME"):
-        intro = line.split("TIME", 1)[1].replace(":", "").strip()
-        print("TIME:", intro)
+        time = line.split("TIME", 1)[1].replace(":", "").strip()
+        print("TIME:", time)
         return
+
 
     else:
         # [n] markup denotes missions with no info and reasons why there is
