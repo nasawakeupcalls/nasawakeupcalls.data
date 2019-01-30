@@ -81,6 +81,7 @@ def find_mission(section, line):
     """Function docstring."""
     gemini = "^GEMINI.[0-9]{1,2}"
     apollo = "^APOLLO.[0-9]{1,2}"
+    soyuz = "^APOLLO-SOYUZ TEST.PROJECT.[(]ASTP[)]"
     skylab = "^SKYLAB.[0-9]{1}"
     space_shuttle = "^STS-[0-9]{1,3}"
     pathfinder = "^MARS.PATHFINDER"
@@ -88,7 +89,7 @@ def find_mission(section, line):
     spirit = "^MARS SPIRIT"
     opportunity = "^MARS OPPORTUNITY"
     missions = [gemini, apollo, skylab, space_shuttle, iss, pathfinder,
-                spirit, opportunity]
+                soyuz, spirit, opportunity]
     for miss in missions:
         match = re.match(miss, line)
         if match:
