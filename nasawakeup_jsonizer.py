@@ -69,14 +69,20 @@ def split_lines(line):
         tertiary_dict["MISSION"] = line_
         return
     if line.startswith("INTRO"):
-        tertiary_dict["INTRO"] = \
-            line.replace("INTRO", "", 1).replace('"', "").replace(":", "").strip()
+        intro = line.replace("INTRO", "", 1).replace('"', "").replace(":", "").strip()
+        if intro.lower() != "none":
+            tertiary_dict["INTRO"] = intro
         return
     for value in vals:
         if line.startswith(value):
-            secondary_dict[value] = \
-                line.replace(value, "", 1).replace('"', "").replace(":", "").strip()
-            return
+            output = line.replace(value, "", 1).replace('"', "").replace(":", "").strip()
+            if value == "COMMENT":
+                if output != "n/a":
+                    secondary_dict[value] = output
+                return
+            else:
+                secondary_dict[value] = output
+                return
     if line.startswith("EOE"):
         try:
             tertiary_dict["Title"] = secondary_dict["MISSION"]
