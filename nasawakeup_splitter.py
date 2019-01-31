@@ -206,6 +206,7 @@ def main():
     except IOError:
         print("IOError: Problem parsing file %s", args.file[0])
 
+    print("EOE")
 
 if __name__ == "__main__":
     main()

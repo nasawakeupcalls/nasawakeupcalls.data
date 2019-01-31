@@ -7531,17 +7531,19 @@ EOE
 
 MISSION: STS-107
 DATE: 1/16/2003
-SONG: Blue Team - "EMA EMA"
+SONG: "EMA EMA"
 ARTIST: UNKNOWN
 COMMENT: Dedicated to Dave Brown. PC
+TEAM: Blue Team
 INTRO: The crew worked two shifts around the clock but Mission Control sent wakeup calls anyway.
 EOE
 
 MISSION: STS-107
 DATE: 1/16/2003
-SONG: Red Team - "America, the Beautiful"
+SONG: "America, the Beautiful"
 ARTIST: the Texas Elementary Honors choir
 COMMENT: with Rick Husband's daughter, Laura
+TEAM: Red Team
 INTRO: None
 EOE
 
@@ -11117,7 +11119,7 @@ ARTIST: Woody Guthrie.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 2
 SONG: So Happy Together,
 ARTIST: the Turtles
@@ -11125,7 +11127,7 @@ COMMENT: First full sol with both rovers on Mars.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 3
 SONG: The Spirit of Radio,
 ARTIST: Rush
@@ -11133,7 +11135,7 @@ COMMENT: HGA release.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 4
 SONG: UNKNOWN
 ARTIST: UNKNOWN
@@ -11141,7 +11143,7 @@ COMMENT: original manuscript listed n/a so perhaps no song was plaued, RS
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 5
 SONG: Stand,
 ARTIST: REM; I'm Still Standing, by Elton John
@@ -11149,7 +11151,7 @@ COMMENT: Standup.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 6
 SONG: Lookin' Out My Back Door,
 ARTIST: Creedence Clearwater
@@ -11157,7 +11159,7 @@ COMMENT: Revival.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 6
 SONG: Release Me,
 ARTIST: Elvis Presley
@@ -11165,7 +11167,7 @@ COMMENT: Middle wheel release
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 6
 SONG: Born to Run,
 ARTIST: Bruce Springsteen
@@ -11173,7 +11175,7 @@ COMMENT: Wake up.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 7
 SONG: I'm Free,
 ARTIST: The Who
@@ -11181,7 +11183,7 @@ COMMENT: Cable Cut '#3'
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 7
 SONG: Going Mobile,
 ARTIST: The Who
@@ -11189,7 +11191,7 @@ COMMENT: Egress.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 8
 SONG: You Ain't Seen Nothing Yet,
 ARTIST: Bachman-Turner Overdrive
@@ -11197,7 +11199,7 @@ COMMENT: First dual surface nominal rover operation.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 9
 SONG: I'm Coiming Out,
 ARTIST: Diana Ross
@@ -11205,7 +11207,7 @@ COMMENT: IDD release.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 10
 SONG: Pictures of You,
 ARTIST: The Cure
@@ -11213,7 +11215,7 @@ COMMENT: First MI image.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 11
 SONG: Please Please Tell Me Know,
 ARTIST: Depeche Mode
@@ -11221,7 +11223,7 @@ COMMENT: First MB data readout of soil.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 12
 SONG: I'm Leaving Here,
 ARTIST: Motorhead
@@ -11229,7 +11231,7 @@ COMMENT: First drive since egress.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 13
 SONG: Little Honda (aka First Gear),
 ARTIST: the Beach Boys
@@ -11237,7 +11239,7 @@ COMMENT: Jaunt away from lander.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 14
 SONG: Should I Stay or Should I Go
 ARTIST: The Clash
@@ -11245,7 +11247,7 @@ COMMENT: We went.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 15
 SONG: The Flintstones Theme Song, end credits, Version 2 from 1962
 ARTIST: UNKNOWN
@@ -11253,7 +11255,7 @@ COMMENT: (For the arrival at the "bedrock.")
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 16
 SONG: Slip Slidin' Away,
 ARTIST: Paul Simon
@@ -11261,7 +11263,7 @@ COMMENT: Large slips along drive up to the outcrop.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 17
 SONG: Wake Me Up,
 ARTIST: Wham
@@ -11269,7 +11271,7 @@ COMMENT: Touch and go.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 18
 SONG: Running Down a Dream,
 ARTIST: Tom Petty and the Heartbreakers
@@ -11277,7 +11279,7 @@ COMMENT: Drive along the outcrop.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 19
 SONG: Here I Go Again,
 ARTIST: Whitesnake
@@ -11285,7 +11287,7 @@ COMMENT: Repeat of sol 18 drive objective.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 20
 SONG: I Like Dirt,
 ARTIST: Red Hot Chili Peppers
@@ -11293,7 +11295,7 @@ COMMENT: MI/MB and drive.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 20
 SONG: The Pioneers of Mars,
 ARTIST: Landa/Linsley
@@ -11301,14 +11303,14 @@ COMMENT: MI/MB and drive.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 21
 SONG: Send Me On My Way,
 ARTIST: Rusted Root
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 21
 SONG: Desert Drive,
 ARTIST: Tangerine Dream
@@ -11316,7 +11318,7 @@ COMMENT: Drive back to El Capitan.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 22
 SONG: Invisible Touch,
 ARTIST: Genesis
@@ -11324,7 +11326,7 @@ COMMENT: MI-MB placement.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 23
 SONG: Spinning Wheel,
 ARTIST: Blood, Sweat, and Tears
@@ -11332,7 +11334,7 @@ COMMENT: Right front trenching wheel.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 24
 SONG: Trench Town Rock,
 ARTIST: Bob Marley
@@ -11340,7 +11342,7 @@ COMMENT: Make use of the trench.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 25
 SONG: Fascination,
 ARTIST: Human League
@@ -11348,7 +11350,7 @@ COMMENT: Regarding the img return from the trench.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 26
 SONG: Body Movin',
 ARTIST: the Beastie Boys
@@ -11356,7 +11358,7 @@ COMMENT: Every rover part exercised.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 27
 SONG: Touch and Go,
 ARTIST: Emerson, Lake and Powell
@@ -11364,7 +11366,7 @@ COMMENT: Touch and go.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 28
 SONG: I am a Rock,
 ARTIST: Simon and Garfunkel
@@ -11372,7 +11374,7 @@ COMMENT: El Capitan target assessment.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 29
 SONG: Riders on the Storm,
 ARTIST: the Doors
@@ -11380,7 +11382,7 @@ COMMENT: Heavy weather at DSS-63 and DSS-14.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 30
 SONG: Rock 'n Me,
 ARTIST: Steve Miller Band
@@ -11388,7 +11390,7 @@ COMMENT: 1st RAT on opportunity.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 31
 SONG: Rock around the Clock,
 ARTIST: Bill Haley and His Comets
@@ -11396,7 +11398,7 @@ COMMENT: APXS/MB.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 32
 SONG: Let It Be,
 ARTIST: the Beatles
@@ -11404,7 +11406,7 @@ COMMENT: Long MB integration -- no IDD or mobility.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 33
 SONG: Blueberry Hill
 ARTIST: Fats Domino
@@ -11412,35 +11414,35 @@ COMMENT: in honor of the hill in front of the rover.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 34
 SONG: Dig In
 ARTIST: Lenny Kravitz.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 35
 SONG: I Can See Clearly Now
 ARTIST: Jimmy Cliff.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 36
 SONG: Rock Steady
 ARTIST: Sting.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 37
 SONG: Let's Go
 ARTIST: the Cars.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 38
 SONG: Have You Ever Seen the Rain?
 ARTIST: Creedence Clearwater Revival
@@ -11448,7 +11450,7 @@ COMMENT: in honor of the confirmation that liquid water once flowed through the 
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 39
 SONG: "Bad Moon Rising"
 ARTIST: Creedence Clearwater Revival
@@ -11456,14 +11458,14 @@ COMMENT: in honor of the eclipse caused by the Martian moon Deimos.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 41
 SONG: On the Road Again
 ARTIST: Willie Nelson.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 43
 SONG: "You Can Look (But You Better Not Touch)"
 ARTIST: Bruce Springsteen
@@ -11471,7 +11473,7 @@ COMMENT: in recognition of the fact that the rock abrasion tool grind did not to
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 44
 SONG: "Try (Just a Little Bit Harder)"
 ARTIST: Janis Joplin
@@ -11479,7 +11481,7 @@ COMMENT: for the rock abrasion tool's second attempt at "Mojo 2,"
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 44
 SONG: "X-ray Eyes"
 ARTIST: Kiss
@@ -11487,7 +11489,7 @@ COMMENT: for the alpha particle X-ray spectrometer.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 45
 SONG: "Eclipse"
 ARTIST: Pink Floyd
@@ -11495,7 +11497,7 @@ COMMENT: in recognition of the transit of the martian moon, Phobos.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 45
 SONG: "Meet Me Halfway"
 ARTIST: Kenny Loggins,
@@ -11503,7 +11505,7 @@ COMMENT: the second song, was played because Opportunity is halfway through its 
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 46
 SONG: "Berry Nice News"
 ARTIST: Raffi
@@ -11511,7 +11513,7 @@ COMMENT: in honor of researching the mysterious "blueberries" with the instrumen
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 46
 SONG: "Huckling the Berries"
 ARTIST: Country Cooking
@@ -11519,7 +11521,7 @@ COMMENT: in honor of researching the mysterious "blueberries" with the instrumen
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 47
 SONG: "No Particular Place to Go"
 ARTIST: Chuck Berry
@@ -11527,14 +11529,14 @@ COMMENT: in recognition of the stay at "Berry Bowl."
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 48
 SONG: Jaws: Main Title / Fist Victim
 ARTIST: John Williams.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 50
 SONG: The Dentist
 ARTIST: Bill Cosby
@@ -11542,14 +11544,14 @@ COMMENT: in honor of the toothy targets in "Shark's Cage."
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 51
 SONG: Song of the South
 ARTIST: Alabama.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 53
 SONG: Ice Cream Man
 ARTIST: John Brim
@@ -11557,28 +11559,28 @@ COMMENT: woke Opportunity this sol to remind it of the possible sweet treats tha
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 54
 SONG: I Feel The Earth Move"
 ARTIST: Carole King.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 56
 SONG: Fly Like an Eagle
 ARTIST: the Steve Miller Band.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 57
 SONG: "If You Don't Get it the First Time, Back Up and Try it Again"
 ARTIST: the JBs and Fred Wesley.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 58
 SONG: "Come on Home"
 ARTIST: Lambert, Hendricks and Ross
@@ -11586,35 +11588,35 @@ COMMENT: beckoned Opportunity back toward its landing site crater to an area of 
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 59
 SONG: "59th Street Bridge Song (Feeling Groovy)"
 ARTIST: Simon and Garfunkel.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 60
 SONG: "The Circle of Life"
 ARTIST: Elton John in honor of the Lion King panorama.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 64
 SONG: "Stand"
 ARTIST: REM.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 65
 SONG: "Back in the Saddle"
 ARTIST: Aerosmith.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 66
 SONG: "Bounce"
 ARTIST: Bon Jovi.
@@ -11622,21 +11624,21 @@ COMMENT: Opportunity's rock abrasion tool ground into "Bounce" for just over two
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 67
 SONG: "Changes"
 ARTIST: David Bowie.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 68
 SONG: "Got to Go Back"
 ARTIST: Van Morrison.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 69
 SONG: "Little Maggie"
 ARTIST: Tom Adams
@@ -11644,21 +11646,21 @@ COMMENT: chosen for the soil target named "Maggie."
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 70
 SONG: "Truckin'"
 ARTIST: The Greatful Dead.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 72
 SONG: "The Wanderer"
 ARTIST: Dion and the Belmonts.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 73
 SONG: "Let the Good Times Roll"
 ARTIST: B.B. King
@@ -11666,7 +11668,7 @@ COMMENT: a nod to Spirit's successful primary mission of 91 sols and a call for 
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 79
 SONG: "Teenage Lobotomy"
 ARTIST: Ramones
@@ -11674,7 +11676,7 @@ COMMENT: Opportunity began operating with new flight software.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 82
 SONG: "I Would Walk 500 Miles,"
 ARTIST: Less Than Jake
@@ -11682,7 +11684,7 @@ COMMENT: originally by the Proclaimers
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 85
 SONG: "Take Me Out to the Ball Game!"
 ARTIST: Jack Norworth
@@ -11690,22 +11692,23 @@ COMMENT: in honor of all the baseball-related target names chosen this sol.
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 101-102
 SONG: "Morning has Broken"
 ARTIST: Cat Stevens;
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 101-102
 SONG: "Hallelujah Chorus" from George Frederic Handel's Messiah
 ARTIST: Handel
 INTRO: None
 EOE
 
-MISSION: MARS SPIRIT
+MISSION: MARS OPPORTUNITY
 SOL: Sol 101-102
 SONG: "Dazed and Confused"
 ARTIST: Led Zeppelin.
 INTRO: None
+EOE
