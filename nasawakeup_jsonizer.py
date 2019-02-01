@@ -33,6 +33,13 @@ wakeup_calls_arr = []
 date_dict = {}
 
 
+def process_and_print_primary_arr(primary_arr):
+    """Pre-process the output once it has been formatted into JSON the first
+    time around.
+    """
+    print(pretty_json(primary_arr))
+
+
 def split_lines(line):
     """Go through each line and build our dictionary."""
     global tertiary_dict
@@ -54,12 +61,14 @@ def split_lines(line):
             .replace('"', "").replace(":", "", 1).strip()
         try:
             if tertiary_dict["MISSION"] != line_:
+
                 if wakeup_calls_arr:
                     tertiary_dict["WakeupCalls"] = wakeup_calls_arr
                     wakeup_calls_arr = []
                     primary_arr.append(tertiary_dict)
                     tertiary_dict = {}
                     pass
+
         except KeyError:
             pass
         tertiary_dict["MISSION"] = line_
@@ -74,13 +83,16 @@ def split_lines(line):
         if line.startswith(value):
             output = line.replace(value, "", 1)\
                 .replace('"', "").replace(":", "", 1).strip()
+
+
             if value == "DATE" or value == "SOL":
+
                 if output not in date_dict:
-                    # TODO: convert sol to datetime...
                     date_dict[output] = []
                 if value == "SOL":
                     secondary_dict[value] = output
                 return
+
 
             if value == "COMMENT":
                 if output != "n/a":
@@ -89,11 +101,14 @@ def split_lines(line):
             else:
                 secondary_dict[value] = output
                 return
+
     if line.startswith("EOE"):
         try:
             tertiary_dict["Title"] = secondary_dict["MISSION"]
         except KeyError:
             pass
+        # The secondary dict stores a single wake-up call and we get one per
+        # EOE and that gets added to the date dictionary which is per day.
         if secondary_dict:
             if date_dict:
                 for d_ in date_dict:
@@ -141,7 +156,8 @@ def main():
     if wakeup_calls_arr:
         tertiary_dict["WakeupCalls"] = wakeup_calls_arr
         primary_arr.append(tertiary_dict)
-    print(pretty_json(primary_arr))
+
+    process_and_print_primary_arr(primary_arr)
 
 
 if __name__ == "__main__":
