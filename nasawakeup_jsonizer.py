@@ -13,12 +13,6 @@ import json
 import sys
 
 
-def flush_section(section):
-    print(pretty_json(section))
-    section.clear()
-    return {}
-
-
 def pretty_json(dict_data):
     return json.dumps(
         dict_data, sort_keys=True, indent=4, separators=(',', ': '))
@@ -32,11 +26,70 @@ wakeup_calls_arr = []
 
 date_dict = {}
 
+# Consts to create the dictionary keys.
+INTRO = "Introduction"
+MISSION = "Mission"
+WAKEUPCALLS = "WakeupCalls"
+COMMENT = "Comment"
+IBID = "Ibid."
+
+
+def convert_to_iso(day):
+    """Do a string based conversion to an ISO-ish date."""
+    if day.lower().startswith("sol"):
+        return day
+    day_ = day.replace("-", "/")
+    mm, dd, yy = day_.split("/", 2)
+    if len(mm) == 1:
+        mm = "0{}".format(mm)
+    if len(dd) == 1:
+        dd = "0{}".format(dd)
+    if int(yy) >= 65 and int(yy) <= 99:
+        return "19{}-{}-{}".format(yy, mm, dd)
+    elif len(yy) == 4:
+        return "{}-{}-{}".format(yy, mm, dd)
+    else:
+        return "20{}-{}-{}".format(yy, mm, dd)
+
+
+def fix_date(date_):
+    """Function docstring"""
+    for day, songs in date_.items():
+        new_day = convert_to_iso(day)
+        date_[new_day] = date_.pop(day)
+        return
+
+
+def de_dupe_comments(day, songs):
+    """De-dupe comments in a fairly sensible way for the output."""
+    if len(songs) == 1:
+        return
+    comment_a = None
+    for song in songs:
+        try:
+            comment_b = song[COMMENT]
+        except KeyError:
+            continue
+        if comment_b != comment_a:
+            comment_a = comment_b
+            continue
+        if comment_b == comment_a:
+            song[COMMENT] = IBID
+
 
 def process_and_print_primary_arr(primary_arr):
     """Pre-process the output once it has been formatted into JSON the first
     time around.
     """
+
+    for mission in primary_arr:
+        wakeupcalls = mission[WAKEUPCALLS]
+        # We have a group of calls here. De-dupe comments.
+        for date_ in wakeupcalls:
+            fix_date(date_)
+            for day, song in date_.items():
+                de_dupe_comments(day, song)
+
     print(pretty_json(primary_arr))
 
 
@@ -60,10 +113,10 @@ def split_lines(line):
         line_ = line.replace("MISSION", "", 1)\
             .replace('"', "").replace(":", "", 1).strip()
         try:
-            if tertiary_dict["MISSION"] != line_:
+            if tertiary_dict[MISSION] != line_:
 
                 if wakeup_calls_arr:
-                    tertiary_dict["WakeupCalls"] = wakeup_calls_arr
+                    tertiary_dict[WAKEUPCALLS] = wakeup_calls_arr
                     wakeup_calls_arr = []
                     primary_arr.append(tertiary_dict)
                     tertiary_dict = {}
@@ -71,32 +124,27 @@ def split_lines(line):
 
         except KeyError:
             pass
-        tertiary_dict["MISSION"] = line_
+        tertiary_dict[MISSION] = line_
         return
     if line.startswith("INTRO"):
         intro = line.replace("INTRO", "", 1)\
             .replace('"', "").replace(":", "", 1).strip()
         if intro.lower() != "none":
-            tertiary_dict["INTRO"] = intro
+            tertiary_dict[INTRO] = intro
         return
     for value in vals:
         if line.startswith(value):
             output = line.replace(value, "", 1)\
                 .replace('"', "").replace(":", "", 1).strip()
-
-
             if value == "DATE" or value == "SOL":
-
                 if output not in date_dict:
                     date_dict[output] = []
                 if value == "SOL":
                     secondary_dict[value] = output
                 return
-
-
             if value == "COMMENT":
                 if output != "n/a":
-                    secondary_dict[value] = output
+                    secondary_dict[COMMENT] = output
                 return
             else:
                 secondary_dict[value] = output
@@ -104,7 +152,7 @@ def split_lines(line):
 
     if line.startswith("EOE"):
         try:
-            tertiary_dict["Title"] = secondary_dict["MISSION"]
+            tertiary_dict["Title"] = secondary_dict[MISSION]
         except KeyError:
             pass
         # The secondary dict stores a single wake-up call and we get one per
