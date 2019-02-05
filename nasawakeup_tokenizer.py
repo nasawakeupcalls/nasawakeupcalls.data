@@ -38,7 +38,8 @@ def process_tokenized(data):
 
 def main():
     """Primary entry point of the script."""
-    parser = argparse.ArgumentParser(description='Process the NASA wakeup calls.')
+    parser = argparse.ArgumentParser(
+        description='Process the NASA wakeup calls.')
     parser.add_argument('file', metavar='FILE', type=str, nargs=1,
                         help='wakeup call file to process')
 

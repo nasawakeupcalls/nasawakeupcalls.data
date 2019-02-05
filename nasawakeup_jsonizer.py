@@ -3,6 +3,11 @@
 
 """Stage 3 script for turning the primary dataset into something more JSON like
 to see what we've got!
+
+$ python3 nasawakeup_jsonizer.py \
+    markup/flat-song-list \
+    > markup/missions_temp.json
+
 """
 
 from __future__ import print_function
@@ -81,7 +86,6 @@ def process_and_print_primary_arr(primary_arr):
     """Pre-process the output once it has been formatted into JSON the first
     time around.
     """
-
     for mission in primary_arr:
         wakeupcalls = mission[WAKEUPCALLS]
         # We have a group of calls here. De-dupe comments.

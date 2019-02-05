@@ -4,6 +4,13 @@
 """Stage 2 script for manipulating the NASA wakeup call data. This script will
 convert date and line delineated data into some sort of JSON structure that as
 yet is unknown and will evolve with the data.
+
+$ python3 nasawakeup_splitter.py \
+    markup/missions.log > markup/flat-song-list
+
+$ python3 nasawakeup_splitter.py \
+    markup/missions.log 2> markup/unformatted-output
+
 """
 
 from __future__ import print_function
@@ -189,7 +196,8 @@ def split_lines(section, line):
 
 def main():
     """Primary entry point of the script."""
-    parser = argparse.ArgumentParser(description='Process the NASA wakeup calls.')
+    parser = argparse.ArgumentParser(
+        description='Process the NASA wakeup calls.')
     parser.add_argument('file', metavar='FILE', type=str, nargs=1,
                         help='wakeup call file to process')
 
