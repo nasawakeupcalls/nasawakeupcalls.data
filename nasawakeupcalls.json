@@ -27,6 +27,18 @@
             "LastFlight": "1966-11-11",
             "Missions": [
                 {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 3"
+                },
+                {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 4"
+                },
+                {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 5"
+                },
+                {
                     "Mission": "GEMINI 6",
                     "WakeupCalls": [
                         {
@@ -180,6 +192,10 @@
                     ]
                 },
                 {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 8"
+                },
+                {
                     "Mission": "GEMINI 9",
                     "WakeupCalls": [
                         {
@@ -211,6 +227,14 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 10"
+                },
+                {
+                    "Commentary": "NOTHING FOUND",
+                    "Title": "Gemini 11"
                 },
                 {
                     "Mission": "GEMINI 12",
@@ -1685,6 +1709,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-9",
+                    "MissionDates": "November 28-December 8, 1983",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-41-B",
                     "WakeupCalls": [
                         {
@@ -2064,6 +2094,12 @@
                     ]
                 },
                 {
+                    "Introduction": "DoD Classified Mission with news blackout - NOTHING FOUND",
+                    "Mission": "STS-51-C",
+                    "MissionDates": "January 24-27, 1985",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-51-D",
                     "WakeupCalls": [
                         {
@@ -2125,6 +2161,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-51-B",
+                    "MissionDates": "April 29-May 6, 1985",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-51-G",
@@ -2222,6 +2264,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The flight crew was divided into a red and blue team. Each team worked 12-hour shifts for 24-hour-a-day operation. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-51-F",
+                    "MissionDates": "July 29-August 6, 1985",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-51-I",
                     "WakeupCalls": [
                         {
@@ -2290,6 +2338,18 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "DoD Classified Mission with news blackout - NOTHING FOUND",
+                    "Mission": "STS-51-J",
+                    "MissionDates": "October 3-7, 1985",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-61-A",
+                    "MissionDates": "October 30-November 6, 1985",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-61-B",
@@ -2423,6 +2483,13 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Additional": "Challenger's primary and secondary 'O-rings' failed during lift-off. The O-rings were developed by NASA's rocket scientists to create a seal between the outside layers of the rocket and its fuel. With this seal failing, super-heated rocket-fuel escaped from the rocket and as ground-control radioed \"throttle-up Challenger\" the spaceship would explode and the shuttle and its crew were doomed. Space Shuttle Challenger did not achieve orbit on January 28 1986. The lives of those on-board challenger would not be forgotten.",
+                    "Introduction": "DID NOT ACHIEVE ORBIT",
+                    "Mission": "STS-51-L",
+                    "MissionDates": "January 28, 1986",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-26",
@@ -2642,6 +2709,12 @@
                     ]
                 },
                 {
+                    "Introduction": "DoD Classified Mission - NOTHING FOUND",
+                    "Mission": "STS-28",
+                    "MissionDates": "August 8-13, 1989",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-34",
                     "WakeupCalls": [
                         {
@@ -2718,6 +2791,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "DoD Classified Mission - NOTHING FOUND",
+                    "Mission": "STS-33",
+                    "MissionDates": "November 22-27, 1989",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-32",
@@ -2835,6 +2914,12 @@
                     ]
                 },
                 {
+                    "Introduction": "DoD Classified Mission - NOTHING FOUND",
+                    "Mission": "STS-36",
+                    "MissionDates": "February 28-March 4, 1990",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-31",
                     "WakeupCalls": [
                         {
@@ -2934,6 +3019,18 @@
                     ]
                 },
                 {
+                    "Introduction": "DoD Classified Mission - NOTHING FOUND",
+                    "Mission": "STS-38",
+                    "MissionDates": "November 15-20, 1990",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-35",
+                    "MissionDates": "December 2-10, 1990",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-37",
                     "WakeupCalls": [
                         {
@@ -2991,6 +3088,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-39",
+                    "MissionDates": "April 28-May 6, 1991",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-40",
@@ -3274,6 +3377,18 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-42",
+                    "MissionDates": "January 22-30, 1992",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-45",
+                    "MissionDates": "March 24-April 2, 1992",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-49",
@@ -3562,6 +3677,18 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-56",
+                    "MissionDates": "April 8-17, 1993",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-55",
+                    "MissionDates": "April 26-May 6, 1993",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-57",
                     "WakeupCalls": [
                         {
@@ -3653,6 +3780,24 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-50",
+                    "MissionDates": "June 25-July 9, 1992",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-46",
+                    "MissionDates": "July 31-August 8, 1992",
+                    "WakeupCalls": null
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-47",
+                    "MissionDates": "September 12-20, 1992",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-51",
@@ -4186,6 +4331,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-65",
+                    "MissionDates": "July 8-23, 1994",
+                    "WakeupCalls": null
+                },
+                {
                     "Introduction": "The high number of Max Q songs was in honor of mission specialist Susan Helms, a keyboardist for the all-astronaut band. PC",
                     "Mission": "STS-64",
                     "WakeupCalls": [
@@ -4296,6 +4447,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-66",
+                    "MissionDates": "November 3-14, 1994",
+                    "WakeupCalls": null
+                },
+                {
                     "Introduction": "The high number of Max Q songs was in honor of commander Jim Wetherbee, the drummer for the band. PC",
                     "Mission": "STS-63",
                     "WakeupCalls": [
@@ -4368,6 +4525,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-67",
+                    "MissionDates": "March 2-18, 1995",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-71",
@@ -4623,6 +4786,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-73",
+                    "MissionDates": "October 20-November 5, 1995",
+                    "WakeupCalls": null
+                },
+                {
                     "Mission": "STS-74",
                     "WakeupCalls": [
                         {
@@ -4762,6 +4931,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-75",
+                    "MissionDates": "February 22-March 9, 1996",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-76",
@@ -5548,6 +5723,12 @@
                     ]
                 },
                 {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-83",
+                    "MissionDates": "April 4-8, 1997",
+                    "WakeupCalls": null
+                },
+                {
                     "Introduction": "This particular mission set a record for the number of different countries where people were born, Precourt, Collins, and Lu in the United States, Kondakova in Russia, Clervoy in France (representing ESA), and Foale in England and Noreiga in Peru. Of course, Foale and Noriega are both naturalized U.S. citizens and didn't represent their birth countries. Hence the large number of national anthems. PC",
                     "Mission": "STS-84",
                     "WakeupCalls": [
@@ -5634,6 +5815,12 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "Introduction": "The crew worked two shifts around the clock. Therefore, no wakeup calls were sent.",
+                    "Mission": "STS-94",
+                    "MissionDates": "July 1-17, 1997",
+                    "WakeupCalls": null
                 },
                 {
                     "Mission": "STS-85",
@@ -8599,6 +8786,7 @@
                     ]
                 },
                 {
+                    "Additional": "On lift-off, Space Shuttle Columbia, the first of the fleet to reach space in the 80's suffered damage to its left-wing. We would not learn that this damage was catastrophic until re-entry into the earth's atmosphere on February 1 2003. Space-shuttle Columbia suffered systemic failures throughout its descent before mission control finally lost contact with flight-commander Rick Husband and crew. Space Shuttle Columbia broke-apart over Texas in the early hours of the morning. Its crew would not return.",
                     "Introduction": "The crew worked two shifts around the clock but Mission Control sent wakeup calls anyway.",
                     "Mission": "STS-107",
                     "WakeupCalls": [
