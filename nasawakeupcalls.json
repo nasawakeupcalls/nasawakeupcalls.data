@@ -13703,9 +13703,12 @@
                     "Mission": "NEW HORIZONS",
                     "WakeupCalls": [
                         {
-                            "Artist": "Russell Watson",
-                            "Date": "2014-12-06",
-                            "Song": "Faith of the Heart"
+                            "2014-12-06": [
+                                {
+                                    "ARTIST": "Russell Watson",
+                                    "SONG": "Faith of the Heart"
+                                }
+                            ]
                         }
                     ]
                 }
