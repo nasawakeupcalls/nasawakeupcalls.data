@@ -1271,7 +1271,7 @@
                                 {
                                     "ARTIST": "n/a",
                                     "Comment": "Short excerpt from an old Spike Jones record followed by a comic tape with voices of Houston DJs Hudson and Harrigan kidding Young and Crippen, then  Reveille. It's splashdown, and Crip, you could both use a shower, said one member of the radio team. You've waited for this for 12 years and if you don't wake up you're going to miss the whole darn thing. Crip, said one voice, get out of the rack. No, no, no, said the other. If he wakes up he'll spill coffee all over the controls. Get to work, you guys. You've got 300 government agencies out there to support. Then Mission Control came back on the line. Now hear this, now hear this, reveille, reveille, up all idlers. And that last wakeup call, we'd like you to scratch out 'splashdown' and insert 'touchdown,' said Mission Control.",
-                                    "SONG": "n/a"
+                                    "SONG": "Reveille"
                                 }
                             ]
                         }
@@ -2055,28 +2055,49 @@
                         {
                             "1984-11-13": [
                                 {
-                                    "ARTIST": "n/a",
+                                    "ARTIST": "Bizet",
                                     "Comment": "Aria from the opera Carmen followed by an excerpt from Tchaikovsky's 1812 Overture. Crew did not hear wakeup call. They play Listen to the Music for Houston Mission Control.",
-                                    "SONG": "n/a"
+                                    "SONG": "Aria from Carmen"
+                                },
+                                {
+                                    "ARTIST": "Tchaikovsky",
+                                    "Comment": "Ibid.",
+                                    "SONG": "Excerpt from 1812 Overture"
+                                },
+                                {
+                                    "ARTIST": "Doobie Brothers",
+                                    "Comment": "Ibid.",
+                                    "SONG": "Listen to the Music"
                                 }
                             ]
                         },
                         {
                             "1984-11-14": [
                                 {
-                                    "ARTIST": "n/a",
+                                    "ARTIST": "Ennio Morricone",
                                     "CAPCOM": "Bob Springer",
                                     "Comment": "Theme from the movie, For a Few Dollars More followed by Stars and Stripes Forever Bob Springer told the crew, It's a tribute to the day's activities. Springer referred to the fact that originally one group of insurance companies had agreed to pay NASA $4.8 million to retrieve only the Palapa payload. But two months ago, another group of underwriters signed up for the Westar salvage and NASA said it would do both jobs for a total of $5.5 million. Chicago Tribune 11/15/84",
-                                    "SONG": "n/a"
+                                    "SONG": "For a Few Dollars More"
+                                },
+                                {
+                                    "ARTIST": "n/a",
+                                    "CAPCOM": "Bob Springer",
+                                    "Comment": "Ibid.",
+                                    "SONG": "Stars and Stripes Forever"
                                 }
                             ]
                         },
                         {
                             "1984-11-15": [
                                 {
-                                    "ARTIST": "n/a",
+                                    "ARTIST": "Elton John",
                                     "Comment": "Composite tape of one line from several songs put together by Kevin Mathews, LAV FM97 in Grand Rapids, Michigan. Crew responded with Rocket Man (I Think It's Going To Be a Long, Long Time) by Elton John and Theme from 'Chariots of Fire' by Vangelis.",
-                                    "SONG": "n/a"
+                                    "SONG": "Rocket Man (I Think It's Going To Be a Long, Long Time)"
+                                },
+                                {
+                                    "ARTIST": "Vangelis",
+                                    "Comment": "Ibid.",
+                                    "SONG": "Chariots of Fire"
                                 }
                             ]
                         },
@@ -2087,7 +2108,7 @@
                                     "SONG": "Theme from TV show Peter Gunn"
                                 },
                                 {
-                                    "ARTIST": "the Crew",
+                                    "ARTIST": "Shuttle Crew",
                                     "Comment": "The crew responded to the theme by singing an a-cappella version of Amazing Grace.",
                                     "SONG": "Amazing Grace"
                                 }
@@ -4427,7 +4448,7 @@
                                 {
                                     "ARTIST": "n/a",
                                     "Comment": "Sounds of chirping birds and a crowing rooster and a medley of cartoon theme songs including Woody Woodpecker.",
-                                    "SONG": "n/a"
+                                    "SONG": "Cartoon Theme Medley"
                                 }
                             ]
                         }
@@ -4683,9 +4704,9 @@
                         {
                             "1995-07-19": [
                                 {
-                                    "ARTIST": "n/a",
+                                    "ARTIST": "UNKNOWN",
                                     "Comment": "Unknown.",
-                                    "SONG": "n/a"
+                                    "SONG": "UNIDENTIFIED"
                                 }
                             ]
                         },
@@ -5401,10 +5422,10 @@
                                     "SONG": "Roll With the Changes"
                                 },
                                 {
-                                    "ARTIST": "n/a",
+                                    "ARTIST": "Phil Collins",
                                     "CAPCOM": "Bill McArthur",
                                     "Comment": "Some Phil Collins/Genesis",
-                                    "SONG": "n/a"
+                                    "SONG": "UNIDENTIFIED"
                                 }
                             ]
                         },
@@ -13002,7 +13023,7 @@
                             "Sol 4": [
                                 {
                                     "ARTIST": "UNKNOWN",
-                                    "Comment": "original manuscript listed n/a so perhaps no song was plaued, RS",
+                                    "Comment": "original manuscript listed n/a so perhaps no song was played, RS",
                                     "SOL": "Sol 4",
                                     "SONG": "UNKNOWN"
                                 }
