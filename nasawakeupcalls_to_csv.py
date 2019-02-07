@@ -10,6 +10,7 @@ program_arr = []
 missions_arr = []
 artists_arr = []
 songs_arr = []
+comment_arr = []
 
 
 def pretty_json(dict_data):
@@ -31,6 +32,7 @@ def output_rows(program, mission):
                 missions_arr.append(name)
                 artists_arr.append(song["ARTIST"])
                 songs_arr.append(song["SONG"])
+                comment_arr.append(song.get("Comment", ""))
 
 
 def list_to_csv():
@@ -41,11 +43,12 @@ def list_to_csv():
         'Mission': missions_arr,
         "Artist": artists_arr,
         "Song": songs_arr,
+        "Comment": comment_arr,
     }
-    df = DataFrame(space_rows, columns= [
-        'Dates', "Program", 'Mission', 'Artist', 'Song'])
+    df = DataFrame(space_rows, columns=[
+        'Dates', "Program", 'Mission', 'Artist', 'Song', "Comment"])
     df.sort_values(by=['Dates'])
-    df.to_csv ("nasawakeupcalls.csv", index=None, header=True, encoding='utf8')
+    df.to_csv("nasawakeupcalls.csv", index=None, header=True, encoding='utf8')
 
 
 def main():
