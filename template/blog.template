@@ -4,9 +4,7 @@ title:  {{ %mission% }}
 author: "NASA: Music to Wake Up By"
 ---
 
-# {{ %mission% }}
 ----
-<br/>
 ### DATE: {{ %date_human% }}
 ----
 {{ %song_details% }}
