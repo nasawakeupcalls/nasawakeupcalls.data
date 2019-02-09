@@ -11968,7 +11968,7 @@
                     "Mission": "MARS PATHFINDER",
                     "WakeupCalls": [
                         {
-                            "Sol 4": [
+                            "1997-07-04:Sol 4": [
                                 {
                                     "ARTIST": "Paul Reiser, Don Was",
                                     "Comment": "The team sent their wakeup call to Mars as a joke (it's not like a spacecraft would need music) and the team enjoyed it enough that it became a tradition. The Mad About You production office was surprised by the choice and put out a press release noting the unusual use for their theme song. They even used a clip of the Mars team playing the music in the end credits of one of their shows. PC",
@@ -11978,7 +11978,7 @@
                             ]
                         },
                         {
-                            "Sol 5": [
+                            "1997-07-04:Sol 5": [
                                 {
                                     "ARTIST": "Bob Marley",
                                     "SOL": "Sol 5",
@@ -11987,7 +11987,7 @@
                             ]
                         },
                         {
-                            "Sol 6": [
+                            "1997-07-04:Sol 6": [
                                 {
                                     "ARTIST": "Glenn Miller",
                                     "Comment": "(with live accompaniment by Chief Engineer Rob Manning)",
@@ -11997,7 +11997,7 @@
                             ]
                         },
                         {
-                            "Sol 8": [
+                            "1997-07-04:Sol 8": [
                                 {
                                     "ARTIST": "Brazilian Samba",
                                     "SOL": "Sol 8",
@@ -12006,7 +12006,7 @@
                             ]
                         },
                         {
-                            "Sol 12": [
+                            "1997-07-04:Sol 12": [
                                 {
                                     "ARTIST": "Randy Newman",
                                     "SOL": "Sol 12",
@@ -12015,7 +12015,7 @@
                             ]
                         },
                         {
-                            "Sol 13": [
+                            "1997-07-04:Sol 13": [
                                 {
                                     "ARTIST": "Genesis",
                                     "SOL": "Sol 13",
@@ -12024,7 +12024,7 @@
                             ]
                         },
                         {
-                            "Sol 14": [
+                            "1997-07-04:Sol 14": [
                                 {
                                     "ARTIST": "Richard Strauss",
                                     "SOL": "Sol 14",
@@ -12033,7 +12033,7 @@
                             ]
                         },
                         {
-                            "Sol 17": [
+                            "1997-07-04:Sol 17": [
                                 {
                                     "ARTIST": "Del Amitri",
                                     "SOL": "Sol 17",
@@ -12042,7 +12042,7 @@
                             ]
                         },
                         {
-                            "Sol 18": [
+                            "1997-07-04:Sol 18": [
                                 {
                                     "ARTIST": "Ray Charles",
                                     "SOL": "Sol 18",
@@ -12051,7 +12051,7 @@
                             ]
                         },
                         {
-                            "Sol 19": [
+                            "1997-07-04:Sol 19": [
                                 {
                                     "ARTIST": "Dire Straits",
                                     "SOL": "Sol 19",
@@ -12060,7 +12060,7 @@
                             ]
                         },
                         {
-                            "Sol 20": [
+                            "1997-07-04:Sol 20": [
                                 {
                                     "ARTIST": "The Eagles",
                                     "SOL": "Sol 20",
@@ -12069,7 +12069,7 @@
                             ]
                         },
                         {
-                            "Sol 21": [
+                            "1997-07-04:Sol 21": [
                                 {
                                     "ARTIST": "Richard Wagner",
                                     "SOL": "Sol 21",
@@ -12078,7 +12078,7 @@
                             ]
                         },
                         {
-                            "Sol 22": [
+                            "1997-07-04:Sol 22": [
                                 {
                                     "ARTIST": "Talking Heads",
                                     "SOL": "Sol 22",
@@ -12087,7 +12087,7 @@
                             ]
                         },
                         {
-                            "Sol 23": [
+                            "1997-07-04:Sol 23": [
                                 {
                                     "ARTIST": "Blues Brothers",
                                     "SOL": "Sol 23",
@@ -12096,7 +12096,7 @@
                             ]
                         },
                         {
-                            "Sol 24": [
+                            "1997-07-04:Sol 24": [
                                 {
                                     "ARTIST": "Golden Earring",
                                     "SOL": "Sol 24",
@@ -12105,7 +12105,7 @@
                             ]
                         },
                         {
-                            "Sol 25": [
+                            "1997-07-04:Sol 25": [
                                 {
                                     "ARTIST": "Bim Skala Bim",
                                     "SOL": "Sol 25",
@@ -12114,7 +12114,7 @@
                             ]
                         },
                         {
-                            "Sol 26": [
+                            "1997-07-04:Sol 26": [
                                 {
                                     "ARTIST": "Van Halen",
                                     "SOL": "Sol 26",
@@ -12123,7 +12123,7 @@
                             ]
                         },
                         {
-                            "Sol 27": [
+                            "1997-07-04:Sol 27": [
                                 {
                                     "ARTIST": "The Rembrandts",
                                     "SOL": "Sol 27",
@@ -12132,7 +12132,7 @@
                             ]
                         },
                         {
-                            "Sol 28": [
+                            "1997-07-04:Sol 28": [
                                 {
                                     "ARTIST": "The Kinks",
                                     "SOL": "Sol 28",
@@ -12141,7 +12141,7 @@
                             ]
                         },
                         {
-                            "Sol 29": [
+                            "1997-07-04:Sol 29": [
                                 {
                                     "ARTIST": "Pink Floyd",
                                     "SOL": "Sol 29",
@@ -12150,7 +12150,7 @@
                             ]
                         },
                         {
-                            "Sol 30": [
+                            "1997-07-04:Sol 30": [
                                 {
                                     "ARTIST": "Frank Sinatra",
                                     "SOL": "Sol 30",
@@ -12164,7 +12164,7 @@
                             ]
                         },
                         {
-                            "Sol 32": [
+                            "1997-07-04:Sol 32": [
                                 {
                                     "ARTIST": "Paul Simon",
                                     "SOL": "Sol 32",
@@ -12173,7 +12173,7 @@
                             ]
                         },
                         {
-                            "Sol 33": [
+                            "1997-07-04:Sol 33": [
                                 {
                                     "ARTIST": "Blood, Sweat and Tears",
                                     "SOL": "Sol 33",
@@ -12182,7 +12182,7 @@
                             ]
                         },
                         {
-                            "Sol 34": [
+                            "1997-07-04:Sol 34": [
                                 {
                                     "ARTIST": "Sort Sol",
                                     "SOL": "Sol 34",
@@ -12191,7 +12191,7 @@
                             ]
                         },
                         {
-                            "Sol 35": [
+                            "1997-07-04:Sol 35": [
                                 {
                                     "ARTIST": "Gene Lockhart (father of June Lockhart of Lost in Space)",
                                     "SOL": "Sol 35",
@@ -12200,7 +12200,7 @@
                             ]
                         },
                         {
-                            "Sol 36": [
+                            "1997-07-04:Sol 36": [
                                 {
                                     "ARTIST": "Pink Floyd",
                                     "SOL": "Sol 36",
@@ -12209,7 +12209,7 @@
                             ]
                         },
                         {
-                            "Sol 37": [
+                            "1997-07-04:Sol 37": [
                                 {
                                     "ARTIST": "U2",
                                     "SOL": "Sol 37",
@@ -12218,7 +12218,7 @@
                             ]
                         },
                         {
-                            "Sol 39": [
+                            "1997-07-04:Sol 39": [
                                 {
                                     "ARTIST": "Tempus Fugit and the Time Travellers",
                                     "SOL": "Sol 39",
@@ -12245,7 +12245,7 @@
                     "Mission": "MARS SPIRIT",
                     "WakeupCalls": [
                         {
-                            "Sol 2": [
+                            "2004-01-04:Sol 2": [
                                 {
                                     "ARTIST": "the Beatles.",
                                     "SOL": "Sol 2",
@@ -12254,7 +12254,7 @@
                             ]
                         },
                         {
-                            "Sol 3": [
+                            "2004-01-04:Sol 3": [
                                 {
                                     "ARTIST": "Rodgers and Hammerstein.",
                                     "SOL": "Sol 3",
@@ -12263,7 +12263,7 @@
                             ]
                         },
                         {
-                            "Sol 4": [
+                            "2004-01-04:Sol 4": [
                                 {
                                     "ARTIST": "the Mormon Tabernacle Choir",
                                     "Comment": "Presidential phone call.",
@@ -12273,7 +12273,7 @@
                             ]
                         },
                         {
-                            "Sol 5": [
+                            "2004-01-04:Sol 5": [
                                 {
                                     "ARTIST": "the Rolling Stones",
                                     "Comment": "I can't get no ..., Air bags not cooperating.",
@@ -12283,7 +12283,7 @@
                             ]
                         },
                         {
-                            "Sol 6": [
+                            "2004-01-04:Sol 6": [
                                 {
                                     "ARTIST": "Bob Marley",
                                     "Comment": "Lift mechanism actuated.",
@@ -12293,7 +12293,7 @@
                             ]
                         },
                         {
-                            "Sol 7": [
+                            "2004-01-04:Sol 7": [
                                 {
                                     "ARTIST": "Casaca",
                                     "Comment": "Brazilian song suggested by investigator from Brazil, RRGTM student that week from Brazil.",
@@ -12303,7 +12303,7 @@
                             ]
                         },
                         {
-                            "Sol 8": [
+                            "2004-01-04:Sol 8": [
                                 {
                                     "ARTIST": "Cheryl Crow.",
                                     "Comment": "Laid-back sol.",
@@ -12313,7 +12313,7 @@
                             ]
                         },
                         {
-                            "Sol 9": [
+                            "2004-01-04:Sol 9": [
                                 {
                                     "ARTIST": "Jimmy Cliff.",
                                     "Comment": "Picture taking sol.",
@@ -12323,7 +12323,7 @@
                             ]
                         },
                         {
-                            "Sol 10": [
+                            "2004-01-04:Sol 10": [
                                 {
                                     "ARTIST": "Van Halen",
                                     "Comment": "Cable-cutting, backup on landing deck. start turn on deck.",
@@ -12345,7 +12345,7 @@
                             ]
                         },
                         {
-                            "Sol 11": [
+                            "2004-01-04:Sol 11": [
                                 {
                                     "ARTIST": "the Beach Boys",
                                     "Comment": "Rest of turn on landing deck.",
@@ -12367,7 +12367,7 @@
                             ]
                         },
                         {
-                            "Sol 12": [
+                            "2004-01-04:Sol 12": [
                                 {
                                     "ARTIST": "Steppenwolf;",
                                     "Comment": "Egress.",
@@ -12389,7 +12389,7 @@
                             ]
                         },
                         {
-                            "Sol 13": [
+                            "2004-01-04:Sol 13": [
                                 {
                                     "ARTIST": "the Four Tops.",
                                     "Comment": "First robotic arm activity.",
@@ -12399,7 +12399,7 @@
                             ]
                         },
                         {
-                            "Sol 14": [
+                            "2004-01-04:Sol 14": [
                                 {
                                     "ARTIST": "the Platters.",
                                     "Comment": "Touching robotic arm down on Mars.",
@@ -12409,7 +12409,7 @@
                             ]
                         },
                         {
-                            "Sol 15": [
+                            "2004-01-04:Sol 15": [
                                 {
                                     "ARTIST": "Sting",
                                     "Comment": "Last engineering activities, first drive on the surface.",
@@ -12431,7 +12431,7 @@
                             ]
                         },
                         {
-                            "Sol 16": [
+                            "2004-01-04:Sol 16": [
                                 {
                                     "ARTIST": "Eric Clapton.",
                                     "Comment": "Crew starts Mars day after California midnight, part of the sol dedicated to deleting contents of flash.",
@@ -12447,7 +12447,7 @@
                             ]
                         },
                         {
-                            "Sol 17": [
+                            "2004-01-04:Sol 17": [
                                 {
                                     "ARTIST": "Queen.",
                                     "Comment": "First arm activities and observations on a rock.",
@@ -12457,7 +12457,7 @@
                             ]
                         },
                         {
-                            "Sol 18": [
+                            "2004-01-04:Sol 18": [
                                 {
                                     "ARTIST": "Peter Gabriel.",
                                     "Comment": "Intended first [Rock Abrasion Tool] RAT sol, though ran into problems later, to put it mildly.",
@@ -12467,7 +12467,7 @@
                             ]
                         },
                         {
-                            "Sol 19": [
+                            "2004-01-04:Sol 19": [
                                 {
                                     "ARTIST": "Abba.",
                                     "Comment": "Objective was to regain contact with Spirit after a loss of communications. We did.",
@@ -12477,7 +12477,7 @@
                             ]
                         },
                         {
-                            "Sol 20": [
+                            "2004-01-04:Sol 20": [
                                 {
                                     "ARTIST": "UNKNOWN",
                                     "Comment": "(Objective was to get Spirit to send data. She did.",
@@ -12487,7 +12487,7 @@
                             ]
                         },
                         {
-                            "Sol 21": [
+                            "2004-01-04:Sol 21": [
                                 {
                                     "ARTIST": "The Hooters.",
                                     "Comment": "A rousing lullaby for when we were trying, and succeeded, to get the rover to go to sleep.",
@@ -12497,7 +12497,7 @@
                             ]
                         },
                         {
-                            "Sol 22": [
+                            "2004-01-04:Sol 22": [
                                 {
                                     "ARTIST": "The Beatles.",
                                     "Comment": "Beginning debugging activities to get Spirit back to normal.",
@@ -12507,7 +12507,7 @@
                             ]
                         },
                         {
-                            "Sol 23": [
+                            "2004-01-04:Sol 23": [
                                 {
                                     "ARTIST": "the Rolling Stones.",
                                     "Comment": "Booting in crippled mode.",
@@ -12517,7 +12517,7 @@
                             ]
                         },
                         {
-                            "Sol 24": [
+                            "2004-01-04:Sol 24": [
                                 {
                                     "ARTIST": "Queen.",
                                     "Comment": "Clearly a flash problem, continuing to debug.",
@@ -12527,7 +12527,7 @@
                             ]
                         },
                         {
-                            "Sol 25": [
+                            "2004-01-04:Sol 25": [
                                 {
                                     "ARTIST": "Elvis Presley",
                                     "Comment": "Continuing debug, got picture!",
@@ -12543,7 +12543,7 @@
                             ]
                         },
                         {
-                            "Sol 26": [
+                            "2004-01-04:Sol 26": [
                                 {
                                     "ARTIST": "Huey Lewis & The News.",
                                     "Comment": "Trying yet another recipe for getting task trace, still didn't work.",
@@ -12553,7 +12553,7 @@
                             ]
                         },
                         {
-                            "Sol 27": [
+                            "2004-01-04:Sol 27": [
                                 {
                                     "ARTIST": "Carly Simon.",
                                     "Comment": "Seeing if the file deletes will do the trick or not. They did.",
@@ -12563,7 +12563,7 @@
                             ]
                         },
                         {
-                            "Sol 28": [
+                            "2004-01-04:Sol 28": [
                                 {
                                     "ARTIST": "Willie Nelson.",
                                     "Comment": "Can't wait to get back on ..., back to normal use of the flash file system, itching to get going.",
@@ -12573,7 +12573,7 @@
                             ]
                         },
                         {
-                            "Sol 29": [
+                            "2004-01-04:Sol 29": [
                                 {
                                     "ARTIST": "The Beatles.",
                                     "Comment": "More normal operations, Mars Express coordinated overflight.",
@@ -12583,7 +12583,7 @@
                             ]
                         },
                         {
-                            "Sol 30": [
+                            "2004-01-04:Sol 30": [
                                 {
                                     "ARTIST": "Club Nouveau.",
                                     "Comment": "Intended RAT brush sol, pressing RAT on rock, though activities did not complete.",
@@ -12593,7 +12593,7 @@
                             ]
                         },
                         {
-                            "Sol 31": [
+                            "2004-01-04:Sol 31": [
                                 {
                                     "ARTIST": "the Ramones.",
                                     "Comment": "Very low activity sol to get the rover rested and ready for surgery on the following sol.",
@@ -12603,7 +12603,7 @@
                             ]
                         },
                         {
-                            "Sol 32": [
+                            "2004-01-04:Sol 32": [
                                 {
                                     "ARTIST": "The Surfaris",
                                     "Comment": "File system reformat.",
@@ -12619,7 +12619,7 @@
                             ]
                         },
                         {
-                            "Sol 33": [
+                            "2004-01-04:Sol 33": [
                                 {
                                     "ARTIST": "Gene Autry,",
                                     "Comment": "Back to normal operations, color flag picture on RAT.",
@@ -12635,7 +12635,7 @@
                             ]
                         },
                         {
-                            "Sol 34": [
+                            "2004-01-04:Sol 34": [
                                 {
                                     "ARTIST": "The Bobs",
                                     "Comment": "First RAT grinding.",
@@ -12651,7 +12651,7 @@
                             ]
                         },
                         {
-                            "Sol 35": [
+                            "2004-01-04:Sol 35": [
                                 {
                                     "ARTIST": "Credence Clearwater Revival.",
                                     "Comment": "Intended drive around lander to begin drive to crater. Didn't get anywhere though.",
@@ -12661,7 +12661,7 @@
                             ]
                         },
                         {
-                            "Sol 36": [
+                            "2004-01-04:Sol 36": [
                                 {
                                     "ARTIST": "Elvis Presley.",
                                     "Comment": "Drive didn't work yestersol -- we've been stuck here for weeks. Drive did work later that sol.",
@@ -12671,7 +12671,7 @@
                             ]
                         },
                         {
-                            "Sol 37": [
+                            "2004-01-04:Sol 37": [
                                 {
                                     "ARTIST": "Tina Turner.",
                                     "Comment": "And we're rolling, rolling, rolling on the river..., first long drive, ended up being more than 20 meters.",
@@ -12681,7 +12681,7 @@
                             ]
                         },
                         {
-                            "Sol 38": [
+                            "2004-01-04:Sol 38": [
                                 {
                                     "ARTIST": "Van Halen.",
                                     "Comment": "HGA [High Gain Antenna] problem that sol, no activities, song played late in the sol.",
@@ -12691,7 +12691,7 @@
                             ]
                         },
                         {
-                            "Sol 39": [
+                            "2004-01-04:Sol 39": [
                                 {
                                     "ARTIST": "Buster Poindexter.",
                                     "Comment": "Another long drive -- yes, this is a reuse of that song.",
@@ -12701,7 +12701,7 @@
                             ]
                         },
                         {
-                            "Sol 40": [
+                            "2004-01-04:Sol 40": [
                                 {
                                     "ARTIST": "Louis Armstrong.",
                                     "Comment": "Mars, that is.",
@@ -12711,7 +12711,7 @@
                             ]
                         },
                         {
-                            "Sol 41": [
+                            "2004-01-04:Sol 41": [
                                 {
                                     "ARTIST": "Eve 6.",
                                     "Comment": "Driving song, though only did several inches of driving to position in front of rock.",
@@ -12721,7 +12721,7 @@
                             ]
                         },
                         {
-                            "Sol 42": [
+                            "2004-01-04:Sol 42": [
                                 {
                                     "ARTIST": "John Hiatt.",
                                     "Comment": "Observations of the rock Mimi.",
@@ -12731,7 +12731,7 @@
                             ]
                         },
                         {
-                            "Sol 43": [
+                            "2004-01-04:Sol 43": [
                                 {
                                     "ARTIST": "Bon Jovi.",
                                     "Comment": "Many sols tend to start with our fingers crossed.",
@@ -12741,7 +12741,7 @@
                             ]
                         },
                         {
-                            "Sol 44": [
+                            "2004-01-04:Sol 44": [
                                 {
                                     "ARTIST": "Carole King.",
                                     "Comment": "Heading for that crater.",
@@ -12751,7 +12751,7 @@
                             ]
                         },
                         {
-                            "Sol 45": [
+                            "2004-01-04:Sol 45": [
                                 {
                                     "ARTIST": "Diana Ross.",
                                     "Comment": "Touch and go sol.",
@@ -12761,7 +12761,7 @@
                             ]
                         },
                         {
-                            "Sol 46": [
+                            "2004-01-04:Sol 46": [
                                 {
                                     "ARTIST": "The Everly Brothers.",
                                     "Comment": "Generic wakeup song.",
@@ -12771,7 +12771,7 @@
                             ]
                         },
                         {
-                            "Sol 47": [
+                            "2004-01-04:Sol 47": [
                                 {
                                     "ARTIST": "Hot Soup.",
                                     "Comment": "Trenching sol.",
@@ -12781,7 +12781,7 @@
                             ]
                         },
                         {
-                            "Sol 48": [
+                            "2004-01-04:Sol 48": [
                                 {
                                     "ARTIST": "Devo.",
                                     "Comment": "Working in the trench.",
@@ -12791,7 +12791,7 @@
                             ]
                         },
                         {
-                            "Sol 49": [
+                            "2004-01-04:Sol 49": [
                                 {
                                     "ARTIST": "Beth Carvalho.",
                                     "Comment": "Brazilian song played on Mars Pathfinder, played again for Carnival weekend.",
@@ -12801,7 +12801,7 @@
                             ]
                         },
                         {
-                            "Sol 50": [
+                            "2004-01-04:Sol 50": [
                                 {
                                     "ARTIST": "Beth Carvalho.",
                                     "Comment": "Brazilian song written by same artist inspired by use of previous song on MPF, this one is a Mars Samba, also for Carnival weekend. Starts off Hello NASA!.",
@@ -12811,7 +12811,7 @@
                             ]
                         },
                         {
-                            "Sol 51": [
+                            "2004-01-04:Sol 51": [
                                 {
                                     "ARTIST": "Vangelis.",
                                     "Comment": "Appropriate for slow-motion races.",
@@ -12821,7 +12821,7 @@
                             ]
                         },
                         {
-                            "Sol 52": [
+                            "2004-01-04:Sol 52": [
                                 {
                                     "ARTIST": "Foreigner.",
                                     "SOL": "Sol 52",
@@ -12830,7 +12830,7 @@
                             ]
                         },
                         {
-                            "Sol 53": [
+                            "2004-01-04:Sol 53": [
                                 {
                                     "ARTIST": "Kansas",
                                     "Comment": "with the anticipation of possibly capturing dust devils spinning across the Martian surface.",
@@ -12840,7 +12840,7 @@
                             ]
                         },
                         {
-                            "Sol 54": [
+                            "2004-01-04:Sol 54": [
                                 {
                                     "ARTIST": "Pete Wernick",
                                     "Comment": "as it made its final approach to the imposing rock called Humphrey.",
@@ -12850,7 +12850,7 @@
                             ]
                         },
                         {
-                            "Sol 55": [
+                            "2004-01-04:Sol 55": [
                                 {
                                     "ARTIST": "Cathy Fink",
                                     "SOL": "Sol 55",
@@ -12864,7 +12864,7 @@
                             ]
                         },
                         {
-                            "Sol 56": [
+                            "2004-01-04:Sol 56": [
                                 {
                                     "ARTIST": "Jump 5.",
                                     "SOL": "Sol 56",
@@ -12873,7 +12873,7 @@
                             ]
                         },
                         {
-                            "Sol 58": [
+                            "2004-01-04:Sol 58": [
                                 {
                                     "ARTIST": "U2",
                                     "Comment": "to pay homage to its twin rover's amazing findings of water evidence at Meridiani Planum.",
@@ -12883,7 +12883,7 @@
                             ]
                         },
                         {
-                            "Sol 59": [
+                            "2004-01-04:Sol 59": [
                                 {
                                     "ARTIST": "The Real McCoy",
                                     "SOL": "Sol 59",
@@ -12892,7 +12892,7 @@
                             ]
                         },
                         {
-                            "Sol 60": [
+                            "2004-01-04:Sol 60": [
                                 {
                                     "ARTIST": "the Mighty Mighty Bosstones.",
                                     "SOL": "Sol 60",
@@ -12901,7 +12901,7 @@
                             ]
                         },
                         {
-                            "Sol 61": [
+                            "2004-01-04:Sol 61": [
                                 {
                                     "ARTIST": "Guided by Voices.",
                                     "SOL": "Sol 61",
@@ -12910,7 +12910,7 @@
                             ]
                         },
                         {
-                            "Sol 62": [
+                            "2004-01-04:Sol 62": [
                                 {
                                     "ARTIST": "Atticus Fault.",
                                     "SOL": "Sol 62",
@@ -12919,7 +12919,7 @@
                             ]
                         },
                         {
-                            "Sol 66": [
+                            "2004-01-04:Sol 66": [
                                 {
                                     "ARTIST": "Aerosmith",
                                     "Comment": "since Spirit is at the edge of Bonneville crater.",
@@ -12929,7 +12929,7 @@
                             ]
                         },
                         {
-                            "Sol 67": [
+                            "2004-01-04:Sol 67": [
                                 {
                                     "ARTIST": "the Carpenters",
                                     "Comment": "The song was fitting, as yestersols's drive put Spirit at the rim of Bonneville crater, but it took some additional maneuvering to get the rover perfectly placed for the 360-degree panoramic camera images it will take on upcoming sols.",
@@ -12939,7 +12939,7 @@
                             ]
                         },
                         {
-                            "Sol 69": [
+                            "2004-01-04:Sol 69": [
                                 {
                                     "ARTIST": "John Lennon.",
                                     "SOL": "Sol 69",
@@ -12948,7 +12948,7 @@
                             ]
                         },
                         {
-                            "Sol 77": [
+                            "2004-01-04:Sol 77": [
                                 {
                                     "ARTIST": "the Doobie Brothers",
                                     "Comment": "since the rover was to make its final approach to the rock target named Mazatzal today.",
@@ -12958,7 +12958,7 @@
                             ]
                         },
                         {
-                            "Sol 80": [
+                            "2004-01-04:Sol 80": [
                                 {
                                     "ARTIST": "Otis Redding.",
                                     "SOL": "Sol 80",
@@ -12967,7 +12967,7 @@
                             ]
                         },
                         {
-                            "Sol 81": [
+                            "2004-01-04:Sol 81": [
                                 {
                                     "ARTIST": "The Manhattan Transfer",
                                     "Comment": "in honor of the grind on the New York target.",
@@ -12977,7 +12977,7 @@
                             ]
                         },
                         {
-                            "Sol 98": [
+                            "2004-01-04:Sol 98": [
                                 {
                                     "ARTIST": "The Pixies",
                                     "Comment": "in honor of its software transplant.",
@@ -12987,7 +12987,7 @@
                             ]
                         },
                         {
-                            "Sol 109": [
+                            "2004-01-04:Sol 109": [
                                 {
                                     "ARTIST": "Woody Guthrie.",
                                     "SOL": "Sol 109",
@@ -13001,7 +13001,7 @@
                     "Mission": "MARS OPPORTUNITY",
                     "WakeupCalls": [
                         {
-                            "Sol 2": [
+                            "2004-01-04:Sol 2": [
                                 {
                                     "ARTIST": "the Turtles",
                                     "Comment": "First full sol with both rovers on Mars.",
@@ -13011,7 +13011,7 @@
                             ]
                         },
                         {
-                            "Sol 3": [
+                            "2004-01-04:Sol 3": [
                                 {
                                     "ARTIST": "Rush",
                                     "Comment": "HGA release.",
@@ -13021,7 +13021,7 @@
                             ]
                         },
                         {
-                            "Sol 4": [
+                            "2004-01-04:Sol 4": [
                                 {
                                     "ARTIST": "UNKNOWN",
                                     "Comment": "original manuscript listed n/a so perhaps no song was played, RS",
@@ -13031,7 +13031,7 @@
                             ]
                         },
                         {
-                            "Sol 5": [
+                            "2004-01-04:Sol 5": [
                                 {
                                     "ARTIST": "REM; I'm Still Standing, by Elton John",
                                     "Comment": "Standup.",
@@ -13041,7 +13041,7 @@
                             ]
                         },
                         {
-                            "Sol 6": [
+                            "2004-01-04:Sol 6": [
                                 {
                                     "ARTIST": "Creedence Clearwater",
                                     "Comment": "Revival.",
@@ -13063,7 +13063,7 @@
                             ]
                         },
                         {
-                            "Sol 7": [
+                            "2004-01-04:Sol 7": [
                                 {
                                     "ARTIST": "The Who",
                                     "Comment": "Cable Cut '#3'",
@@ -13079,7 +13079,7 @@
                             ]
                         },
                         {
-                            "Sol 8": [
+                            "2004-01-04:Sol 8": [
                                 {
                                     "ARTIST": "Bachman-Turner Overdrive",
                                     "Comment": "First dual surface nominal rover operation.",
@@ -13089,7 +13089,7 @@
                             ]
                         },
                         {
-                            "Sol 9": [
+                            "2004-01-04:Sol 9": [
                                 {
                                     "ARTIST": "Diana Ross",
                                     "Comment": "IDD release.",
@@ -13099,7 +13099,7 @@
                             ]
                         },
                         {
-                            "Sol 10": [
+                            "2004-01-04:Sol 10": [
                                 {
                                     "ARTIST": "The Cure",
                                     "Comment": "First MI image.",
@@ -13109,7 +13109,7 @@
                             ]
                         },
                         {
-                            "Sol 11": [
+                            "2004-01-04:Sol 11": [
                                 {
                                     "ARTIST": "Depeche Mode",
                                     "Comment": "First MB data readout of soil.",
@@ -13119,7 +13119,7 @@
                             ]
                         },
                         {
-                            "Sol 12": [
+                            "2004-01-04:Sol 12": [
                                 {
                                     "ARTIST": "Motorhead",
                                     "Comment": "First drive since egress.",
@@ -13129,7 +13129,7 @@
                             ]
                         },
                         {
-                            "Sol 13": [
+                            "2004-01-04:Sol 13": [
                                 {
                                     "ARTIST": "the Beach Boys",
                                     "Comment": "Jaunt away from lander.",
@@ -13139,7 +13139,7 @@
                             ]
                         },
                         {
-                            "Sol 14": [
+                            "2004-01-04:Sol 14": [
                                 {
                                     "ARTIST": "The Clash",
                                     "Comment": "We went.",
@@ -13149,7 +13149,7 @@
                             ]
                         },
                         {
-                            "Sol 15": [
+                            "2004-01-04:Sol 15": [
                                 {
                                     "ARTIST": "UNKNOWN",
                                     "Comment": "(For the arrival at the bedrock.)",
@@ -13159,7 +13159,7 @@
                             ]
                         },
                         {
-                            "Sol 16": [
+                            "2004-01-04:Sol 16": [
                                 {
                                     "ARTIST": "Paul Simon",
                                     "Comment": "Large slips along drive up to the outcrop.",
@@ -13169,7 +13169,7 @@
                             ]
                         },
                         {
-                            "Sol 17": [
+                            "2004-01-04:Sol 17": [
                                 {
                                     "ARTIST": "Wham",
                                     "Comment": "Touch and go.",
@@ -13179,7 +13179,7 @@
                             ]
                         },
                         {
-                            "Sol 18": [
+                            "2004-01-04:Sol 18": [
                                 {
                                     "ARTIST": "Tom Petty and the Heartbreakers",
                                     "Comment": "Drive along the outcrop.",
@@ -13189,7 +13189,7 @@
                             ]
                         },
                         {
-                            "Sol 19": [
+                            "2004-01-04:Sol 19": [
                                 {
                                     "ARTIST": "Whitesnake",
                                     "Comment": "Repeat of sol 18 drive objective.",
@@ -13199,7 +13199,7 @@
                             ]
                         },
                         {
-                            "Sol 20": [
+                            "2004-01-04:Sol 20": [
                                 {
                                     "ARTIST": "Red Hot Chili Peppers",
                                     "Comment": "MI/MB and drive.",
@@ -13215,7 +13215,7 @@
                             ]
                         },
                         {
-                            "Sol 21": [
+                            "2004-01-04:Sol 21": [
                                 {
                                     "ARTIST": "Rusted Root",
                                     "SOL": "Sol 21",
@@ -13230,7 +13230,7 @@
                             ]
                         },
                         {
-                            "Sol 22": [
+                            "2004-01-04:Sol 22": [
                                 {
                                     "ARTIST": "Genesis",
                                     "Comment": "MI-MB placement.",
@@ -13240,7 +13240,7 @@
                             ]
                         },
                         {
-                            "Sol 23": [
+                            "2004-01-04:Sol 23": [
                                 {
                                     "ARTIST": "Blood, Sweat, and Tears",
                                     "Comment": "Right front trenching wheel.",
@@ -13250,7 +13250,7 @@
                             ]
                         },
                         {
-                            "Sol 24": [
+                            "2004-01-04:Sol 24": [
                                 {
                                     "ARTIST": "Bob Marley",
                                     "Comment": "Make use of the trench.",
@@ -13260,7 +13260,7 @@
                             ]
                         },
                         {
-                            "Sol 25": [
+                            "2004-01-04:Sol 25": [
                                 {
                                     "ARTIST": "Human League",
                                     "Comment": "Regarding the img return from the trench.",
@@ -13270,7 +13270,7 @@
                             ]
                         },
                         {
-                            "Sol 26": [
+                            "2004-01-04:Sol 26": [
                                 {
                                     "ARTIST": "the Beastie Boys",
                                     "Comment": "Every rover part exercised.",
@@ -13280,7 +13280,7 @@
                             ]
                         },
                         {
-                            "Sol 27": [
+                            "2004-01-04:Sol 27": [
                                 {
                                     "ARTIST": "Emerson, Lake and Powell",
                                     "Comment": "Touch and go.",
@@ -13290,7 +13290,7 @@
                             ]
                         },
                         {
-                            "Sol 28": [
+                            "2004-01-04:Sol 28": [
                                 {
                                     "ARTIST": "Simon and Garfunkel",
                                     "Comment": "El Capitan target assessment.",
@@ -13300,7 +13300,7 @@
                             ]
                         },
                         {
-                            "Sol 29": [
+                            "2004-01-04:Sol 29": [
                                 {
                                     "ARTIST": "the Doors",
                                     "Comment": "Heavy weather at DSS-63 and DSS-14.",
@@ -13310,7 +13310,7 @@
                             ]
                         },
                         {
-                            "Sol 30": [
+                            "2004-01-04:Sol 30": [
                                 {
                                     "ARTIST": "Steve Miller Band",
                                     "Comment": "1st RAT on opportunity.",
@@ -13320,7 +13320,7 @@
                             ]
                         },
                         {
-                            "Sol 31": [
+                            "2004-01-04:Sol 31": [
                                 {
                                     "ARTIST": "Bill Haley and His Comets",
                                     "Comment": "APXS/MB.",
@@ -13330,7 +13330,7 @@
                             ]
                         },
                         {
-                            "Sol 32": [
+                            "2004-01-04:Sol 32": [
                                 {
                                     "ARTIST": "the Beatles",
                                     "Comment": "Long MB integration -- no IDD or mobility.",
@@ -13340,7 +13340,7 @@
                             ]
                         },
                         {
-                            "Sol 33": [
+                            "2004-01-04:Sol 33": [
                                 {
                                     "ARTIST": "Fats Domino",
                                     "Comment": "in honor of the hill in front of the rover.",
@@ -13350,7 +13350,7 @@
                             ]
                         },
                         {
-                            "Sol 34": [
+                            "2004-01-04:Sol 34": [
                                 {
                                     "ARTIST": "Lenny Kravitz.",
                                     "SOL": "Sol 34",
@@ -13359,7 +13359,7 @@
                             ]
                         },
                         {
-                            "Sol 35": [
+                            "2004-01-04:Sol 35": [
                                 {
                                     "ARTIST": "Jimmy Cliff.",
                                     "SOL": "Sol 35",
@@ -13368,7 +13368,7 @@
                             ]
                         },
                         {
-                            "Sol 36": [
+                            "2004-01-04:Sol 36": [
                                 {
                                     "ARTIST": "Sting.",
                                     "SOL": "Sol 36",
@@ -13377,7 +13377,7 @@
                             ]
                         },
                         {
-                            "Sol 37": [
+                            "2004-01-04:Sol 37": [
                                 {
                                     "ARTIST": "the Cars.",
                                     "SOL": "Sol 37",
@@ -13386,7 +13386,7 @@
                             ]
                         },
                         {
-                            "Sol 38": [
+                            "2004-01-04:Sol 38": [
                                 {
                                     "ARTIST": "Creedence Clearwater Revival",
                                     "Comment": "in honor of the confirmation that liquid water once flowed through the rocks at Meridiani Planum.",
@@ -13396,7 +13396,7 @@
                             ]
                         },
                         {
-                            "Sol 39": [
+                            "2004-01-04:Sol 39": [
                                 {
                                     "ARTIST": "Creedence Clearwater Revival",
                                     "Comment": "in honor of the eclipse caused by the Martian moon Deimos.",
@@ -13406,7 +13406,7 @@
                             ]
                         },
                         {
-                            "Sol 41": [
+                            "2004-01-04:Sol 41": [
                                 {
                                     "ARTIST": "Willie Nelson.",
                                     "SOL": "Sol 41",
@@ -13415,7 +13415,7 @@
                             ]
                         },
                         {
-                            "Sol 43": [
+                            "2004-01-04:Sol 43": [
                                 {
                                     "ARTIST": "Bruce Springsteen",
                                     "Comment": "in recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.",
@@ -13425,7 +13425,7 @@
                             ]
                         },
                         {
-                            "Sol 44": [
+                            "2004-01-04:Sol 44": [
                                 {
                                     "ARTIST": "Janis Joplin",
                                     "Comment": "for the rock abrasion tool's second attempt at Mojo 2,",
@@ -13441,7 +13441,7 @@
                             ]
                         },
                         {
-                            "Sol 45": [
+                            "2004-01-04:Sol 45": [
                                 {
                                     "ARTIST": "Pink Floyd",
                                     "Comment": "in recognition of the transit of the martian moon, Phobos.",
@@ -13457,7 +13457,7 @@
                             ]
                         },
                         {
-                            "Sol 46": [
+                            "2004-01-04:Sol 46": [
                                 {
                                     "ARTIST": "Raffi",
                                     "Comment": "in honor of researching the mysterious blueberries with the instruments on the robotic arm.",
@@ -13473,7 +13473,7 @@
                             ]
                         },
                         {
-                            "Sol 47": [
+                            "2004-01-04:Sol 47": [
                                 {
                                     "ARTIST": "Chuck Berry",
                                     "Comment": "in recognition of the stay at Berry Bowl.",
@@ -13483,7 +13483,7 @@
                             ]
                         },
                         {
-                            "Sol 48": [
+                            "2004-01-04:Sol 48": [
                                 {
                                     "ARTIST": "John Williams.",
                                     "SOL": "Sol 48",
@@ -13492,7 +13492,7 @@
                             ]
                         },
                         {
-                            "Sol 50": [
+                            "2004-01-04:Sol 50": [
                                 {
                                     "ARTIST": "Bill Cosby",
                                     "Comment": "in honor of the toothy targets in Shark's Cage.",
@@ -13502,7 +13502,7 @@
                             ]
                         },
                         {
-                            "Sol 51": [
+                            "2004-01-04:Sol 51": [
                                 {
                                     "ARTIST": "Alabama.",
                                     "SOL": "Sol 51",
@@ -13511,7 +13511,7 @@
                             ]
                         },
                         {
-                            "Sol 53": [
+                            "2004-01-04:Sol 53": [
                                 {
                                     "ARTIST": "John Brim",
                                     "Comment": "woke Opportunity this sol to remind it of the possible sweet treats that await at targets referred to as Chocolate Chip and Coconut in the neighborhood dubbed Mudpie.",
@@ -13521,7 +13521,7 @@
                             ]
                         },
                         {
-                            "Sol 54": [
+                            "2004-01-04:Sol 54": [
                                 {
                                     "ARTIST": "Carole King.",
                                     "SOL": "Sol 54",
@@ -13530,7 +13530,7 @@
                             ]
                         },
                         {
-                            "Sol 56": [
+                            "2004-01-04:Sol 56": [
                                 {
                                     "ARTIST": "the Steve Miller Band.",
                                     "SOL": "Sol 56",
@@ -13539,7 +13539,7 @@
                             ]
                         },
                         {
-                            "Sol 57": [
+                            "2004-01-04:Sol 57": [
                                 {
                                     "ARTIST": "the JBs and Fred Wesley.",
                                     "SOL": "Sol 57",
@@ -13548,7 +13548,7 @@
                             ]
                         },
                         {
-                            "Sol 58": [
+                            "2004-01-04:Sol 58": [
                                 {
                                     "ARTIST": "Lambert, Hendricks and Ross",
                                     "Comment": "beckoned Opportunity back toward its landing site crater to an area of bright material.",
@@ -13558,7 +13558,7 @@
                             ]
                         },
                         {
-                            "Sol 59": [
+                            "2004-01-04:Sol 59": [
                                 {
                                     "ARTIST": "Simon and Garfunkel.",
                                     "SOL": "Sol 59",
@@ -13567,7 +13567,7 @@
                             ]
                         },
                         {
-                            "Sol 60": [
+                            "2004-01-04:Sol 60": [
                                 {
                                     "ARTIST": "Elton John in honor of the Lion King panorama.",
                                     "SOL": "Sol 60",
@@ -13576,7 +13576,7 @@
                             ]
                         },
                         {
-                            "Sol 64": [
+                            "2004-01-04:Sol 64": [
                                 {
                                     "ARTIST": "REM.",
                                     "SOL": "Sol 64",
@@ -13585,7 +13585,7 @@
                             ]
                         },
                         {
-                            "Sol 65": [
+                            "2004-01-04:Sol 65": [
                                 {
                                     "ARTIST": "Aerosmith.",
                                     "SOL": "Sol 65",
@@ -13594,7 +13594,7 @@
                             ]
                         },
                         {
-                            "Sol 66": [
+                            "2004-01-04:Sol 66": [
                                 {
                                     "ARTIST": "Bon Jovi.",
                                     "Comment": "Opportunity's rock abrasion tool ground into Bounce for just over two hours.",
@@ -13604,7 +13604,7 @@
                             ]
                         },
                         {
-                            "Sol 67": [
+                            "2004-01-04:Sol 67": [
                                 {
                                     "ARTIST": "David Bowie.",
                                     "SOL": "Sol 67",
@@ -13613,7 +13613,7 @@
                             ]
                         },
                         {
-                            "Sol 68": [
+                            "2004-01-04:Sol 68": [
                                 {
                                     "ARTIST": "Van Morrison.",
                                     "SOL": "Sol 68",
@@ -13622,7 +13622,7 @@
                             ]
                         },
                         {
-                            "Sol 69": [
+                            "2004-01-04:Sol 69": [
                                 {
                                     "ARTIST": "Tom Adams",
                                     "Comment": "chosen for the soil target named Maggie.",
@@ -13632,7 +13632,7 @@
                             ]
                         },
                         {
-                            "Sol 70": [
+                            "2004-01-04:Sol 70": [
                                 {
                                     "ARTIST": "The Greatful Dead.",
                                     "SOL": "Sol 70",
@@ -13641,7 +13641,7 @@
                             ]
                         },
                         {
-                            "Sol 72": [
+                            "2004-01-04:Sol 72": [
                                 {
                                     "ARTIST": "Dion and the Belmonts.",
                                     "SOL": "Sol 72",
@@ -13650,7 +13650,7 @@
                             ]
                         },
                         {
-                            "Sol 73": [
+                            "2004-01-04:Sol 73": [
                                 {
                                     "ARTIST": "B.B. King",
                                     "Comment": "a nod to Spirit's successful primary mission of 91 sols and a call for more good times during the coming sols.",
@@ -13660,7 +13660,7 @@
                             ]
                         },
                         {
-                            "Sol 79": [
+                            "2004-01-04:Sol 79": [
                                 {
                                     "ARTIST": "Ramones",
                                     "Comment": "Opportunity began operating with new flight software.",
@@ -13670,7 +13670,7 @@
                             ]
                         },
                         {
-                            "Sol 82": [
+                            "2004-01-04:Sol 82": [
                                 {
                                     "ARTIST": "Less Than Jake",
                                     "Comment": "originally by the Proclaimers",
@@ -13680,7 +13680,7 @@
                             ]
                         },
                         {
-                            "Sol 85": [
+                            "2004-01-04:Sol 85": [
                                 {
                                     "ARTIST": "Jack Norworth",
                                     "Comment": "in honor of all the baseball-related target names chosen this sol.",
@@ -13690,7 +13690,7 @@
                             ]
                         },
                         {
-                            "Sol 101-102": [
+                            "2004-01-04:Sol 101": [
                                 {
                                     "ARTIST": "Cat Stevens;",
                                     "SOL": "Sol 101-102",

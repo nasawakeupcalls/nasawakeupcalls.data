@@ -15,18 +15,31 @@ songs_arr = []
 comment_arr = []
 
 
+def my_name_is_sol(date_):
+    """Take the Martian landing date and calculate the SOL based on the given
+    offset.
+    """
+    landing_date = date_.split(":")[0]
+    offset = date_.split("Sol")[1]
+    date = datetime.datetime(int(landing_date.split("-")[0]), int(landing_date.split("-")[1]), int(landing_date.split("-")[2]))
+    return date + (datetime.timedelta(days=1, minutes=39, seconds=35)  * int(offset))
+
+
 def set_file_datetime(file_name, date_):
-    if not date_.startswith("Sol"):
+    if not "Sol" in date_:
         date = datetime.datetime(int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2]))
         modTime = time.mktime(date.timetuple())
         os.utime(file_name, (modTime, modTime))
+        return
+    modTime = time.mktime(my_name_is_sol(date_).timetuple())
+    os.utime(file_name, (modTime, modTime))
 
 
 def date_to_human(date_):
-    if not date_.startswith("Sol"):
+    if not "Sol" in date_:
         d_ = datetime.datetime(int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2]))
         return d_.strftime("%B %d, %Y")
-    return date_
+    return my_name_is_sol(date_).strftime("%B %d, %Y")
 
 
 def pretty_json(dict_data):
@@ -69,8 +82,12 @@ def output_rows(program, mission):
             template = template.replace("{{ %date% }}", date_)
             template = template.replace("{{ %date_human% }}", date_to_human(date_))
 
-            file_name = os.path.join("posts", "{}-{}.md".format(date_.replace(" ", "_"), mission_name.replace(" ", "_")))
-
+            date_string = None
+            if "Sol" not in date_:
+                date_string = date_.replace(" ", "_")
+            else:
+                date_string = my_name_is_sol(date_).strftime("%Y_%m_%d")
+            file_name = os.path.join("posts", "{}-{}.md".format(date_string, mission_name.replace(" ", "_")))
             with open(file_name, "w") as blog_file:
                 blog_file.write(template)
             set_file_datetime(file_name, date_)
