@@ -24,7 +24,7 @@ def output_rows(program, mission):
     name = mission.get("Mission")
     calls = mission.get("WakeupCalls", [])
     for call in calls:
-        for date, songlist in call.iteritems():
+        for date, songlist in call.items():
             date_ = date
             for song in songlist:
                 dates_arr.append(date_)
