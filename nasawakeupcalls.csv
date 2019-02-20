@@ -20,19 +20,19 @@ Dates,Program,Mission,Artist,Song,Comment
 1965-12-09,GEMINI,GEMINI 7,UNKNOWN,I Saw Mommie Kissing Santa Claus,"relayed from Tananarive station for Jim Lovell. A request from his daughter, Barbara, age 12 who hopes the song will bring her daddy home for Christmas, a little early.-  Mission Commentary, Tape 223, page 2"
 1965-12-11,GEMINI,GEMINI 7,Louis Armstrong,"Hey, Look Me Over","Mission Commentary Tape 280, page 1"
 1965-12-18,GEMINI,GEMINI 7,UNKNOWN,I'll Be Home For Christmas,"Sent to the crew just before retrofire. - Mission Commentary Tape 610, page 1"
-1965-12-18,GEMINI,GEMINI 7,UKNOWN,Going Back to Houston,Ibid.
+1965-12-18,GEMINI,GEMINI 7,Dean Martin,Houston,Ibid.
 1966-06-04,GEMINI,GEMINI 9,Tijuana Brass,The Lonely Bull,"From The Last Man on the Moon. Copyright 1999 by Eugene Cernan and Don Davis. St. Martin's Press,  LLC, New York, NY., p.124."
 1966-06-06,GEMINI,GEMINI 9,Glinka,Russian Overture,"Mission Commentary Tape 187, page 1 We have had a change of pace in the music being piped in on one of the inactive (sic) loops here in Mission Control. Run the gamut of the four B's of music, Bach, Beethoven, Brahms and Brass, Tijuana Brass that is. - Mission Commentary Tape 189, page 1"
 1966-06-06,GEMINI,GEMINI 9,Glinka,Ludmilla Overture,Ibid.
 1966-06-06,GEMINI,GEMINI 9,Johann Sebastian Bach,UNKNOWN,Ibid.
 1966-11-14,GEMINI,GEMINI 12,Julie Andrews,My Favorite Things,"Mission Commentary Tape 240, page 2 to Mission Commentary Tape 242, page 1"
-1966-11-14,GEMINI,GEMINI 12,UNKNOWN,Going Back to Houston,"Mission Commentary Tape 248, page 1 - Mission Commentary Tape 249, page 1"
+1966-11-14,GEMINI,GEMINI 12,Dean Martin,Houston,"Mission Commentary Tape 248, page 1 - Mission Commentary Tape 249, page 1"
 1969-05-21,APOLLO,APOLLO 10,Robert Goulet,On a Clear Day,
 1969-05-22,APOLLO,APOLLO 10,Tony Bennett,The Best Is Yet To Come,
 1969-05-24,APOLLO,APOLLO 10,Frank Sinatra,It's Nice to Go Trav'ling,
 1969-05-25,APOLLO,APOLLO 10,UNKNOWN,Come Fly With Me,wakeup from crew to Mission Control
 1969-05-25,APOLLO,APOLLO 10,UNKNOWN,Zippity-do-da,
-1969-05-26,APOLLO,APOLLO 10,UNKNOWN,Bugle call for reveille,
+1969-05-26,APOLLO,APOLLO 10,UNKNOWN,Reveille (Bugle Call),
 1969-07-20,APOLLO,APOLLO 11,Frank Sinatra and Quincy Jones,Fly me to the moon,"Sent back to earth by Buzz Aldrin, Neil Armstrong, Michael Collins, RS"
 1969-11-16,APOLLO,APOLLO 12,UNKNOWN,Bugle & Boatswain's Pipe,
 1969-11-16,APOLLO,APOLLO 12,UNKNOWN,First Call to Formation (trumpet),
@@ -70,7 +70,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1973-09-18,SKYLAB,SKYLAB 3,Glenn Miller Orchestra,String of Pearls,
 1973-09-19,SKYLAB,SKYLAB 3,UNKNOWN,Marine Corps Hymn,played for Jack Lousma. Jack said Mission Control should be standing at attention.
 1973-09-20,SKYLAB,SKYLAB 3,UNKNOWN,Moonlight Becomes You,
-1973-09-25,SKYLAB,SKYLAB 3,Dean Martin,"Going Back to Houston (Sic), probably Houston",
+1973-09-25,SKYLAB,SKYLAB 3,Dean Martin,Houston,"Going Back to Houston (Sic), probably Houston."
 1973-11-21,SKYLAB,SKYLAB 4,Herb Alpert & Tijuana Brass,The Lonely Bull,
 1973-11-22,SKYLAB,SKYLAB 4,UNKNOWN,A Walk in the Black Forest,Symbolic of  the fact that the crew of Skylab 4 will be taking a walk in the blackness of space to repair the control system for an Earth-scanning antenna.
 1973-11-24,SKYLAB,SKYLAB 4,Legendary Stardust Cowboy,Paralyzed,
@@ -135,14 +135,14 @@ Dates,Program,Mission,Artist,Song,Comment
 1974-02-06,SKYLAB,SKYLAB 4,101 Strings,Soul of Spain,
 1974-02-07,SKYLAB,SKYLAB 4,Bizet,Carmen,
 1974-02-07,SKYLAB,SKYLAB 4,Isaac Hayes,Shaft,
-1974-02-08,SKYLAB,SKYLAB 4,Dean Martin,Goin'Back to Houston,
+1974-02-08,SKYLAB,SKYLAB 4,Dean Martin,Houston,
 1975-07-16,APOLLO-SOYUZ TEST PROJECT (ASTP),APOLLO-SOYUZ TEST PROJECT (ASTP),Chicago,Good Morning Sunshine,
 1975-07-18,APOLLO-SOYUZ TEST PROJECT (ASTP),APOLLO-SOYUZ TEST PROJECT (ASTP),UNKNOWN,Midnight in Moscow,
 1975-07-19,APOLLO-SOYUZ TEST PROJECT (ASTP),APOLLO-SOYUZ TEST PROJECT (ASTP),Maya Kristalinskaya,Tenderness,Crew did not wake until later in morning
 1975-07-20,APOLLO-SOYUZ TEST PROJECT (ASTP),APOLLO-SOYUZ TEST PROJECT (ASTP),Maya Kristalinskaya,Tenderness,This time the crew heard it
 1975-07-24,APOLLO-SOYUZ TEST PROJECT (ASTP),APOLLO-SOYUZ TEST PROJECT (ASTP),Jerry Jeff Walker,Redneck Mother,
 1981-04-13,SPACE SHUTTLE,STS-1,Roy McCall,Blast-Off Columbia,
-1981-04-14,SPACE SHUTTLE,STS-1,n/a,Reveille,"Short excerpt from an old Spike Jones record followed by a comic tape with voices of Houston DJs Hudson and Harrigan kidding Young and Crippen, then  Reveille. It's splashdown, and Crip, you could both use a shower, said one member of the radio team. You've waited for this for 12 years and if you don't wake up you're going to miss the whole darn thing. Crip, said one voice, get out of the rack. No, no, no, said the other. If he wakes up he'll spill coffee all over the controls. Get to work, you guys. You've got 300 government agencies out there to support. Then Mission Control came back on the line. Now hear this, now hear this, reveille, reveille, up all idlers. And that last wakeup call, we'd like you to scratch out 'splashdown' and insert 'touchdown,' said Mission Control."
+1981-04-14,SPACE SHUTTLE,STS-1,n/a,Reveille (Bugle Call),"Short excerpt from an old Spike Jones record followed by a comic tape with voices of Houston DJs Hudson and Harrigan kidding Young and Crippen, then  Reveille. It's splashdown, and Crip, you could both use a shower, said one member of the radio team. You've waited for this for 12 years and if you don't wake up you're going to miss the whole darn thing. Crip, said one voice, get out of the rack. No, no, no, said the other. If he wakes up he'll spill coffee all over the controls. Get to work, you guys. You've got 300 government agencies out there to support. Then Mission Control came back on the line. Now hear this, now hear this, reveille, reveille, up all idlers. And that last wakeup call, we'd like you to scratch out 'splashdown' and insert 'touchdown,' said Mission Control."
 1981-11-13,SPACE SHUTTLE,STS-2,The Muppets,Pigs in Space comedy routine #1,(arranged by Sally Ride).
 2001-11-15,SPACE SHUTTLE,STS-2,The Flight Operations Directorate group: Contraband,"Columbia, Gem of the Ocean",
 1981-11-14,SPACE SHUTTLE,STS-2,The Muppets,Pigs in Space comedy routine #2,"(arranged by Sally Ride), preceded by rendition of Columbia, Gem of the Ocean by the Flight Operations Directorate groupContraband."
@@ -179,14 +179,14 @@ Dates,Program,Mission,Artist,Song,Comment
 1983-06-20,SPACE SHUTTLE,STS-7,UNKNOWN,"A&M, Texas A&M Aggie War Hymn",
 1983-06-20,SPACE SHUTTLE,STS-7,the Tufts University Beelzebubs,Tufts Tonia's Day,"a student acappella group at Tufts University, Rick Hauck's alma mater."
 1983-06-21,SPACE SHUTTLE,STS-7,UNKNOWN,Texas Aggie War Hymn,
-1983-06-21,SPACE SHUTTLE,STS-7,UNKNOWN,Reveille,
-1983-06-21,SPACE SHUTTLE,STS-7,Mary Cleave's father,When You're Smiling,"Mary Cleave, the CAPCOM for this crew"
+1983-06-21,SPACE SHUTTLE,STS-7,UNKNOWN,Reveille (Bugle Call),
+1983-06-21,SPACE SHUTTLE,STS-7,Mary Cleave's father,When You're Smiling,Mary Cleave's father was the CAPCOM for this crew
 1983-06-21,SPACE SHUTTLE,STS-7,UNKNOWN,Tequila Sunrise,and in response by CHallenger (some version of Tequila Sunrise)
 1983-06-22,SPACE SHUTTLE,STS-7,UNKNOWN,Texas A&M Aggie War Hymn,
 1983-06-22,SPACE SHUTTLE,STS-7,UNKNOWN,Washington State University Cougar Fight Song,from which John Fabian is a graduate.
 1983-06-23,SPACE SHUTTLE,STS-7,UNKNOWN,"Texas A&M, Texas Aggie War Hymn,",The uplink music
 1983-06-23,SPACE SHUTTLE,STS-7,the Leeland Stanford Junior University Marching Band,Stanford Hymn,which of course is the alma mater of Dr. Sally Ride and
-1983-06-23,SPACE SHUTTLE,STS-7,The Beatles,A Hard Day's Night,"it sounded like the crew down linked a Beatles' song, A Hard Day's Night. From STS-7 AIR/GROUND TRANSCRIPT"
+1983-06-23,SPACE SHUTTLE,STS-7,The Beatles,A Hard Day's Night,"It sounded like the crew down linked a Beatles' song, A Hard Day's Night. From STS-7 AIR/GROUND TRANSCRIPT"
 1983-06-24,SPACE SHUTTLE,STS-7,UNKNOWN,Texas Aggie War Hymn,
 1983-06-24,SPACE SHUTTLE,STS-7,the Florida State University  Marching Chiefs,Florida State University Fight Song,Norm Thagard is an alumnus of FSU. From STS-7 AIR/GROUND TRANSCRIPT
 1983-08-31,SPACE SHUTTLE,STS-8,UNKNOWN,Georgia Tech Fight Song,for the alma mater of Commander Richard Truly.
@@ -204,7 +204,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1984-02-09,SPACE SHUTTLE,STS-41-B,Joey Scarbury,Believe It Or Not (Theme from 'The Greatest American Hero'),in honor of that day's EVA. With some changed verses
 1984-02-10,SPACE SHUTTLE,STS-41-B,UNKNOWN,A live rendition of The Air Force Song  (Off We Go Into the Wild Blue Yonder),from all the Air Force CAPCOMs.
 1984-02-11,SPACE SHUTTLE,STS-41-B,Contraband,In the Mood,a musical group composed of JSC employees.
-1984-04-07,SPACE SHUTTLE,STS-41-C,Johnny Cash.,A Boy Named Sue,
+1984-04-07,SPACE SHUTTLE,STS-41-C,Johnny Cash,A Boy Named Sue,
 1984-04-08,SPACE SHUTTLE,STS-41-C,UNKNOWN,Fight song of the University of California at Berkeley,"in honor of Ox van Hoften,"
 1984-04-08,SPACE SHUTTLE,STS-41-C,UNKNOWN,Lehigh University Fight Song,in honor of T. J. Hart.
 1984-04-09,SPACE SHUTTLE,STS-41-C,Joey Scarbury,Believe It Or Not (Theme from 'The Greatest American Hero'),
@@ -229,7 +229,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1984-10-13,SPACE SHUTTLE,STS-41-G,UNKNOWN,Boomer Sooner The University of Oklahoma Fight Song,
 1984-10-13,SPACE SHUTTLE,STS-41-G,Elton John,"Rocket Man (I Think It's Going To Be a Long, Long Time)",
 1984-11-09,SPACE SHUTTLE,STS-51-A,UNKNOWN,Good Morning Starshine from the musical Hair,
-1984-11-09,SPACE SHUTTLE,STS-51-A,The Beatles.,Good Day Sunshine,
+1984-11-09,SPACE SHUTTLE,STS-51-A,The Beatles,Good Day Sunshine,
 1984-11-10,SPACE SHUTTLE,STS-51-A,UNKNOWN,Marine Corps Hymn,Marine Corps Hymn for the 209th birthday of the U.S. Marine Corps. Crew responded with John Philip Sousa's Stars and Stripes Forever
 1984-11-10,SPACE SHUTTLE,STS-51-A,John Philip Sousa,Stars and Stripes Forever,Ibid.
 1984-11-11,SPACE SHUTTLE,STS-51-A,UNKNOWN,Theme from film Victory at Sea,
@@ -275,7 +275,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1985-11-29,SPACE SHUTTLE,STS-61-B,UNKNOWN,America the Beautiful,
 1985-11-30,SPACE SHUTTLE,STS-61-B,UNKNOWN,UNIDENTIFIED,Unidentified
 1985-12-02,SPACE SHUTTLE,STS-61-B,UNKNOWN,Notre Dame Fight Song or Notre Dame Victory March,"a joke played on Jerry Ross, a graduate of Purdue, one of Notre Dame's rivals by Jim Wetherbee."
-1985-12-03,SPACE SHUTTLE,STS-61-B,Bruce Springsteen,Born in the U.S.A.,
+1985-12-03,SPACE SHUTTLE,STS-61-B,Bruce Springsteen,Born in the USA,
 1986-01-12,SPACE SHUTTLE,STS-61-C,John Philip Sousa,Opening theme from Monty Python's Flying Circus TV show (Liberty Bell March),
 1986-01-13,SPACE SHUTTLE,STS-61-C,UNKNOWN,UNIDENTIFIED,Unidentified
 1986-01-14,SPACE SHUTTLE,STS-61-C,Neil Young,Heart of Gold,
@@ -290,7 +290,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1988-12-03,SPACE SHUTTLE,STS-27,UNKNOWN,Army Fight Song,because Hoot Gibson and Bill Shepherd were Navy grads and Mike Mullane graduated from West Point.
 1988-12-03,SPACE SHUTTLE,STS-27,UNKNOWN,Navy Fight Song,Ibid.
 1988-12-04,SPACE SHUTTLE,STS-27,UNKNOWN,Theme from TV show Rawhide with satirical lyrics,based on an inside joke between the Atlantis crew and CAPCOM members of the astronaut class of 1984.
-1988-12-05,SPACE SHUTTLE,STS-27,John Williams,Star Wars,"Using Star Wars theme music as background, Darth Vader's voice awoke the crew with a message followed by satirical lyrics sung to The Beatles tune, Do You Want to Know a Secret? The recording was produced by Houston radio station KKBQ's Mike Cahill, Pat Brennan, and Mark Richardson."
+1988-12-05,SPACE SHUTTLE,STS-27,John Williams,Star Wars (Main Title),"Using Star Wars theme music as background, Darth Vader's voice awoke the crew with a message followed by satirical lyrics sung to The Beatles tune, Do You Want to Know a Secret? The recording was produced by Houston radio station KKBQ's Mike Cahill, Pat Brennan, and Mark Richardson."
 1988-12-05,SPACE SHUTTLE,STS-27,The Beatles,Do You Want to Know a Secret?,Ibid.
 1989-03-14,SPACE SHUTTLE,STS-29,James Brown,I Got You (I Feel Good),
 1989-03-15,SPACE SHUTTLE,STS-29,UNKNOWN,Brass band rendition of the Marine Corps Hymn,"tribute to mission specialists Bob Springer and Jim Buchli. We got two Marines standing at attention up here, said Captain Coats."
@@ -302,7 +302,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1989-03-17,SPACE SHUTTLE,STS-29,UNKNOWN,Stars and Stripes Forever,Ibid.
 1989-03-18,SPACE SHUTTLE,STS-29,Simon and Garfunkel,Homeward Bound,"Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon and Garfunkel"
 1989-03-18,SPACE SHUTTLE,STS-29,Louis Armstrong,What a Wonderful World,"Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon and Garfunkel."
-1989-05-05,SPACE SHUTTLE,STS-30,John Williams,"Theme music from the film, Superman",
+1989-05-05,SPACE SHUTTLE,STS-30,John Williams,Superman (Main Title),
 1989-05-06,SPACE SHUTTLE,STS-30,UNKNOWN,Anchors Aweigh,"Crew members awakened with medley from their respective alma maters: Anchors Aweigh, played for STS-30 commander Dave Walker - Navy The Wild Blue Yonder for pilot Ron Grabe and Mark Lee - Air Force Colorado State University fight song for Mission Specialist Mary Cleave; and Florida State University fight song for Mission Specialist Norm Thagard"
 1989-05-06,SPACE SHUTTLE,STS-30,UNKNOWN,The Wild Blue Yonder,Ibid.
 1989-05-06,SPACE SHUTTLE,STS-30,UNKNOWN,Colorado State University fight song,Ibid.
@@ -310,7 +310,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1989-05-07,SPACE SHUTTLE,STS-30,Bill Conti,Gonna Fly Now (Theme From 'Rocky'),
 1989-05-08,SPACE SHUTTLE,STS-30,The Beatles,A Hard Day's Night,
 1989-10-19,SPACE SHUTTLE,STS-34,UNKNOWN,Hail Purdue,"Medley: 1. Hail Purdue, 2. Reveille, 3. Anchors Aweigh as tribute to commander Don Williams and pilot Mike McCulley who were both Purdue and Naval Academy graduates."
-1989-10-19,SPACE SHUTTLE,STS-34,UNKNOWN,Reveille,Ibid.
+1989-10-19,SPACE SHUTTLE,STS-34,UNKNOWN,Reveille (Bugle Call),Ibid.
 1989-10-19,SPACE SHUTTLE,STS-34,UNKNOWN,Anchors Aweigh,Ibid.
 1989-10-20,SPACE SHUTTLE,STS-34,UNKNOWN,University of Oklahoma,"University fight songs medley sent as a tribute to the Mission Specialists and their undergraduate schools: 1. University of Oklahoma for Shannon Lucid, 2. University of Connecticut for Franklin Chang-Diaz, 3. State University of New York at Buffalo for Ellen Baker."
 1989-10-20,SPACE SHUTTLE,STS-34,UNKNOWN,University of Connecticut,Ibid.
@@ -370,8 +370,8 @@ Dates,Program,Mission,Artist,Song,Comment
 1991-09-16,SPACE SHUTTLE,STS-48,Elvis Presley,Are You Lonesome Tonight?,Chosen for its line Are you sorry we drifted apart? referring to Discovery's separation from its payload (UARS)
 1991-09-17,SPACE SHUTTLE,STS-48,Elvis Presley,Return to Sender,In honor of expected landing.
 1991-11-25,SPACE SHUTTLE,STS-44,n/a,n/a,"Space - the final frontier. This is the voyage of the Space Shuttle Atlantis - Its ten-day mission: To explore new methods of remote sensing and observation of the planet Earth - To seek out new data on radiation in space, and a new understanding of the effects of microgravity on the human body - To boldly go where two hundred and fifty-five men and women have gone before. Hello - Fred, Tom, Story, Jim, Tom, and especially Mario - This is Patrick Stewart, choosing not to outrank you as Captain Jean-Luc Picard, saying that we are confident of a productive and successful mission. Make it so. All this to the theme music of Star Trek - the Next Generation Capcom Marsha Ivins contacted actor Patrick Stewart to request the special wakeup call for Mario Runco, a big Star Trek fan. PC"
-1991-11-26,SPACE SHUTTLE,STS-44,gunfire,Reveille (bugle call) followed,
-1991-11-26,SPACE SHUTTLE,STS-44,Irving Berlin,"This is the Army, Mr. Jones","from the movie, This is the Army."
+1991-11-26,SPACE SHUTTLE,STS-44,gunfire,Reveille (Bugle Call),
+1991-11-26,SPACE SHUTTLE,STS-44,Irving Berlin,"This is the Army, Mr. Jones","From the movie, 'This is the Army'."
 1991-11-27,SPACE SHUTTLE,STS-44,James Brown,It's Time to Love (Put a Little Love in Your Heart),
 1991-11-28,SPACE SHUTTLE,STS-44,n/a,Recorded turkey gobbles,
 1991-11-28,SPACE SHUTTLE,STS-44,Jimmy Buffett,Cheeseburger in Paradise,
@@ -426,7 +426,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1993-09-16,SPACE SHUTTLE,STS-51,UNKNOWN,"Walk, Don't Run",
 1993-09-17,SPACE SHUTTLE,STS-51,UNKNOWN,Theme for the Common Man,"Videotape views of Earth with Theme for the Common Man by crew beat Mission Control's wakeup call by five minutes. We didn't mean to preempt your music, just precede it, Discovery commander Frank Culbertson Jr. told Mission Control's Susan Helms. Of course the videotape views of the Earth are just on the flight day highlights. On the shuttle they just hear the music. PC"
 1993-09-18,SPACE SHUTTLE,STS-51,"Lea Salonga, Brad Kane",A Whole New World,Crew for Mission Control
-1993-09-18,SPACE SHUTTLE,STS-51,John Williams,Star Wars Theme,sent to Discovery.
+1993-09-18,SPACE SHUTTLE,STS-51,John Williams,Star Wars (Main Title),Sent to Discovery.
 1993-09-19,SPACE SHUTTLE,STS-51,Hudson Brothers,Rendezvous,
 1993-09-20,SPACE SHUTTLE,STS-51,Max-Q,Heartbreak Hotel,"Max-Q is an astronaut band. Carl Walz, nicknamed Elvis, is lead singer."
 1993-09-21,SPACE SHUTTLE,STS-51,The Beach Boys,Surfin' Safari,
@@ -524,7 +524,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1995-09-09,SPACE SHUTTLE,STS-69,UNKNOWN,Theme from Scooby Doo,
 1995-09-10,SPACE SHUTTLE,STS-69,Madeline Cockrell's (Pilot Kenneth Cockrell's five-year-old daughter) kindergarten class,Bingo,
 1995-09-11,SPACE SHUTTLE,STS-69,UNKNOWN,Theme from Rin Tin Tin,
-1995-09-12,SPACE SHUTTLE,STS-69,The Beatles.,A Hard Day's Night,
+1995-09-12,SPACE SHUTTLE,STS-69,The Beatles,A Hard Day's Night,
 1995-09-13,SPACE SHUTTLE,STS-69,UNKNOWN,Theme from the film Patton,a tribute to Jim Voss who was promoted to the rank of Colonel in the U.S. Army.
 1995-09-14,SPACE SHUTTLE,STS-69,UNKNOWN,"Theme from cartoon TV show, Underdog",attribute to Mike Gernhardt who has the same nickname.
 1995-09-15,SPACE SHUTTLE,STS-69,Peggy Lee,He's A Tramp from the cartoon movie Lady and the Tramp,
@@ -537,7 +537,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1995-11-17,SPACE SHUTTLE,STS-74,Stan Rogers.,Northwest Passage,
 1995-11-18,SPACE SHUTTLE,STS-74,UNKNOWN,Do Wah Diddy Diddy,performed as as a drill team chant cadence.
 1995-11-19,SPACE SHUTTLE,STS-74,Micky Erbe and Maribeth Solomon,"Theme from the IMAX film, The Dream is Alive.",
-1996-01-12,SPACE SHUTTLE,STS-72,John Williams.,Theme from Star Wars,
+1996-01-12,SPACE SHUTTLE,STS-72,John Williams,Star Wars (Main Title),
 1996-01-13,SPACE SHUTTLE,STS-72,UNKNOWN,Sea in Springtime (traditional Japanese song),for Koichi Wakata and SFU retrieval.
 1996-01-14,SPACE SHUTTLE,STS-72,UNKNOWN,Theme from the original Godzilla film,
 1996-01-15,SPACE SHUTTLE,STS-72,James Horner.,Star Trek Next Generation theme,
@@ -564,10 +564,10 @@ Dates,Program,Mission,Artist,Song,Comment
 1996-05-27,SPACE SHUTTLE,STS-77,The Spaniels,Good Night Sweetheart,Pre-sleep music
 1996-05-28,SPACE SHUTTLE,STS-77,The Rolling Stones,Start Me Up,
 1996-05-29,SPACE SHUTTLE,STS-77,Jimmy Cliff,I Can See Clearly Now,
-1996-06-21,SPACE SHUTTLE,STS-78,Tom Petty.,Free Fallin',
+1996-06-21,SPACE SHUTTLE,STS-78,Tom Petty,Free Fallin',
 1996-06-22,SPACE SHUTTLE,STS-78,George Thorogood & the Destroyers,Bad to the Bone,referring to musculoskeletal science experiments.
 1996-06-23,SPACE SHUTTLE,STS-78,the 1980 U.S. Air Force Academy Drum and Bugle Corps,Flight of the Bumblebee performed,Payload commander Susan Helms played xylophone on the recording.
-1996-06-24,SPACE SHUTTLE,STS-78,David Bowie. The Major Tom,Space Oddity,reference is to Tom Henricks.
+1996-06-24,SPACE SHUTTLE,STS-78,David Bowie,Space Oddity,The major tom reference is to Tom Henricks.
 1996-06-25,SPACE SHUTTLE,STS-78,Thomas Dolby,She Blinded Me With Science,
 1996-06-26,SPACE SHUTTLE,STS-78,The Pretenders,Back on the Chain Gang,The crew went back to work after a day off.
 1996-06-27,SPACE SHUTTLE,STS-78,The Police,Every Breath You Take,Refers to lung function experiment.
@@ -644,7 +644,7 @@ Dates,Program,Mission,Artist,Song,Comment
 1997-08-09,SPACE SHUTTLE,STS-85,Lindsay Buckingham,Don't Look Down,
 1997-08-10,SPACE SHUTTLE,STS-85,Alabama,My Home's In Alabama,
 1997-08-11,SPACE SHUTTLE,STS-85,Johnny Mathis,Chances Are,
-1997-08-12,SPACE SHUTTLE,STS-85,Stevie Ray Vaughn,The House is Rockin',
+1997-08-12,SPACE SHUTTLE,STS-85,Stevie Ray Vaughan,The House is Rockin',
 1997-08-13,SPACE SHUTTLE,STS-85,The Beach Boys,Good Vibrations,
 1997-08-14,SPACE SHUTTLE,STS-85,Moxy Fruvous,You Will Go to the Moon,
 1997-08-15,SPACE SHUTTLE,STS-85,Jackson Browne,Stay,
@@ -716,8 +716,8 @@ Dates,Program,Mission,Artist,Song,Comment
 1998-10-30,SPACE SHUTTLE,STS-95,Louis Armstrong,What a Wonderful World,"Played for Mission Specialist Scott Parazynski from his wife, Gail."
 1998-10-31,SPACE SHUTTLE,STS-95,at King Cole,Cachito,"This song about parenthood was directed to Pedro Duque and his wife, Consuelo, who recently has a baby."
 1998-11-01,SPACE SHUTTLE,STS-95,pilot Steve Lindsay's wife Diane And/or Hallelujahs by Chris Rice.,This Pretty Planetby Tom Chapin 	COMMENT: requested,
-1998-11-02,SPACE SHUTTLE,STS-95,ndy Williams,Moon River,"Annie Glenn requested it as a tribute to the friendship between Williams and her husband. I was sleeping very, very soundly this morning when the wake up call came in, Glenn said."
-1998-11-03,SPACE SHUTTLE,STS-95,Stevie Ray Vaughn,The House is Rockin',"In honor of Mission Specialist Steve Robinson known as Stevie Ray Robinson by other members of his astronaut band, Max Q. That's what I call wake-up music. Good day to go get a satellite, he told Mission Control."
+1998-11-02,SPACE SHUTTLE,STS-95,Andy Williams,Moon River,"Annie Glenn requested it as a tribute to the friendship between Williams and her husband. I was sleeping very, very soundly this morning when the wake up call came in, Glenn said."
+1998-11-03,SPACE SHUTTLE,STS-95,Stevie Ray Vaughan,The House is Rockin',"In honor of Mission Specialist Steve Robinson known as Stevie Ray Robinson by other members of his astronaut band, Max Q. That's what I call wake-up music. Good day to go get a satellite, he told Mission Control."
 1998-11-04,SPACE SHUTTLE,STS-95,UNKNOWN,"Wakaki Chi, (Young Spirit)",a cheering song from Keio University where Payload Specialist Chiaki Mukai received her medical degree.
 1998-11-05,SPACE SHUTTLE,STS-95,The Moody Blues,I Know You're Out There Somewhere,Chosen by Commander Curt Brown's family.
 1998-11-06,SPACE SHUTTLE,STS-95,composer and pianist Peter Nero,"Voyage Into Space, an original composition written for John Glenn",a long-time friend of the Glenns.
@@ -777,8 +777,8 @@ Dates,Program,Mission,Artist,Song,Comment
 2000-02-19,SPACE SHUTTLE,STS-99,Shannon River Dance,Catch the Moments As They Fly By - Traditional Celtic Music,
 2000-02-20,SPACE SHUTTLE,STS-99,California Guitar Trio,Walk Don't Run,
 2000-02-21,SPACE SHUTTLE,STS-99,Frankie Valli & Four Seasons,Stay,
-2000-02-19,SPACE SHUTTLE,STS-101,Tom Petty,Free Fallin',played for Mission Specialist Susan Helms
-2000-02-20,SPACE SHUTTLE,STS-101,Bob Seger,Shining Brightly,in honor of the upcoming evening rendezvous with the International Space Station.
+2000-02-19,SPACE SHUTTLE,STS-101,Tom Petty,Free Fallin',Played for mission specialist Susan Helms
+2000-02-20,SPACE SHUTTLE,STS-101,Bob Seger,Shining Brightly,In honor of the upcoming evening rendezvous with the International Space Station.
 2000-02-21,SPACE SHUTTLE,STS-101,Stevie Ray Vaughan,Lookin' Out the Window,
 2000-02-22,SPACE SHUTTLE,STS-101,Roy Buchanan,Haunted House,since the opening lyrics say I just moved into a new house today.... in honor of the STS-101 crew entering what will be a new home for astronauts and cosmonauts later this year.
 2000-02-23,SPACE SHUTTLE,STS-101,Flamingos,I Only Have Eyes for You,"a long distance dedication from Kathy Halsell to her husband, Mission Commander Jim Halsell"
@@ -818,7 +818,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2000-12-04,SPACE SHUTTLE,STS-97,Norm Wooster Singers,Lovin' You Lots & Lots from the movie That Thing You Do,sent up to Bloomfield from his wife
 2000-12-05,SPACE SHUTTLE,STS-97,UNKNOWN,Fight On (Trojan Fight Song) - University of Southern California fight song,for Noriega by USC Marching Band
 2000-12-06,SPACE SHUTTLE,STS-97,Puccini opera aria,O Mio Babbino Caro,for Garneau
-2000-12-07,SPACE SHUTTLE,STS-97,The Beatles.,Here Comes the Sun,For Joe Tanner
+2000-12-07,SPACE SHUTTLE,STS-97,The Beatles,Here Comes the Sun,For Joe Tanner
 2000-12-08,SPACE SHUTTLE,STS-97,The Traveling Wilburys,Rattled,
 2000-12-09,SPACE SHUTTLE,STS-97,Gene Autry,Back in the Saddle Again,"In honor of Bloomfield, who is making his second space flight and his second fly-around of a space station."
 2000-12-10,SPACE SHUTTLE,STS-97,Bobby Darin,Beyond the Sea,"A reference to the traditions observed on the station by Navy Commander Jett and Navy Captain Shepherd, including the ringing of the station's ship's bell when the shuttle crew departed Saturday."
@@ -841,7 +841,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2001-03-10,SPACE SHUTTLE,STS-102,Starship,Nothing's Gonna Stop Us Now,played in anticipation of the planned Extravehicular Activity (EVA).
 2001-03-11,SPACE SHUTTLE,STS-102,UNKNOWN,Blast Off from the animated feature Scooby Doo and the Alien Invaders,played for astronaut Paul Richards as a selection from his children.
 2001-03-12,SPACE SHUTTLE,STS-102,Nanci Griffith,From A Distance performed,"awakened Discovery's crew, and astronauts Paul Richards and Andy Thomas quickly began preparing for a planned six and a half hour space walk."
-2001-03-13,SPACE SHUTTLE,STS-102,Tom Petty,Free Fallin',a favorite of astronaut Susan Helms who today will take up official residence on the station as a member of the outpost's second crew.
+2001-03-13,SPACE SHUTTLE,STS-102,Tom Petty,Free Fallin',A favorite of astronaut Susan Helms who today will take up official residence on the station as a member of the outpost's second crew.
 2001-03-14,SPACE SHUTTLE,STS-102,The Clash,Should I Stay or Should I Go,"played for returning International Space Station Expedition One Commander Bill Shepherd from his wife, Beth."
 2001-03-15,SPACE SHUTTLE,STS-102,Thomas Dolby,She Blinded Me With Science,played in recognition of the laboratory outfitting and initial station scientific work enabled by Discovery's flight.
 2001-03-16,SPACE SHUTTLE,STS-102,The Clancy Brothers,The Rising of the Moon,with Tommy Makem selected for Discovery's Pilot Jim Kelly by his family in honor of St. Patrick's Day tomorrow.
@@ -899,7 +899,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2001-12-14,SPACE SHUTTLE,STS-108,UNKNOWN,"Traditional Russian song, My Sweetheart,","played for Onufrienko, Dezhurov and Tyurin.The Expedition Four crew was awakened about a half-hour later with a wakeup tone on board the station."
 2001-12-15,SPACE SHUTTLE,STS-108,Alan Jackson,"Where I Come From,",for Pilot Mark Kelly from his family.
 2001-12-16,SPACE SHUTTLE,STS-108,Bing Crosby.,"I'll Be Home For Christmas,",
-2001-12-17,SPACE SHUTTLE,STS-108,Jon Bon Jovi.,Please Come Home For Christmas,
+2001-12-17,SPACE SHUTTLE,STS-108,Bon Jovi,Please Come Home For Christmas,
 2002-03-01,SPACE SHUTTLE,STS-109,John Hiatt,Blue Telescope,
 2002-03-02,SPACE SHUTTLE,STS-109,Lalo Schifrin,Theme from Mission: Impossible,
 2002-03-03,SPACE SHUTTLE,STS-109,Jeno Jando,"Mozart's Five Variations on Twinkle, Twinkle Little Star",
@@ -1011,7 +1011,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2005-08-05,SPACE SHUTTLE,STS-114,UNKNOWN,The Air Force Song,"dedicated to Pilot Jim Kelly, a colonel in the U.S. Air Force, at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later."
 2005-08-06,SPACE SHUTTLE,STS-114,the Japanese group SMAP,The One and Only Flower in the World,It was played for Mission Specialist Soichi Noguchi of the Japan Aerospace Exploration Agency (JAXA).
 2005-08-07,SPACE SHUTTLE,STS-114,Dexy's Midnight Runners,Come On Eileen,It was played for Discovery's Commander Eileen Collins from the Mission Control Team.
-2005-08-08,SPACE SHUTTLE,STS-114,The Beatles.,Good Day Sunshine,
+2005-08-08,SPACE SHUTTLE,STS-114,The Beatles,Good Day Sunshine,
 2005-07-05,SPACE SHUTTLE,STS-121,the New Galveston Chorale,Lift Every Voice and Sing,played for Mission Specialist Stephanie Wilson.
 2006-07-06,SPACE SHUTTLE,STS-121,Elton John,Daniel,played for Mission Specialist Thomas Reiter in honor of his son.
 2006-07-07,SPACE SHUTTLE,STS-121,the Beatles,Good Day Sunshine,played for Mission Specialist Lisa Nowak.
@@ -1087,7 +1087,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2007-10-31,SPACE SHUTTLE,STS-120,Domenico Modugno,Nel Blu Dipinto di Blu,"for Mission Specialist Paolo Nespoli. The song's title translates as In the blue (sky), painted blue; it is widely known as Volare."
 2007-11-01,SPACE SHUTTLE,STS-120,Robert John,The Lion Sleeps Tonight,"The song was chosen by the crew's training team. That was a lot of fun, Discovery commander Pamela Melroy said. That certainly gets you going first thing in the morning."
 2007-11-02,SPACE SHUTTLE,STS-120,Five for Fighting,World,"for Mission Specialist Doug Wheelock, who will be performing his third spacewalk on Saturday. Wheelock dedicated the song to the ground support team."
-2007-11-03,SPACE SHUTTLE,STS-120,John Williams,Star Wars,The crews of Space Shuttle Discovery and the station were awakened this morning at 12:38 with composer John Williams' theme song from the original Star Wars movie trilogy. The song was played for Parazynski.
+2007-11-03,SPACE SHUTTLE,STS-120,John Williams,Star Wars (Main Title),The crews of Space Shuttle Discovery and the station were awakened this morning at 12:38 with composer John Williams' theme song from the original Star Wars movie trilogy. The song was played for Parazynski.
 2007-11-04,SPACE SHUTTLE,STS-120,Byron Cage,"The Presence of the Lord,","The crews of Discovery and the International Space Station were awakened before the change from daylight to standard time. The crew was roused at 1:08 a.m. CDT with the song The Presence of the Lord, written by gospel musician Kurt Carr, originally recorded by Byron Cage. Cage's rendition was played for Mission Specialist Stephanie Wilson. Crew member Stephanie Wilson says she appreciates the selection. She says being in space has made her very thankful for the support of family, friends and the shuttle ground control team."
 2007-11-05,SPACE SHUTTLE,STS-120,Bob Seger,Roll Me Away,"played for Pilot George Zamka, who will be at the controls of Discovery when it undocks from the station. That's a great song about a road trip and we've had a great one, but it's time to turn around and head for home,astronaut George Zamka said."
 2007-11-06,SPACE SHUTTLE,STS-120,Deep Purple,Space Truckin',"played for Expedition 15/16 Flight Engineer and Mission Specialist Clay Anderson, who will wrap up a five-month mission to the International Space Station when Discovery lands."
@@ -1137,7 +1137,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2008-06-13,SPACE SHUTTLE,STS-124,Louis Prima and Keely Smith,"Baby, Won't You Please Come Home","selected by Mr. Reisman's wife, was played for Mission Specialist Garrett Reisman. Mr. Reisman thanked the people on the ground for the song, and said A special good morning to Simone, my favorite earthling. He added, Get ready, doll face: Discovery's coming home."
 2008-06-14,SPACE SHUTTLE,STS-124,the U.S. Merchant Marine Academy Band,Life on an Ocean Wave,was played for Commander Mark Kelly and the entire crew.
 2008-11-15,SPACE SHUTTLE,STS-126,Xavier Rudd,Shelter,It was played for Commander Christopher Ferguson.
-2008-11-16,SPACE SHUTTLE,STS-126,the Rolling Stones,Start Me Up,"It was played for Mission Specialist Sandra Magnus. I want to thank my family for that music and I'm looking forward to moving into my new home today, Magnus radioed down to Mission Control in Houston."
+2008-11-16,SPACE SHUTTLE,STS-126,The Rolling Stones,Start Me Up,"It was played for Mission Specialist Sandra Magnus. I want to thank my family for that music and I'm looking forward to moving into my new home today, Magnus radioed down to Mission Control in Houston."
 2008-11-17,SPACE SHUTTLE,STS-126,The Clash,London Calling performed,It was played for Mission Specialist Steven Bowen.
 2008-11-18,SPACE SHUTTLE,STS-126,U2,City of Blinding Lights,It was played for Mission Specialist Shane Kimbrough.
 2008-11-19,SPACE SHUTTLE,STS-126,Aaron Copeland,Fanfare for the Common Man,It was played for Pilot Eric Boe.
@@ -1154,7 +1154,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2008-11-30,SPACE SHUTTLE,STS-126,Bill Conti,Gonna Fly Now (Theme From 'Rocky'),It was for Ferguson.
 2009-03-16,SPACE SHUTTLE,STS-119,Lynyrd Skynyrd,Free Bird,played for Pilot Tony Antonelli.
 2009-03-17,SPACE SHUTTLE,STS-119,the Tokyo Broadcast Children's Choir,"Radio Exercise,","The song traditionally accompanies exercise for Japanese schoolchildren, and was played for astronaut Koichi Wakata of the Japan Aerospace Exploration Agency."
-2009-03-18,SPACE SHUTTLE,STS-119,Johnny Cash,I Walk the Line,was played for Steve Swanson.
+2009-03-18,SPACE SHUTTLE,STS-119,Johnny Cash,I Walk the Line,Played for Steve Swanson.
 2009-03-19,SPACE SHUTTLE,STS-119,Jose Gonzalez,Que Bandera Bonita,played for Mission Specialist Joseph Acaba.
 2009-03-20,SPACE SHUTTLE,STS-119,the Grateful Dead,Box of Rain,was played for Mission Specialist John Phillips.
 2009-03-21,SPACE SHUTTLE,STS-119,the group Pilgrim and Trout,In a Little While,for Mission Specialist Richard Arnold.
@@ -1174,14 +1174,14 @@ Dates,Program,Mission,Artist,Song,Comment
 2009-05-18,SPACE SHUTTLE,STS-125,Barenaked Ladies,Sound of Your Voice performed,It was played for Commander  Scott Altman.
 2009-05-19,SPACE SHUTTLE,STS-125,the Dave Matthews Band,Lie in Our Graves performed,It was played for Mission Specialist Megan McArthur.
 2009-05-20,SPACE SHUTTLE,STS-125,Alexander Courage,"Theme from the television series Star Trek,",The song was played for the entire crew.
-2009-05-21,SPACE SHUTTLE,STS-125,John Williams,"Cantina Band,",The song was played for the entire crew.
+2009-05-21,SPACE SHUTTLE,STS-125,John Williams,Cantina Band,The song was played for the entire crew.
 2009-05-22,SPACE SHUTTLE,STS-125,Monty Python (The Meaning of Life),The Galaxy Song,It was played for the entire crew.
 2009-05-23,SPACE SHUTTLE,STS-125,Russell Watson,Where My Heart Will Take Me,It was played for the entire crew.
 2009-05-24,SPACE SHUTTLE,STS-125,Richard Wagner,"The Ride of the Valkyries,",It was played for the entire crew.
 2009-07-16,SPACE SHUTTLE,STS-127,"the band 10,000 Maniacs",These Are Days,"emanated from speakers inside Endeavour's crew cabin, a wake-up call targeted especially for Mission Specialist Tim Kopra."
 2009-07-17,SPACE SHUTTLE,STS-127,The Beatles,Here Comes the Sun,was chosen for Commander Mark Polansky.
 2009-07-18,SPACE SHUTTLE,STS-127,Marc Broussard,"Home,","played for lead spacewalker Dave Wolf, who heard the call while camped out in the Quest airlock with Tim Kopra, the newest addition to the Expedition 20 crew."
-2009-07-19,SPACE SHUTTLE,STS-127,Tom Petty and the Heartbreakers,"Learning to Fly,","for former Navy SEAL Chris Cassidy, who is making his first space flight aboard the space shuttle Endeavour ."
+2009-07-19,SPACE SHUTTLE,STS-127,Tom Petty,Learning to Fly,"For former Navy SEAL Chris Cassidy, who is making his first space flight aboard the space shuttle Endeavour ."
 2009-07-20,SPACE SHUTTLE,STS-127,composer Barry Gray,"The theme from the 1960s television series Thunderbirds,",for Canadian Space Agency astronaut Julie Payette.
 2009-07-21,SPACE SHUTTLE,STS-127,Rascal Flatts,"Life Is a Highway,","The tune was played for Tom Marshburn, who completed his first spacewalk Monday."
 2009-07-22,SPACE SHUTTLE,STS-127,Everclear,"Santa Monica,","for Endeavour's pilot, Doug Hurley."
@@ -1228,7 +1228,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2010-02-14,SPACE SHUTTLE,STS-130,UNKNOWN,Forty Years On the Harrow School (London) song,for Harrow  alumnus Mission Specialist Nicholas Patrick.
 2010-02-15,SPACE SHUTTLE,STS-130,Tool,Parabola,for Mission Specialist Robert Behnken.
 2010-02-16,SPACE SHUTTLE,STS-130,Jimmy Buffett,Window on the World,"played for Mission Specialist Kathryn Hire. That song is very appropriate today, said Endeavour mission specialist Kay Hire. On a day that we'll be working on opening our new window on the world. Our wakeup music today on Endeavour was Jimmy Buffett's 'Window on the World,' astronaut Steve Robinson observed. I think that came from Kay's family. Ah, lovely, Patrick replied."
-2010-02-17,SPACE SHUTTLE,STS-130,Johnny A.,Oh Yeah,played for Mission Specialist Stephen Robinson.
+2010-02-17,SPACE SHUTTLE,STS-130,Johnny A,Oh Yeah,Played for Mission Specialist Stephen Robinson.
 2010-02-18,SPACE SHUTTLE,STS-130,Steven Curtis Chapman,I'm Gonna Be (500 Miles),played for Pilot Terry Virts.
 2010-02-19,SPACE SHUTTLE,STS-130,Newsboys,In Wonder,played for Pilot Terry Virts.
 2010-02-20,SPACE SHUTTLE,STS-130,Cake,The Distance,played for all six astronauts from their flight control team in the Mission Control Center in Houston.
@@ -1252,7 +1252,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2010-05-16,SPACE SHUTTLE,STS-132,Lynyrd Skynyrd,Sweet Home Alabama performed,was played for Tony Antonelli.
 2010-05-17,SPACE SHUTTLE,STS-132,Matt Maher,Alive Again performed,was played for Mike Good.
 2010-05-18,SPACE SHUTTLE,STS-132,The Village People,Macho Man performed,was played for Garrett Reisman.
-2010-05-19,SPACE SHUTTLE,STS-132,the Rolling Stones,Start Me Up,was played for Piers Sellers.
+2010-05-19,SPACE SHUTTLE,STS-132,The Rolling Stones,Start Me Up,was played for Piers Sellers.
 2010-05-20,SPACE SHUTTLE,STS-132,Elvis Costello,Welcome to the Working Week,was played for Stephen Bowen.
 2010-05-21,SPACE SHUTTLE,STS-132,JJ Cale,Traveling Light,was played for Piers Sellers.
 2010-05-22,SPACE SHUTTLE,STS-132,Matt Redman,Lord We Have Seen the Rising Sun,was played for Mission Specialist Mike Good.
@@ -1293,9 +1293,9 @@ Dates,Program,Mission,Artist,Song,Comment
 2011-07-10,SPACE SHUTTLE,STS-135,Electric Light Orchestra,Mr. Blue Sky,played for Commander Chris Ferguson.
 2011-07-11,SPACE SHUTTLE,STS-135,Chumbawamba,Tubthumping,played for Mission Specialist Sandy Magnus.
 2011-07-12,SPACE SHUTTLE,STS-135,Matthew West,More,played for Mission Specialist Rex Walheim.
-2011-07-13,SPACE SHUTTLE,STS-135,Elton John,Rocket Man,"Flight Day 6 was kick-started for the STS-135 astronauts with a special wake-up message from Elton John and one of the legendary performer's greatest hits. Rocket Man debuted around the time of the Apollo 16 mission, which sent men to the moon for the fifth time. The four-and-a-half minute song, which describes a long-term space bound astronaut's mixed feelings at leaving his family to do his job, has been played to awaken four shuttle crews aboard Discovery and Atlantis. Rocket Man also, one of NASA's top 40 wakeup call songs listed for voter selection during a contest to commemorate the Space Shuttle Discovery and Endeavour's last missions, earned nearly 5,000 votes from the public. The song inspired by space exploration woke up the final space shuttle crew of Atlantis one last time: Good morning Atlantis, this is Elton John. We wish you much success on your mission. A huge thank you to all the men and women at NASA who worked on the shuttle for the last three decades."
+2011-07-13,SPACE SHUTTLE,STS-135,Elton John,"Rocket Man (I Think It's Going To Be a Long, Long Time)","Flight Day 6 was kick-started for the STS-135 astronauts with a special wake-up message from Elton John and one of the legendary performer's greatest hits. Rocket Man debuted around the time of the Apollo 16 mission, which sent men to the moon for the fifth time. The four-and-a-half minute song, which describes a long-term space bound astronaut's mixed feelings at leaving his family to do his job, has been played to awaken four shuttle crews aboard Discovery and Atlantis. Rocket Man also, one of NASA's top 40 wakeup call songs listed for voter selection during a contest to commemorate the Space Shuttle Discovery and Endeavour's last missions, earned nearly 5,000 votes from the public. The song inspired by space exploration woke up the final space shuttle crew of Atlantis one last time: Good morning Atlantis, this is Elton John. We wish you much success on your mission. A huge thank you to all the men and women at NASA who worked on the shuttle for the last three decades."
 2011-07-14,SPACE SHUTTLE,STS-135,R.E.M.,Man on the Moon,"Michael Stipe front man for R.E.M. started  the crew's day with an A capella version of the group's hit, Man on the Moon. On recording this song for the Atlantis' last crew Stipe said, I recorded 'Man on The Moon' for NASA in Venice, Italy, where Galileo first presented to the Venetian government his eight-power telescope, and in 1610 wrote 'The Starry Messenger' (Sidereus Nuncius), an account of his early astronomical discoveries that altered forever our view of our place in the universe. Good morning, Atlantis, he said. This is Michael Stipe from R.E.M. We wish you much success on your mission, and thank all the women and men at NASA who have worked on shuttle for three decades. From Earth, a very good morning to you."
-2011-07-15,SPACE SHUTTLE,STS-135,The Beatles,Good Day Sunshine,"Sir Paul McCartney greeted the Atlantis crew with the Beatles favorite Good Day Sunshine. Good morning guys, wake up! And good luck on this, your last mission. Well done, McCartney said in a message recorded pre-launch for the final space shuttle crew."
+2011-07-15,SPACE SHUTTLE,STS-135,The Beatles,Good Day Sunshine,"Sir Paul McCartney greeted the Atlantis crew with The Beatles favorite Good Day Sunshine. Good morning guys, wake up! And good luck on this, your last mission. Well done, McCartney said in a message recorded pre-launch for the final space shuttle crew."
 2011-07-16,SPACE SHUTTLE,STS-135,Beyonce,Run the World (Girls),"After being awakened by a special greeting from songstress Beyonce Knowles. Beyonce also known as Sasha Fierce was born in Houston, also home of the final shuttle astronauts: Chris Ferguson, Doug Hurley, Sandy Magnus and Rex Walheim. Beyonce brought it on orbit when Girls was played for the entire crew as a tribute to the final shuttle mission and also to women in space: Good morning Atlantis, this is Beyonce. Sandy, Chris, Doug and Rex, you inspire all of us to dare to live our dreams, to know that we're smart enough and strong enough to achieve them. This song is especially for my girl, Sandy, and and all the women who've taken us to space with them and the girls who are our future explorers. http://www.archive.org/details/STS-134"
 2011-07-17,SPACE SHUTTLE,STS-135,Kool and the Gang,Celebration,"played for Mission Specialist Sandy Magnus. The song was accompanied by a special good morning message recorded by employees at NASA's Stennis Space Center in southern Mississippi, the NASA center that is home to the test stands that verified each of the main engines that helped propel space shuttles into low Earth orbit, including the three used in the STS-135 launch. Good morning Atlantis, from your friends at Stennis Space Center, Stennis employees said. It's time to fire up your engines - laissez les bons temps rouler! Laissez les bons temps rouler, is a Cajun French phrase that translates Let the good times roll. was in good working order before it was installed."
 2011-07-18,SPACE SHUTTLE,STS-135,Keith Urban,Days Go By,"which was played for Mission Specialist Rex Walheim. The song was accompanied by a special good morning message recorded by employees at NASA's Johnson Space Center in Houston, TX. The NASA center is home not only to the astronaut corps, but also Mission Control and the Space Shuttle Program. Good morning, Atlantis, from all of us at the Johnson Space Center! chorused an auditorium-full of Johnson employees in a message recorded before Atlantis' launch. Have a great mission!"
@@ -1335,10 +1335,10 @@ Dates,Program,Mission,Artist,Song,Comment
 1997-07-04:Sol 37,MARS PATHFINDER & SOJOURNER ROVER,MARS PATHFINDER,U2,Where the Streets Have No Name,
 1997-07-04:Sol 39,MARS PATHFINDER & SOJOURNER ROVER,MARS PATHFINDER,Tempus Fugit and the Time Travellers,Mars Rovin',
 2004-01-04:Sol 2,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,the Beatles.,"Good Morning, Good Morning,",
-2004-01-04:Sol 3,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Rodgers and Hammerstein.,"Oh What a Beautiful Mornin',",
+2004-01-04:Sol 3,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Rodgers and Hammerstein,Oh What a Beautiful Mornin',
 2004-01-04:Sol 4,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,the Mormon Tabernacle Choir,"Hail to the Chief,",Presidential phone call.
-2004-01-04:Sol 5,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,the Rolling Stones,"Satisfaction,","I can't get no ..., Air bags not cooperating."
-2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Bob Marley,"Get Up, Stand Up,",Lift mechanism actuated.
+2004-01-04:Sol 5,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Rolling Stones,Satisfaction,"I can't get no ..., Air bags not cooperating."
+2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Bob Marley,"Get Up, Stand Up",Lift mechanism actuated.
 2004-01-04:Sol 7,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Casaca,"Da Da Da,","Brazilian song suggested by investigator from Brazil, RRGTM student that week from Brazil."
 2004-01-04:Sol 8,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Cheryl Crow.,"Soak Up the Sun,",Laid-back sol.
 2004-01-04:Sol 9,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Jimmy Cliff.,"I Can See Clearly Now,",Picture taking sol.
@@ -1363,16 +1363,16 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 19,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Abba.,"S.O.S.,",Objective was to regain contact with Spirit after a loss of communications. We did.
 2004-01-04:Sol 20,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,UNKNOWN,"Baby, Talk to Me, from the musical Bye Bye Birdie",(Objective was to get Spirit to send data. She did.
 2004-01-04:Sol 21,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Hooters.,"Satellite,","A rousing lullaby for when we were trying, and succeeded, to get the rover to go to sleep."
-2004-01-04:Sol 22,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles.,"We Can Work it Out,",Beginning debugging activities to get Spirit back to normal.
-2004-01-04:Sol 23,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,the Rolling Stones.,"Start Me Up,",Booting in crippled mode.
-2004-01-04:Sol 24,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Queen.,"Flash,","Clearly a flash problem, continuing to debug."
+2004-01-04:Sol 22,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles,We Can Work it Out,Beginning debugging activities to get Spirit back to normal.
+2004-01-04:Sol 23,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Rolling Stones,Start Me Up,Booting in crippled mode.
+2004-01-04:Sol 24,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Queen,Flash,"Clearly a flash problem, continuing to debug."
 2004-01-04:Sol 25,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Elvis Presley,"(You're The) Devil In Disguise,","Continuing debug, got picture!"
-2004-01-04:Sol 25,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles.,"With a Little Help From My Friends,",Ibid.
-2004-01-04:Sol 26,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Huey Lewis & The News.,"I Want a New Drug,","Trying yet another recipe for getting task trace, still didn't work."
-2004-01-04:Sol 27,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Carly Simon.,"Anticipation,",Seeing if the file deletes will do the trick or not. They did.
+2004-01-04:Sol 25,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles,With a Little Help From My Friends,Ibid.
+2004-01-04:Sol 26,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Huey Lewis & The News,I Want a New Drug,"Trying yet another recipe for getting task trace, still didn't work."
+2004-01-04:Sol 27,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Carly Simon,Anticipation,Seeing if the file deletes will do the trick or not. They did.
 2004-01-04:Sol 28,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Willie Nelson.,"On the Road Again,","Can't wait to get back on ..., back to normal use of the flash file system, itching to get going."
-2004-01-04:Sol 29,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles.,"Here Comes the Sun,","More normal operations, Mars Express coordinated overflight."
-2004-01-04:Sol 30,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Club Nouveau.,"Lean On Me, performed","Intended RAT brush sol, pressing RAT on rock, though activities did not complete."
+2004-01-04:Sol 29,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Beatles,Here Comes the Sun,"More normal operations, Mars Express coordinated overflight."
+2004-01-04:Sol 30,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Club Nouveau,"Lean On Me, performed","Intended RAT brush sol, pressing RAT on rock, though activities did not complete."
 2004-01-04:Sol 31,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,the Ramones.,"I Wanna Be Sedated,",Very low activity sol to get the rover rested and ready for surgery on the following sol.
 2004-01-04:Sol 32,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Surfaris,"Wipe Out,",File system reformat.
 2004-01-04:Sol 32,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Twisted Sister.,"We're Not Gonna Take It,",Ibid.
@@ -1382,13 +1382,13 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 34,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,R. Kelly.,"Bump N' Grind,",Ibid.
 2004-01-04:Sol 35,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Credence Clearwater Revival.,"Up Around the Bend,",Intended drive around lander to begin drive to crater. Didn't get anywhere though.
 2004-01-04:Sol 36,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Elvis Presley.,"Stuck On You,",Drive didn't work yestersol -- we've been stuck here for weeks. Drive did work later that sol.
-2004-01-04:Sol 37,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Tina Turner.,Proud Mary,"And we're rolling, rolling, rolling on the river..., first long drive, ended up being more than 20 meters."
+2004-01-04:Sol 37,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Tina Turner,Proud Mary,"And we're rolling, rolling, rolling on the river..., first long drive, ended up being more than 20 meters."
 2004-01-04:Sol 38,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Van Halen.,"Runnin' With the Devil,","HGA [High Gain Antenna] problem that sol, no activities, song played late in the sol."
 2004-01-04:Sol 39,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Buster Poindexter.,"Hit the Road Jack,","Another long drive -- yes, this is a reuse of that song."
 2004-01-04:Sol 40,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Louis Armstrong.,"What a Wonderful World,","Mars, that is."
 2004-01-04:Sol 41,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Eve 6.,"Open Road Song,","Driving song, though only did several inches of driving to position in front of rock."
 2004-01-04:Sol 42,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,John Hiatt.,"Lift Up Every Stone,",Observations of the rock Mimi.
-2004-01-04:Sol 43,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Bon Jovi.,"Livin' On a Prayer,",Many sols tend to start with our fingers crossed.
+2004-01-04:Sol 43,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Bon Jovi,"Livin' On a Prayer,",Many sols tend to start with our fingers crossed.
 2004-01-04:Sol 44,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Carole King.,"Way Over Yonder,",Heading for that crater.
 2004-01-04:Sol 45,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,Diana Ross.,"Touch Me in the Morning,",Touch and go sol.
 2004-01-04:Sol 46,MARS SPIRIT AND OPPORTUNITY,MARS SPIRIT,The Everly Brothers.,"Wake Up Little Susie,",Generic wakeup song.
@@ -1419,10 +1419,11 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 2,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,the Turtles,"So Happy Together,",First full sol with both rovers on Mars.
 2004-01-04:Sol 3,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Rush,"The Spirit of Radio,",HGA release.
 2004-01-04:Sol 4,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,UNKNOWN,UNKNOWN,"original manuscript listed n/a so perhaps no song was played, RS"
-2004-01-04:Sol 5,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,"REM; I'm Still Standing, by Elton John","Stand,",Standup.
-2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Creedence Clearwater,"Lookin' Out My Back Door,",Revival.
-2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Elvis Presley,"Release Me,",Middle wheel release
-2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bruce Springsteen,"Born to Run,",Wake up.
+2004-01-04:Sol 5,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,REM,Stand,
+2004-01-04:Sol 5,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Elton John,I'm Still Standing,
+2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Creedence Clearwater Revival,"Lookin' Out My Back Door,",Revival.
+2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Elvis Presley,"Release Me,",Middle wheel release.
+2004-01-04:Sol 6,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bruce Springsteen,Born to Run,Wake up.
 2004-01-04:Sol 7,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,The Who,"I'm Free,",Cable Cut '#3'
 2004-01-04:Sol 7,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,The Who,"Going Mobile,",Egress.
 2004-01-04:Sol 8,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bachman-Turner Overdrive,"You Ain't Seen Nothing Yet,",First dual surface nominal rover operation.
@@ -1435,7 +1436,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 15,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,UNKNOWN,"The Flintstones Theme Song, end credits, Version 2 from 1962",(For the arrival at the bedrock.)
 2004-01-04:Sol 16,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Paul Simon,"Slip Slidin' Away,",Large slips along drive up to the outcrop.
 2004-01-04:Sol 17,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Wham,"Wake Me Up,",Touch and go.
-2004-01-04:Sol 18,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Tom Petty and the Heartbreakers,"Running Down a Dream,",Drive along the outcrop.
+2004-01-04:Sol 18,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Tom Petty,Running Down a Dream,Drive along the outcrop.
 2004-01-04:Sol 19,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Whitesnake,"Here I Go Again,",Repeat of sol 18 drive objective.
 2004-01-04:Sol 20,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Red Hot Chili Peppers,"I Like Dirt,",MI/MB and drive.
 2004-01-04:Sol 20,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Landa/Linsley,"The Pioneers of Mars,",Ibid.
@@ -1451,7 +1452,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 29,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,the Doors,"Riders on the Storm,",Heavy weather at DSS-63 and DSS-14.
 2004-01-04:Sol 30,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Steve Miller Band,"Rock 'n Me,",1st RAT on opportunity.
 2004-01-04:Sol 31,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bill Haley and His Comets,"Rock around the Clock,",APXS/MB.
-2004-01-04:Sol 32,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,the Beatles,"Let It Be,",Long MB integration -- no IDD or mobility.
+2004-01-04:Sol 32,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,the Beatles,Let It Be,Long MB integration -- no IDD or mobility.
 2004-01-04:Sol 33,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Fats Domino,Blueberry Hill,in honor of the hill in front of the rover.
 2004-01-04:Sol 34,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Lenny Kravitz.,Dig In,
 2004-01-04:Sol 35,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Jimmy Cliff.,I Can See Clearly Now,
@@ -1460,7 +1461,7 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 38,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Creedence Clearwater Revival,Have You Ever Seen the Rain?,in honor of the confirmation that liquid water once flowed through the rocks at Meridiani Planum.
 2004-01-04:Sol 39,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Creedence Clearwater Revival,Bad Moon Rising,in honor of the eclipse caused by the Martian moon Deimos.
 2004-01-04:Sol 41,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Willie Nelson.,On the Road Again,
-2004-01-04:Sol 43,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bruce Springsteen,You Can Look (But You Better Not Touch),in recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.
+2004-01-04:Sol 43,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bruce Springsteen,You Can Look (But You Better Not Touch),In recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.
 2004-01-04:Sol 44,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Janis Joplin,Try (Just a Little Bit Harder),"for the rock abrasion tool's second attempt at Mojo 2,"
 2004-01-04:Sol 44,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Kiss,X-ray Eyes,for the alpha particle X-ray spectrometer.
 2004-01-04:Sol 45,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Pink Floyd,Eclipse,"in recognition of the transit of the martian moon, Phobos."
@@ -1477,11 +1478,11 @@ Dates,Program,Mission,Artist,Song,Comment
 2004-01-04:Sol 57,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,the JBs and Fred Wesley.,"If You Don't Get it the First Time, Back Up and Try it Again",
 2004-01-04:Sol 58,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,"Lambert, Hendricks and Ross",Come on Home,beckoned Opportunity back toward its landing site crater to an area of bright material.
 2004-01-04:Sol 59,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Simon and Garfunkel.,59th Street Bridge Song (Feeling Groovy),
-2004-01-04:Sol 60,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Elton John in honor of the Lion King panorama.,The Circle of Life,
+2004-01-04:Sol 60,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Elton John,The Circle of Life, in honor of the Lion King panorama
 2004-01-04:Sol 64,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,REM.,Stand,
 2004-01-04:Sol 65,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Aerosmith.,Back in the Saddle,
-2004-01-04:Sol 66,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bon Jovi.,Bounce,Opportunity's rock abrasion tool ground into Bounce for just over two hours.
-2004-01-04:Sol 67,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,David Bowie.,Changes,
+2004-01-04:Sol 66,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Bon Jovi,Bounce,Opportunity's rock abrasion tool ground into Bounce for just over two hours.
+2004-01-04:Sol 67,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,David Bowie,Changes,
 2004-01-04:Sol 68,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Van Morrison.,Got to Go Back,
 2004-01-04:Sol 69,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,Tom Adams,Little Maggie,chosen for the soil target named Maggie.
 2004-01-04:Sol 70,MARS SPIRIT AND OPPORTUNITY,MARS OPPORTUNITY,The Greatful Dead.,Truckin',
