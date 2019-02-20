@@ -3,7 +3,7 @@
         {
             "OriginalAuthor": "Colin Fries: NASA History Division",
             "OriginalDate": "2015-03-13",
-            "PublishedDate": "2019-15-01",
+            "PublishedDate": "2019-20-02",
             "Title": "Chronology of NASA Wakeup Calls",
             "UpdatedBy": "Ross Spencer",
             "Website": "https://nasawakeupcalls.github.io/"
@@ -185,9 +185,9 @@
                                     "SONG": "I'll Be Home For Christmas"
                                 },
                                 {
-                                    "ARTIST": "UKNOWN",
+                                    "ARTIST": "Dean Martin",
                                     "Comment": "Ibid.",
-                                    "SONG": "Going Back to Houston"
+                                    "SONG": "Houston"
                                 }
                             ]
                         }
@@ -249,9 +249,9 @@
                                     "SONG": "My Favorite Things"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Dean Martin",
                                     "Comment": "Mission Commentary Tape 248, page 1 - Mission Commentary Tape 249, page 1",
-                                    "SONG": "Going Back to Houston"
+                                    "SONG": "Houston"
                                 }
                             ]
                         }
@@ -314,7 +314,7 @@
                             "1969-05-26": [
                                 {
                                     "ARTIST": "UNKNOWN",
-                                    "SONG": "Bugle call for reveille"
+                                    "SONG": "Reveille (Bugle Call)"
                                 }
                             ]
                         }
@@ -649,7 +649,8 @@
                                 {
                                     "ARTIST": "Dean Martin",
                                     "CAPCOM": "Henry Hartsfield",
-                                    "SONG": "Going Back to Houston (Sic), probably Houston"
+                                    "Comment": "Going Back to Houston (Sic), probably Houston.",
+                                    "SONG": "Houston"
                                 }
                             ]
                         }
@@ -1175,7 +1176,7 @@
                             "1974-02-08": [
                                 {
                                     "ARTIST": "Dean Martin",
-                                    "SONG": "Goin'Back to Houston"
+                                    "SONG": "Houston"
                                 }
                             ]
                         }
@@ -1271,7 +1272,7 @@
                                 {
                                     "ARTIST": "n/a",
                                     "Comment": "Short excerpt from an old Spike Jones record followed by a comic tape with voices of Houston DJs Hudson and Harrigan kidding Young and Crippen, then  Reveille. It's splashdown, and Crip, you could both use a shower, said one member of the radio team. You've waited for this for 12 years and if you don't wake up you're going to miss the whole darn thing. Crip, said one voice, get out of the rack. No, no, no, said the other. If he wakes up he'll spill coffee all over the controls. Get to work, you guys. You've got 300 government agencies out there to support. Then Mission Control came back on the line. Now hear this, now hear this, reveille, reveille, up all idlers. And that last wakeup call, we'd like you to scratch out 'splashdown' and insert 'touchdown,' said Mission Control.",
-                                    "SONG": "Reveille"
+                                    "SONG": "Reveille (Bugle Call)"
                                 }
                             ]
                         }
@@ -1589,11 +1590,11 @@
                                 },
                                 {
                                     "ARTIST": "UNKNOWN",
-                                    "SONG": "Reveille"
+                                    "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
                                     "ARTIST": "Mary Cleave's father",
-                                    "Comment": "Mary Cleave, the CAPCOM for this crew",
+                                    "Comment": "Mary Cleave's father was the CAPCOM for this crew",
                                     "SONG": "When You're Smiling"
                                 },
                                 {
@@ -1630,7 +1631,7 @@
                                 },
                                 {
                                     "ARTIST": "The Beatles",
-                                    "Comment": "it sounded like the crew down linked a Beatles' song, A Hard Day's Night. From STS-7 AIR/GROUND TRANSCRIPT",
+                                    "Comment": "It sounded like the crew down linked a Beatles' song, A Hard Day's Night. From STS-7 AIR/GROUND TRANSCRIPT",
                                     "SONG": "A Hard Day's Night"
                                 }
                             ]
@@ -1804,7 +1805,7 @@
                         {
                             "1984-04-07": [
                                 {
-                                    "ARTIST": "Johnny Cash.",
+                                    "ARTIST": "Johnny Cash",
                                     "SONG": "A Boy Named Sue"
                                 }
                             ]
@@ -2010,7 +2011,7 @@
                                     "SONG": "Good Morning Starshine from the musical Hair"
                                 },
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "SONG": "Good Day Sunshine"
                                 }
                             ]
@@ -2435,7 +2436,7 @@
                             "1985-12-03": [
                                 {
                                     "ARTIST": "Bruce Springsteen",
-                                    "SONG": "Born in the U.S.A."
+                                    "SONG": "Born in the USA"
                                 }
                             ]
                         }
@@ -2585,7 +2586,7 @@
                                 {
                                     "ARTIST": "John Williams",
                                     "Comment": "Using Star Wars theme music as background, Darth Vader's voice awoke the crew with a message followed by satirical lyrics sung to The Beatles tune, Do You Want to Know a Secret? The recording was produced by Houston radio station KKBQ's Mike Cahill, Pat Brennan, and Mark Richardson.",
-                                    "SONG": "Star Wars"
+                                    "SONG": "Star Wars (Main Title)"
                                 },
                                 {
                                     "ARTIST": "The Beatles",
@@ -2685,7 +2686,7 @@
                             "1989-05-05": [
                                 {
                                     "ARTIST": "John Williams",
-                                    "SONG": "Theme music from the film, Superman"
+                                    "SONG": "Superman (Main Title)"
                                 }
                             ]
                         },
@@ -2752,7 +2753,7 @@
                                     "ARTIST": "UNKNOWN",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Ibid.",
-                                    "SONG": "Reveille"
+                                    "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
                                     "ARTIST": "UNKNOWN",
@@ -3339,11 +3340,11 @@
                             "1991-11-26": [
                                 {
                                     "ARTIST": "gunfire",
-                                    "SONG": "Reveille (bugle call) followed"
+                                    "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
                                     "ARTIST": "Irving Berlin",
-                                    "Comment": "from the movie, This is the Army.",
+                                    "Comment": "From the movie, 'This is the Army'.",
                                     "SONG": "This is the Army, Mr. Jones"
                                 }
                             ]
@@ -3876,8 +3877,8 @@
                                 },
                                 {
                                     "ARTIST": "John Williams",
-                                    "Comment": "sent to Discovery.",
-                                    "SONG": "Star Wars Theme"
+                                    "Comment": "Sent to Discovery.",
+                                    "SONG": "Star Wars (Main Title)"
                                 }
                             ]
                         },
@@ -4759,7 +4760,7 @@
                         {
                             "1995-09-12": [
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "SONG": "A Hard Day's Night"
                                 }
                             ]
@@ -4883,8 +4884,8 @@
                         {
                             "1996-01-12": [
                                 {
-                                    "ARTIST": "John Williams.",
-                                    "SONG": "Theme from Star Wars"
+                                    "ARTIST": "John Williams",
+                                    "SONG": "Star Wars (Main Title)"
                                 }
                             ]
                         },
@@ -5127,7 +5128,7 @@
                         {
                             "1996-06-21": [
                                 {
-                                    "ARTIST": "Tom Petty.",
+                                    "ARTIST": "Tom Petty",
                                     "CAPCOM": "Kay Hire",
                                     "SONG": "Free Fallin'"
                                 }
@@ -5156,9 +5157,9 @@
                         {
                             "1996-06-24": [
                                 {
-                                    "ARTIST": "David Bowie. The Major Tom",
+                                    "ARTIST": "David Bowie",
                                     "CAPCOM": "Kay Hire",
-                                    "Comment": "reference is to Tom Henricks.",
+                                    "Comment": "The major tom reference is to Tom Henricks.",
                                     "SONG": "Space Oddity"
                                 }
                             ]
@@ -5887,7 +5888,7 @@
                         {
                             "1997-08-12": [
                                 {
-                                    "ARTIST": "Stevie Ray Vaughn",
+                                    "ARTIST": "Stevie Ray Vaughan",
                                     "CAPCOM": "Marc Garneau",
                                     "SONG": "The House is Rockin'"
                                 }
@@ -6572,7 +6573,7 @@
                         {
                             "1998-11-02": [
                                 {
-                                    "ARTIST": "ndy Williams",
+                                    "ARTIST": "Andy Williams",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "Annie Glenn requested it as a tribute to the friendship between Williams and her husband. I was sleeping very, very soundly this morning when the wake up call came in, Glenn said.",
                                     "SONG": "Moon River"
@@ -6582,7 +6583,7 @@
                         {
                             "1998-11-03": [
                                 {
-                                    "ARTIST": "Stevie Ray Vaughn",
+                                    "ARTIST": "Stevie Ray Vaughan",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "In honor of Mission Specialist Steve Robinson known as Stevie Ray Robinson by other members of his astronaut band, Max Q. That's what I call wake-up music. Good day to go get a satellite, he told Mission Control.",
                                     "SONG": "The House is Rockin'"
@@ -7127,7 +7128,7 @@
                             "2000-02-19": [
                                 {
                                     "ARTIST": "Tom Petty",
-                                    "Comment": "played for Mission Specialist Susan Helms",
+                                    "Comment": "Played for mission specialist Susan Helms",
                                     "SONG": "Free Fallin'"
                                 }
                             ]
@@ -7136,7 +7137,7 @@
                             "2000-02-20": [
                                 {
                                     "ARTIST": "Bob Seger",
-                                    "Comment": "in honor of the upcoming evening rendezvous with the International Space Station.",
+                                    "Comment": "In honor of the upcoming evening rendezvous with the International Space Station.",
                                     "SONG": "Shining Brightly"
                                 }
                             ]
@@ -7492,7 +7493,7 @@
                         {
                             "2000-12-07": [
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "For Joe Tanner",
                                     "SONG": "Here Comes the Sun"
                                 }
@@ -7699,7 +7700,7 @@
                             "2001-03-13": [
                                 {
                                     "ARTIST": "Tom Petty",
-                                    "Comment": "a favorite of astronaut Susan Helms who today will take up official residence on the station as a member of the outpost's second crew.",
+                                    "Comment": "A favorite of astronaut Susan Helms who today will take up official residence on the station as a member of the outpost's second crew.",
                                     "SONG": "Free Fallin'"
                                 }
                             ]
@@ -8220,7 +8221,7 @@
                         {
                             "2001-12-17": [
                                 {
-                                    "ARTIST": "Jon Bon Jovi.",
+                                    "ARTIST": "Bon Jovi",
                                     "SONG": "Please Come Home For Christmas"
                                 }
                             ]
@@ -9197,7 +9198,7 @@
                         {
                             "2005-08-08": [
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "SONG": "Good Day Sunshine"
                                 }
                             ]
@@ -9912,7 +9913,7 @@
                                 {
                                     "ARTIST": "John Williams",
                                     "Comment": "The crews of Space Shuttle Discovery and the station were awakened this morning at 12:38 with composer John Williams' theme song from the original Star Wars movie trilogy. The song was played for Parazynski.",
-                                    "SONG": "Star Wars"
+                                    "SONG": "Star Wars (Main Title)"
                                 }
                             ]
                         },
@@ -10375,7 +10376,7 @@
                         {
                             "2008-11-16": [
                                 {
-                                    "ARTIST": "the Rolling Stones",
+                                    "ARTIST": "The Rolling Stones",
                                     "Comment": "It was played for Mission Specialist Sandra Magnus. I want to thank my family for that music and I'm looking forward to moving into my new home today, Magnus radioed down to Mission Control in Houston.",
                                     "SONG": "Start Me Up"
                                 }
@@ -10534,7 +10535,7 @@
                             "2009-03-18": [
                                 {
                                     "ARTIST": "Johnny Cash",
-                                    "Comment": "was played for Steve Swanson.",
+                                    "Comment": "Played for Steve Swanson.",
                                     "SONG": "I Walk the Line"
                                 }
                             ]
@@ -10720,7 +10721,7 @@
                                 {
                                     "ARTIST": "John Williams",
                                     "Comment": "The song was played for the entire crew.",
-                                    "SONG": "Cantina Band,"
+                                    "SONG": "Cantina Band"
                                 }
                             ]
                         },
@@ -10786,9 +10787,9 @@
                         {
                             "2009-07-19": [
                                 {
-                                    "ARTIST": "Tom Petty and the Heartbreakers",
-                                    "Comment": "for former Navy SEAL Chris Cassidy, who is making his first space flight aboard the space shuttle Endeavour .",
-                                    "SONG": "Learning to Fly,"
+                                    "ARTIST": "Tom Petty",
+                                    "Comment": "For former Navy SEAL Chris Cassidy, who is making his first space flight aboard the space shuttle Endeavour .",
+                                    "SONG": "Learning to Fly"
                                 }
                             ]
                         },
@@ -11224,8 +11225,8 @@
                         {
                             "2010-02-17": [
                                 {
-                                    "ARTIST": "Johnny A.",
-                                    "Comment": "played for Mission Specialist Stephen Robinson.",
+                                    "ARTIST": "Johnny A",
+                                    "Comment": "Played for Mission Specialist Stephen Robinson.",
                                     "SONG": "Oh Yeah"
                                 }
                             ]
@@ -11450,7 +11451,7 @@
                         {
                             "2010-05-19": [
                                 {
-                                    "ARTIST": "the Rolling Stones",
+                                    "ARTIST": "The Rolling Stones",
                                     "Comment": "was played for Piers Sellers.",
                                     "SONG": "Start Me Up"
                                 }
@@ -11836,7 +11837,7 @@
                                 {
                                     "ARTIST": "Elton John",
                                     "Comment": "Flight Day 6 was kick-started for the STS-135 astronauts with a special wake-up message from Elton John and one of the legendary performer's greatest hits. Rocket Man debuted around the time of the Apollo 16 mission, which sent men to the moon for the fifth time. The four-and-a-half minute song, which describes a long-term space bound astronaut's mixed feelings at leaving his family to do his job, has been played to awaken four shuttle crews aboard Discovery and Atlantis. Rocket Man also, one of NASA's top 40 wakeup call songs listed for voter selection during a contest to commemorate the Space Shuttle Discovery and Endeavour's last missions, earned nearly 5,000 votes from the public. The song inspired by space exploration woke up the final space shuttle crew of Atlantis one last time: Good morning Atlantis, this is Elton John. We wish you much success on your mission. A huge thank you to all the men and women at NASA who worked on the shuttle for the last three decades.",
-                                    "SONG": "Rocket Man"
+                                    "SONG": "Rocket Man (I Think It's Going To Be a Long, Long Time)"
                                 }
                             ]
                         },
@@ -11853,7 +11854,7 @@
                             "2011-07-15": [
                                 {
                                     "ARTIST": "The Beatles",
-                                    "Comment": "Sir Paul McCartney greeted the Atlantis crew with the Beatles favorite Good Day Sunshine. Good morning guys, wake up! And good luck on this, your last mission. Well done, McCartney said in a message recorded pre-launch for the final space shuttle crew.",
+                                    "Comment": "Sir Paul McCartney greeted the Atlantis crew with The Beatles favorite Good Day Sunshine. Good morning guys, wake up! And good luck on this, your last mission. Well done, McCartney said in a message recorded pre-launch for the final space shuttle crew.",
                                     "SONG": "Good Day Sunshine"
                                 }
                             ]
@@ -12256,9 +12257,9 @@
                         {
                             "2004-01-04:Sol 3": [
                                 {
-                                    "ARTIST": "Rodgers and Hammerstein.",
+                                    "ARTIST": "Rodgers and Hammerstein",
                                     "SOL": "Sol 3",
-                                    "SONG": "Oh What a Beautiful Mornin',"
+                                    "SONG": "Oh What a Beautiful Mornin'"
                                 }
                             ]
                         },
@@ -12275,10 +12276,10 @@
                         {
                             "2004-01-04:Sol 5": [
                                 {
-                                    "ARTIST": "the Rolling Stones",
+                                    "ARTIST": "The Rolling Stones",
                                     "Comment": "I can't get no ..., Air bags not cooperating.",
                                     "SOL": "Sol 5",
-                                    "SONG": "Satisfaction,"
+                                    "SONG": "Satisfaction"
                                 }
                             ]
                         },
@@ -12288,7 +12289,7 @@
                                     "ARTIST": "Bob Marley",
                                     "Comment": "Lift mechanism actuated.",
                                     "SOL": "Sol 6",
-                                    "SONG": "Get Up, Stand Up,"
+                                    "SONG": "Get Up, Stand Up"
                                 }
                             ]
                         },
@@ -12499,30 +12500,30 @@
                         {
                             "2004-01-04:Sol 22": [
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "Beginning debugging activities to get Spirit back to normal.",
                                     "SOL": "Sol 22",
-                                    "SONG": "We Can Work it Out,"
+                                    "SONG": "We Can Work it Out"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 23": [
                                 {
-                                    "ARTIST": "the Rolling Stones.",
+                                    "ARTIST": "The Rolling Stones",
                                     "Comment": "Booting in crippled mode.",
                                     "SOL": "Sol 23",
-                                    "SONG": "Start Me Up,"
+                                    "SONG": "Start Me Up"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 24": [
                                 {
-                                    "ARTIST": "Queen.",
+                                    "ARTIST": "Queen",
                                     "Comment": "Clearly a flash problem, continuing to debug.",
                                     "SOL": "Sol 24",
-                                    "SONG": "Flash,"
+                                    "SONG": "Flash"
                                 }
                             ]
                         },
@@ -12535,30 +12536,30 @@
                                     "SONG": "(You're The) Devil In Disguise,"
                                 },
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 25",
-                                    "SONG": "With a Little Help From My Friends,"
+                                    "SONG": "With a Little Help From My Friends"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 26": [
                                 {
-                                    "ARTIST": "Huey Lewis & The News.",
+                                    "ARTIST": "Huey Lewis & The News",
                                     "Comment": "Trying yet another recipe for getting task trace, still didn't work.",
                                     "SOL": "Sol 26",
-                                    "SONG": "I Want a New Drug,"
+                                    "SONG": "I Want a New Drug"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 27": [
                                 {
-                                    "ARTIST": "Carly Simon.",
+                                    "ARTIST": "Carly Simon",
                                     "Comment": "Seeing if the file deletes will do the trick or not. They did.",
                                     "SOL": "Sol 27",
-                                    "SONG": "Anticipation,"
+                                    "SONG": "Anticipation"
                                 }
                             ]
                         },
@@ -12575,17 +12576,17 @@
                         {
                             "2004-01-04:Sol 29": [
                                 {
-                                    "ARTIST": "The Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "More normal operations, Mars Express coordinated overflight.",
                                     "SOL": "Sol 29",
-                                    "SONG": "Here Comes the Sun,"
+                                    "SONG": "Here Comes the Sun"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 30": [
                                 {
-                                    "ARTIST": "Club Nouveau.",
+                                    "ARTIST": "Club Nouveau",
                                     "Comment": "Intended RAT brush sol, pressing RAT on rock, though activities did not complete.",
                                     "SOL": "Sol 30",
                                     "SONG": "Lean On Me, performed"
@@ -12673,7 +12674,7 @@
                         {
                             "2004-01-04:Sol 37": [
                                 {
-                                    "ARTIST": "Tina Turner.",
+                                    "ARTIST": "Tina Turner",
                                     "Comment": "And we're rolling, rolling, rolling on the river..., first long drive, ended up being more than 20 meters.",
                                     "SOL": "Sol 37",
                                     "SONG": "Proud Mary"
@@ -12733,7 +12734,7 @@
                         {
                             "2004-01-04:Sol 43": [
                                 {
-                                    "ARTIST": "Bon Jovi.",
+                                    "ARTIST": "Bon Jovi",
                                     "Comment": "Many sols tend to start with our fingers crossed.",
                                     "SOL": "Sol 43",
                                     "SONG": "Livin' On a Prayer,"
@@ -13033,24 +13034,28 @@
                         {
                             "2004-01-04:Sol 5": [
                                 {
-                                    "ARTIST": "REM; I'm Still Standing, by Elton John",
-                                    "Comment": "Standup.",
+                                    "ARTIST": "REM",
                                     "SOL": "Sol 5",
-                                    "SONG": "Stand,"
+                                    "SONG": "Stand"
+                                },
+                                {
+                                    "ARTIST": "Elton John",
+                                    "SOL": "Sol 5",
+                                    "SONG": "I'm Still Standing"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 6": [
                                 {
-                                    "ARTIST": "Creedence Clearwater",
+                                    "ARTIST": "Creedence Clearwater Revival",
                                     "Comment": "Revival.",
                                     "SOL": "Sol 6",
                                     "SONG": "Lookin' Out My Back Door,"
                                 },
                                 {
                                     "ARTIST": "Elvis Presley",
-                                    "Comment": "Middle wheel release",
+                                    "Comment": "Middle wheel release.",
                                     "SOL": "Sol 6",
                                     "SONG": "Release Me,"
                                 },
@@ -13058,7 +13063,7 @@
                                     "ARTIST": "Bruce Springsteen",
                                     "Comment": "Wake up.",
                                     "SOL": "Sol 6",
-                                    "SONG": "Born to Run,"
+                                    "SONG": "Born to Run"
                                 }
                             ]
                         },
@@ -13181,10 +13186,10 @@
                         {
                             "2004-01-04:Sol 18": [
                                 {
-                                    "ARTIST": "Tom Petty and the Heartbreakers",
+                                    "ARTIST": "Tom Petty",
                                     "Comment": "Drive along the outcrop.",
                                     "SOL": "Sol 18",
-                                    "SONG": "Running Down a Dream,"
+                                    "SONG": "Running Down a Dream"
                                 }
                             ]
                         },
@@ -13335,7 +13340,7 @@
                                     "ARTIST": "the Beatles",
                                     "Comment": "Long MB integration -- no IDD or mobility.",
                                     "SOL": "Sol 32",
-                                    "SONG": "Let It Be,"
+                                    "SONG": "Let It Be"
                                 }
                             ]
                         },
@@ -13418,7 +13423,7 @@
                             "2004-01-04:Sol 43": [
                                 {
                                     "ARTIST": "Bruce Springsteen",
-                                    "Comment": "in recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.",
+                                    "Comment": "In recognition of the fact that the rock abrasion tool grind did not touch the surface of its rock target on sol 42.",
                                     "SOL": "Sol 43",
                                     "SONG": "You Can Look (But You Better Not Touch)"
                                 }
@@ -13569,7 +13574,8 @@
                         {
                             "2004-01-04:Sol 60": [
                                 {
-                                    "ARTIST": "Elton John in honor of the Lion King panorama.",
+                                    "ARTIST": "Elton John",
+                                    "Comment": " in honor of the Lion King panorama",
                                     "SOL": "Sol 60",
                                     "SONG": "The Circle of Life"
                                 }
@@ -13596,7 +13602,7 @@
                         {
                             "2004-01-04:Sol 66": [
                                 {
-                                    "ARTIST": "Bon Jovi.",
+                                    "ARTIST": "Bon Jovi",
                                     "Comment": "Opportunity's rock abrasion tool ground into Bounce for just over two hours.",
                                     "SOL": "Sol 66",
                                     "SONG": "Bounce"
@@ -13606,7 +13612,7 @@
                         {
                             "2004-01-04:Sol 67": [
                                 {
-                                    "ARTIST": "David Bowie.",
+                                    "ARTIST": "David Bowie",
                                     "SOL": "Sol 67",
                                     "SONG": "Changes"
                                 }
@@ -13712,8 +13718,8 @@
                             "2019-02-12": [
                                 {
                                     "ARTIST": "Billie Holiday",
-                                    "SONG": "I'll Be Seeing You",
-                                    "Comment": "Doomed by a dust storm eight-months prior to this transmission, attempts were made to awaken Opportunity with a series of recovery commands and one final wake-up call."
+                                    "Comment": "Doomed by a dust storm eight-months prior to this transmission, attempts were made to awaken Opportunity with a series of recovery commands and one final wake-up call.",
+                                    "SONG": "I'll Be Seeing You"
                                 }
                             ]
                         }
