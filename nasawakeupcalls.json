@@ -143,7 +143,7 @@
                                     "SONG": "The Last Two Movements From Symphony Five from The New World"
                                 },
                                 {
-                                    "ARTIST": "Johann Strauss",
+                                    "ARTIST": "Johann Strauss II",
                                     "Comment": "Ibid.",
                                     "SONG": "Perpetual Motion Opus Number 257"
                                 },
@@ -378,8 +378,8 @@
                             "1971-08-04": [
                                 {
                                     "ARTIST": "Richard Strauss",
-                                    "Comment": "Spacecraft communicator Karl Henize",
-                                    "SONG": "- Theme From 2001: A Space Odyssey"
+                                    "Comment": "Theme from 2001: A Space Odyssey. Spacecraft communicator Karl Henize",
+                                    "SONG": "Also sprach Zarathustra"
                                 }
                             ]
                         },
@@ -444,8 +444,9 @@
                         {
                             "1972-12-14": [
                                 {
-                                    "ARTIST": "Richard Strauss to lunar crew",
-                                    "SONG": "Thus Spake Zarathrustra (Theme from 2001')"
+                                    "ARTIST": "Richard Strauss",
+                                    "Comment": "Theme From 2001: A Space Odyssey/ Played to the lunar crew",
+                                    "SONG": "Also sprach Zarathustra"
                                 }
                             ]
                         },
@@ -461,7 +462,7 @@
                         {
                             "1972-12-16": [
                                 {
-                                    "ARTIST": "The Doors.",
+                                    "ARTIST": "The Doors",
                                     "Comment": "Same day that crew ignites SPS and leaves lunar orbit.",
                                     "SONG": "Light My Fire"
                                 }
@@ -470,7 +471,7 @@
                         {
                             "1972-12-17": [
                                 {
-                                    "ARTIST": "Jerry Vale.",
+                                    "ARTIST": "Jerry Vale",
                                     "SONG": "Home For the Holidays"
                                 }
                             ]
@@ -478,12 +479,12 @@
                         {
                             "1972-12-18": [
                                 {
-                                    "ARTIST": "The Carpenters.",
+                                    "ARTIST": "The Carpenters",
                                     "Comment": "...played in the belief that the end of Apollo is not end of humanity's lunar adventure. From ALSJ.",
                                     "SONG": "We've Only Just Begun"
                                 },
                                 {
-                                    "ARTIST": "Ron Evans' neighbors.",
+                                    "ARTIST": "Ron Evans' neighbors",
                                     "Comment": "From MC.",
                                     "SONG": "Christmas carol"
                                 }
@@ -501,6 +502,7 @@
                                 },
                                 {
                                     "ARTIST": "UNKNOWN",
+                                    "Comment": "Played a second time.",
                                     "SONG": "Anchors Aweigh"
                                 }
                             ]
@@ -928,9 +930,9 @@
                         {
                             "1974-01-14": [
                                 {
-                                    "ARTIST": "Neil Diamon",
+                                    "ARTIST": "Neil Diamond",
                                     "CAPCOM": "Bruce McCandless",
-                                    "SONG": "Neil Diamond vocal"
+                                    "SONG": "n/a"
                                 }
                             ]
                         },
@@ -1293,7 +1295,8 @@
                         {
                             "2001-11-15": [
                                 {
-                                    "ARTIST": "The Flight Operations Directorate group: Contraband",
+                                    "ARTIST": "Contraband",
+                                    "Comment": "The Flight Operations Directorate group: Contraband",
                                     "SONG": "Columbia, Gem of the Ocean"
                                 }
                             ]
@@ -1512,7 +1515,7 @@
                         {
                             "1983-04-05": [
                                 {
-                                    "ARTIST": "the United States Air Force Academy Band",
+                                    "ARTIST": "United States Air Force Academy Band",
                                     "SONG": "Cadets on Parade and The Air Force Song (Off We Go Into the Wild Blue Yonder)"
                                 }
                             ]
@@ -1564,7 +1567,7 @@
                                 },
                                 {
                                     "ARTIST": "UNKNOWN",
-                                    "Comment": "of course, a tribute to the Mission Commander, Bob Crippen who is a UT graduate. It was preceded by the Texas A&M, Texas Aggie, Fight Song which was a greeting card to Crip from Jerry Griffin, the Center Director at JSC, who is a Texas A&M graduate. From STS-7 AIR/GROUND TRANSCRIPT",
+                                    "Comment": "of course, a tribute to the Mission Commander, Bob Crippen who is a UT graduate. It was preceded by the Texas A&M, Texas Aggie, Fight Song which was a greeting card to Crip from Jerry Griffin, the Center Director at JSC (Johnson Space Center), who is a Texas A&M graduate. From STS-7 AIR/GROUND TRANSCRIPT",
                                     "SONG": "The University of Texas Fight Song"
                                 }
                             ]
@@ -1576,7 +1579,7 @@
                                     "SONG": "A&M, Texas A&M Aggie War Hymn"
                                 },
                                 {
-                                    "ARTIST": "the Tufts University Beelzebubs",
+                                    "ARTIST": "Tufts University Beelzebubs",
                                     "Comment": "a student acappella group at Tufts University, Rick Hauck's alma mater.",
                                     "SONG": "Tufts Tonia's Day"
                                 }
@@ -1625,7 +1628,7 @@
                                     "SONG": "Texas A&M, Texas Aggie War Hymn,"
                                 },
                                 {
-                                    "ARTIST": "the Leeland Stanford Junior University Marching Band",
+                                    "ARTIST": "Leeland Stanford Junior University Marching Band",
                                     "Comment": "which of course is the alma mater of Dr. Sally Ride and",
                                     "SONG": "Stanford Hymn"
                                 },
@@ -1643,7 +1646,7 @@
                                     "SONG": "Texas Aggie War Hymn"
                                 },
                                 {
-                                    "ARTIST": "the Florida State University  Marching Chiefs",
+                                    "ARTIST": "Florida State University Marching Chiefs",
                                     "Comment": "Norm Thagard is an alumnus of FSU. From STS-7 AIR/GROUND TRANSCRIPT",
                                     "SONG": "Florida State University Fight Song"
                                 }
@@ -1703,7 +1706,7 @@
                         {
                             "1983-09-05": [
                                 {
-                                    "ARTIST": "John Philip Sousa.",
+                                    "ARTIST": "John Philip Sousa",
                                     "Comment": "CAPCOM Brian O'Connor was a Marine Corps officer.",
                                     "SONG": "Semper Fidelis"
                                 }
@@ -1741,7 +1744,7 @@
                         {
                             "1984-02-06": [
                                 {
-                                    "ARTIST": "the University of Colorado Band",
+                                    "ARTIST": "University of Colorado Band",
                                     "Comment": "That's the fight song of that institution which is Vance Brand's alma mater followed by Ride High You Mustangs the Cal Poly State University fight song which is Pilot Robert Gibson's alma mater.",
                                     "SONG": "Glory, Glory, Colorado"
                                 }
@@ -1750,7 +1753,7 @@
                         {
                             "1984-02-07": [
                                 {
-                                    "ARTIST": "Guess Who, the U.S. Air Force Academy Chorale",
+                                    "ARTIST": "United States Air Force Academy Chorale",
                                     "Comment": "which covered three of the services. The Marine Corp., of course is Vance Brand's alma mater. He's now a civilian but was originally trained as a Marine Corps pilot. The Navy hymn in honor of Mission Specialist, Bruce McCandless and Challenger Pilot, Hoot Gibson, both Naval Officers. And the Army song honoring the nation's first United States Army Astronaut, Bob Stewart. And the music was performed by guess who, the U.S. Air Force Academy Chorale. From STS-41-B AIR/GROUND TRANSCRIPT",
                                     "SONG": "Armed forces medley"
                                 }
@@ -1792,7 +1795,7 @@
                             "1984-02-11": [
                                 {
                                     "ARTIST": "Contraband",
-                                    "Comment": "a musical group composed of JSC employees.",
+                                    "Comment": "a musical group composed of JSC (Johnson Space Center) employees.",
                                     "SONG": "In the Mood"
                                 }
                             ]
@@ -2066,7 +2069,7 @@
                                     "SONG": "Excerpt from 1812 Overture"
                                 },
                                 {
-                                    "ARTIST": "Doobie Brothers",
+                                    "ARTIST": "The Doobie Brothers",
                                     "Comment": "Ibid.",
                                     "SONG": "Listen to the Music"
                                 }
@@ -2250,7 +2253,7 @@
                                     "SONG": "Medley of unidentified Saudi Arabian music"
                                 },
                                 {
-                                    "ARTIST": "Neil Diamond.",
+                                    "ARTIST": "Neil Diamond",
                                     "CAPCOM": "David Leestma",
                                     "Comment": "First Wakeup",
                                     "SONG": "Be from the movie Jonathan Livingston Seagull"
@@ -2450,7 +2453,8 @@
                                 {
                                     "ARTIST": "John Philip Sousa",
                                     "CAPCOM": "Shannon Lucid",
-                                    "SONG": "Opening theme from Monty Python's Flying Circus TV show (Liberty Bell March)"
+                                    "Comment": "Better known as the theme from the TV show, Monty Python's Flying Circus.",
+                                    "SONG": "Liberty Bell March"
                                 }
                             ]
                         },
@@ -2666,13 +2670,13 @@
                         {
                             "1989-03-18": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel",
-                                    "Comment": "Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon and Garfunkel",
+                                    "ARTIST": "Simon & Garfunkel",
+                                    "Comment": "Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon & Garfunkel",
                                     "SONG": "Homeward Bound"
                                 },
                                 {
                                     "ARTIST": "Louis Armstrong",
-                                    "Comment": "Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon and Garfunkel.",
+                                    "Comment": "Mission Control sent recordings of astronauts' children shouting such things as Get up, Dad, get out of bed and get to work and Hi, daddy, this is your darling daughter telling you to wake up. This was followed by What a Wonderful World by Louis Armstrong. The crew responded with Homeward Bound by Simon & Garfunkel.",
                                     "SONG": "What a Wonderful World"
                                 }
                             ]
@@ -2788,7 +2792,7 @@
                         {
                             "1989-10-21": [
                                 {
-                                    "ARTIST": "Queen.",
+                                    "ARTIST": "Queen",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Words Galileo, Galileo referring to primary payload Galileo were substituted for original words Mama Mia, Mama Mia by voice of Don McMonagle.",
                                     "SONG": "Bohemian Rhapsody"
@@ -2808,7 +2812,7 @@
                         {
                             "1989-10-23": [
                                 {
-                                    "ARTIST": "The Steve Miller Band",
+                                    "ARTIST": "Steve Miller Band",
                                     "CAPCOM": "Ken Cameron",
                                     "SONG": "Fly Like An Eagle"
                                 }
@@ -2871,7 +2875,7 @@
                                 {
                                     "ARTIST": "JSC Mission Operations Directorate personnel",
                                     "CAPCOM": "Ken Bowersox",
-                                    "Comment": "Notre Dame Victory March for pilot Jim Wetherbee, graduate of Notre Dame. Sung by quartet of JSC Mission Operations Directorate personnel, all Notre Dame graduates (Lead: Mark Ferring, class of '80. Tenor: Chris McKenna, class of '84. Baritone: Pete Hasbrook, class of '85. Bass: Fisher Reynolds, class of '82) That was provided by local alumni of a school you know pretty well, said Mission Control's Ken Bowersox. Yeah, there's a lot of  Damers down there, said Wetherbee, a 1974 graduate of the school in aerospace engineering.",
+                                    "Comment": "Notre Dame Victory March for pilot Jim Wetherbee, graduate of Notre Dame. Sung by quartet of JSC (Johnson Space Center) Mission Operations Directorate personnel, all Notre Dame graduates (Lead: Mark Ferring, class of '80. Tenor: Chris McKenna, class of '84. Baritone: Pete Hasbrook, class of '85. Bass: Fisher Reynolds, class of '82) That was provided by local alumni of a school you know pretty well, said Mission Control's Ken Bowersox. Yeah, there's a lot of  Damers down there, said Wetherbee, a 1974 graduate of the school in aerospace engineering.",
                                     "SONG": "Notre Dame Victory March"
                                 }
                             ]
@@ -2976,7 +2980,7 @@
                         {
                             "1990-04-28": [
                                 {
-                                    "ARTIST": "Frank Hays",
+                                    "ARTIST": "Frank Hayes",
                                     "CAPCOM": "Kathryn Thornton",
                                     "Comment": "on album Don't Ask in honor of Hubble Telescope",
                                     "SONG": "Cosmos"
@@ -3000,7 +3004,7 @@
                         {
                             "1990-10-07": [
                                 {
-                                    "ARTIST": "the Boeing Employees Choir: Michael Kysar, Boeing Choir Director, and Gloria Ball",
+                                    "ARTIST": "The Boeing Employees Choir: Michael Kysar, Boeing Choir Director, and Gloria Ball",
                                     "Comment": "Rise and Shine, Discovery! written and performed by Boeing Aerospace & Electronics Co. Employees as a tribute to the successful deployment of the Ulysses probe,  using a Boeing built booster. Sung by the Boeing Employees Choir. Michael Kysar, Boeing Choir Director, and Gloria Ball, choir members, collaborated on words and music. It includes the refrain: Sailing along, sailing along, flying to explore the galaxy",
                                     "SONG": "Rise and Shine, Discovery!"
                                 }
@@ -3069,7 +3073,7 @@
                         {
                             "1991-04-07": [
                                 {
-                                    "ARTIST": "the U. S. Naval Academy band",
+                                    "ARTIST": "United States Naval Academy Band",
                                     "Comment": "The music was in honor of STS 37 pilot Ken Cameron who is a lieutenant colonel in the U.S.M.C.",
                                     "SONG": "The Marine Corp Hymn performed"
                                 }
@@ -3096,7 +3100,7 @@
                         {
                             "1991-04-10": [
                                 {
-                                    "ARTIST": "the Brass Rhythm and Reeds",
+                                    "ARTIST": "The Brass Rhythm and Reeds",
                                     "Comment": "for Linda Godwin who played saxophone in the band. Flight director Milt Heflin played Trombone in the same band.",
                                     "SONG": "La Bamba"
                                 }
@@ -3339,7 +3343,8 @@
                         {
                             "1991-11-26": [
                                 {
-                                    "ARTIST": "gunfire",
+                                    "ARTIST": "n/a",
+                                    "Comment": "Followed by gunfire.",
                                     "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
@@ -3420,7 +3425,7 @@
                         {
                             "1992-05-08": [
                                 {
-                                    "ARTIST": "Lee Greenwood.",
+                                    "ARTIST": "Lee Greenwood",
                                     "SONG": "God Bless the U.S.A."
                                 }
                             ]
@@ -3428,7 +3433,7 @@
                         {
                             "1992-05-09": [
                                 {
-                                    "ARTIST": "Fontella Bass.",
+                                    "ARTIST": "Fontella Bass",
                                     "SONG": "Rescue Me'"
                                 }
                             ]
@@ -3453,7 +3458,7 @@
                         {
                             "1992-05-12": [
                                 {
-                                    "ARTIST": "The Beach Boys.",
+                                    "ARTIST": "The Beach Boys",
                                     "SONG": "Kokomo"
                                 }
                             ]
@@ -3555,7 +3560,7 @@
                             "1992-10-30": [
                                 {
                                     "ARTIST": "Todd Rundgren",
-                                    "Comment": "in honor of Max-Q drummer and Mission Commander Jim Wetherbee.",
+                                    "Comment": "in honor of Max Q drummer and Mission Commander Jim Wetherbee.",
                                     "SONG": "Bang the Drum"
                                 }
                             ]
@@ -3573,7 +3578,7 @@
                             "1992-11-01": [
                                 {
                                     "ARTIST": "JSC employees and Notre Dame grads, Chris McKenna, Mark Ferring, Pete Hasbrook, and Fisher Reynolds",
-                                    "Comment": "sung by JSC employees and Notre Dame grads, Chris McKenna, Mark Ferring, Pete Hasbrook, and Fisher Reynolds. Notre Dame is also the alma mater of  Wetherbee.",
+                                    "Comment": "sung by JSC (Johnson Space Center) employees and Notre Dame grads, Chris McKenna, Mark Ferring, Pete Hasbrook, and Fisher Reynolds. Notre Dame is also the alma mater of  Wetherbee.",
                                     "SONG": "Notre Dame Victory March"
                                 }
                             ]
@@ -3586,7 +3591,7 @@
                         {
                             "1992-12-03": [
                                 {
-                                    "ARTIST": "the Singing Dogs",
+                                    "ARTIST": "The Singing Dogs",
                                     "Comment": "The astronauts, who nicknamed themselves the dogs of war because their flight supposedly is the last shuttle mission devoted to Defense Department work, were roused by a canine rendition of Jingle Bells. Crew dogs, wake up. We got work to do, Mission Control's Carl Meade said. Good morning, Carl. Dogs of war are wide awake, commander David Walker replied.",
                                     "SONG": "Jingle Bells"
                                 }
@@ -3677,7 +3682,7 @@
                         {
                             "1993-01-17": [
                                 {
-                                    "ARTIST": "John Fogerty.",
+                                    "ARTIST": "John Fogerty",
                                     "SONG": "Centerfield"
                                 }
                             ]
@@ -3761,7 +3766,7 @@
                         {
                             "1993-06-27": [
                                 {
-                                    "ARTIST": "James Brown,",
+                                    "ARTIST": "James Brown",
                                     "Comment": "...a favorite tune of Payload Commander David Low.",
                                     "SONG": "I Got You (I Feel Good)"
                                 }
@@ -3770,7 +3775,7 @@
                         {
                             "1993-06-28": [
                                 {
-                                    "ARTIST": "Perry Como.",
+                                    "ARTIST": "Perry Como",
                                     "SONG": "Catch a Falling Star"
                                 }
                             ]
@@ -3893,8 +3898,8 @@
                         {
                             "1993-09-20": [
                                 {
-                                    "ARTIST": "Max-Q",
-                                    "Comment": "Max-Q is an astronaut band. Carl Walz, nicknamed Elvis, is lead singer.",
+                                    "ARTIST": "Max Q",
+                                    "Comment": "Max Q is an astronaut band. Carl Walz, nicknamed Elvis, is lead singer.",
                                     "SONG": "Heartbreak Hotel"
                                 }
                             ]
@@ -3934,7 +3939,8 @@
                             "1993-10-20": [
                                 {
                                     "ARTIST": "Richard Strauss",
-                                    "SONG": "Theme From the Movie 2001, a Space Odyssey"
+                                    "Comment": "Theme From 2001: A Space Odyssey",
+                                    "SONG": "Also sprach Zarathustra"
                                 }
                             ]
                         },
@@ -4153,7 +4159,8 @@
                         {
                             "1994-02-05": [
                                 {
-                                    "ARTIST": "the STS-60 simulation and training team",
+                                    "ARTIST": "STS-60 simulation and training team",
+                                    "Comment": "Sung by The STS-60 simulation and training team",
                                     "SONG": "Rawhide sung"
                                 }
                             ]
@@ -4169,7 +4176,7 @@
                         {
                             "1994-02-07": [
                                 {
-                                    "ARTIST": "the fourth graders of the Armand Bayou Elementary School in Clear Lake",
+                                    "ARTIST": "The fourth graders of the Armand Bayou Elementary School in Clear Lake",
                                     "Comment": "One of the singers was Emily Reightler, the daughter of shuttle pilot Ken Reightler. She was celebrating her tenth birthday.",
                                     "SONG": "Let There Be Peace on Earth"
                                 }
@@ -4196,7 +4203,7 @@
                         {
                             "1994-02-10": [
                                 {
-                                    "ARTIST": "The Beach Boys.",
+                                    "ARTIST": "The Beach Boys",
                                     "SONG": "I Get Around"
                                 }
                             ]
@@ -4204,7 +4211,7 @@
                         {
                             "1994-02-11": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel.",
+                                    "ARTIST": "Simon & Garfunkel.",
                                     "SONG": "Homeward Bound"
                                 }
                             ]
@@ -4234,7 +4241,7 @@
                         {
                             "1994-03-07": [
                                 {
-                                    "ARTIST": "the U.S. Military Glee Club",
+                                    "ARTIST": "United States Military Glee Club",
                                     "Comment": "The Air Force Song  (Off We Go Into the Wild Blue Yonder), Anchors Aweigh, U.S. Army Anthem, The Caissons Go Rolling Along and The Marine Corps Hymn Halls of Montezuma. The five person crew included Air Force --  Casper, Marine -- Allen, Army -- Gemar, Navy -- Thuot, and civilian Ivins. This is the first time all of the major Armed Forces were represented on once space mission, hence the medley. PC",
                                     "SONG": "Medley of Armed Forces anthems"
                                 }
@@ -4267,7 +4274,7 @@
                         {
                             "1994-03-11": [
                                 {
-                                    "ARTIST": "Bachman-Turner Overdrive.",
+                                    "ARTIST": "Bachman-Turner Overdrive",
                                     "SONG": "Takin' Care of Business"
                                 }
                             ]
@@ -4284,12 +4291,12 @@
                         {
                             "1994-03-13": [
                                 {
-                                    "ARTIST": "The Beach Boys.",
+                                    "ARTIST": "The Beach Boys",
                                     "Comment": "Crew with half-day off, beat MCC to wakeup call. They sent down Surfin' USA by The Beach Boys. MCC responded with I Get Around by The Beach Boys.",
                                     "SONG": "Surfin' USA"
                                 },
                                 {
-                                    "ARTIST": "The Beach boys",
+                                    "ARTIST": "The Beach Boys",
                                     "Comment": "Ibid.",
                                     "SONG": "I Get Around"
                                 }
@@ -4298,7 +4305,7 @@
                         {
                             "1994-03-14": [
                                 {
-                                    "ARTIST": "Yes.",
+                                    "ARTIST": "Yes",
                                     "SONG": "Starship Trooper"
                                 }
                             ]
@@ -4306,7 +4313,7 @@
                         {
                             "1994-03-15": [
                                 {
-                                    "ARTIST": "Allison Brown",
+                                    "ARTIST": "Alison Brown",
                                     "Comment": "who was inspired to write the song by Mission Specialist Marsha Ivins.",
                                     "SONG": "View From Above"
                                 }
@@ -4315,7 +4322,7 @@
                         {
                             "1994-03-16": [
                                 {
-                                    "ARTIST": "Billy Joel.",
+                                    "ARTIST": "Billy Joel",
                                     "SONG": "Travelin' Prayer"
                                 }
                             ]
@@ -4331,7 +4338,7 @@
                         {
                             "1994-03-18": [
                                 {
-                                    "ARTIST": "The Clancy Brothers.",
+                                    "ARTIST": "The Clancy Brothers",
                                     "SONG": "The Mermaid"
                                 }
                             ]
@@ -4345,7 +4352,7 @@
                         {
                             "1994-04-18": [
                                 {
-                                    "ARTIST": "the White Elementary School 5th grade choir",
+                                    "ARTIST": "The White Elementary School 5th grade choir",
                                     "Comment": "Mission Specialist Rich Clifford's son, Brandon, was a student at White.",
                                     "SONG": "Freedom performed",
                                     "TEAM": "Blue Team"
@@ -4383,7 +4390,7 @@
                         {
                             "1994-09-12": [
                                 {
-                                    "ARTIST": "George Strait.",
+                                    "ARTIST": "George Strait",
                                     "SONG": "Ace in the Hole"
                                 }
                             ]
@@ -4392,7 +4399,7 @@
                             "1994-09-13": [
                                 {
                                     "ARTIST": "Max Q",
-                                    "SONG": "Parody of  The Beach Boys song  I Get Around called We Orbit Around"
+                                    "SONG": "Parody of The Beach Boys song I Get Around called We Orbit Around"
                                 }
                             ]
                         },
@@ -4431,7 +4438,7 @@
                         {
                             "1994-09-18": [
                                 {
-                                    "ARTIST": "Billy Joel.",
+                                    "ARTIST": "Billy Joel",
                                     "SONG": "This Is the Time"
                                 }
                             ]
@@ -4439,7 +4446,7 @@
                         {
                             "1994-09-19": [
                                 {
-                                    "ARTIST": "The Coasters.",
+                                    "ARTIST": "The Coasters",
                                     "SONG": "Yakety Yak"
                                 }
                             ]
@@ -4508,9 +4515,9 @@
                         {
                             "1995-02-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
-                                    "Comment": "from soundtrack of  2001, A Space Odyssey",
-                                    "SONG": "Blue Danube Waltz"
+                                    "ARTIST": "Johann Strauss II",
+                                    "Comment": "Waltz from the soundtrack of 2001: A Space Odyssey",
+                                    "SONG": "Blue Danube"
                                 }
                             ]
                         },
@@ -4534,8 +4541,8 @@
                         {
                             "1995-02-10": [
                                 {
-                                    "ARTIST": "Monty Python",
-                                    "Comment": "better known as the theme from the TV show, Monty Python's Flying Circus.",
+                                    "ARTIST": "John Philip Sousa",
+                                    "Comment": "Better known as the theme from the TV show, Monty Python's Flying Circus.",
                                     "SONG": "Liberty Bell March"
                                 }
                             ]
@@ -4543,7 +4550,7 @@
                         {
                             "1995-02-11": [
                                 {
-                                    "ARTIST": "The Doors.",
+                                    "ARTIST": "The Doors",
                                     "SONG": "The End"
                                 }
                             ]
@@ -4562,7 +4569,7 @@
                         {
                             "1995-06-28": [
                                 {
-                                    "ARTIST": "Sonny and Cher.",
+                                    "ARTIST": "Sonny and Cher",
                                     "SONG": "I Got You Babe"
                                 }
                             ]
@@ -4570,7 +4577,7 @@
                         {
                             "1995-06-29": [
                                 {
-                                    "ARTIST": "Nancy Griffith",
+                                    "ARTIST": "Nanci Griffith",
                                     "Comment": "It was preceded by special birthday greetings to Pilot Charlie Precourt from his wife and daughters.",
                                     "SONG": "From a Distance"
                                 }
@@ -4579,7 +4586,7 @@
                         {
                             "1995-06-30": [
                                 {
-                                    "ARTIST": "The Moody Blues.",
+                                    "ARTIST": "The Moody Blues",
                                     "SONG": "Your Wildest Dreams"
                                 }
                             ]
@@ -4642,7 +4649,7 @@
                         {
                             "1995-07-07": [
                                 {
-                                    "ARTIST": "Supertramp.",
+                                    "ARTIST": "Supertramp",
                                     "SONG": "Take the Long Way Home"
                                 }
                             ]
@@ -4674,7 +4681,7 @@
                             "1995-07-16": [
                                 {
                                     "ARTIST": "Mission Specialist Nancy Currie's 8-year-old daughter Stephanie, and her Ferguson Elementary School second-grade classmates",
-                                    "Comment": "The crew was awakened at 1:11 a.m. CDT to the sounds of Mission Specialist Nancy Currie's 8-year-old daughter, Stephanie, and her Ferguson Elementary School second-grade classmates singing 'God Bless the USA.'  MCC Status Report. JSC Query Book has song as God Bless America.",
+                                    "Comment": "The crew was awakened at 1:11 a.m. CDT to the sounds of Mission Specialist Nancy Currie's 8-year-old daughter, Stephanie, and her Ferguson Elementary School second-grade classmates singing 'God Bless the USA.'  MCC Status Report. JSC (Johnson Space Center) Query Book has song as God Bless America.",
                                     "SONG": "God Bless the USA"
                                 }
                             ]
@@ -4728,7 +4735,7 @@
                         {
                             "1995-09-08": [
                                 {
-                                    "ARTIST": "Elvis Presley.",
+                                    "ARTIST": "Elvis Presley",
                                     "SONG": "Hound Dog"
                                 }
                             ]
@@ -4794,7 +4801,7 @@
                         {
                             "1995-09-16": [
                                 {
-                                    "ARTIST": "Frankie Valli and The Four Seasons",
+                                    "ARTIST": "Frankie Valli and the 4 Seasons",
                                     "SONG": "Walk Like a Man"
                                 }
                             ]
@@ -4830,7 +4837,7 @@
                         {
                             "1995-11-14": [
                                 {
-                                    "ARTIST": "Bill Conti.",
+                                    "ARTIST": "Bill Conti",
                                     "SONG": "Yeager's Triumph from The Right Stuff"
                                 }
                             ]
@@ -4838,7 +4845,7 @@
                         {
                             "1995-11-15": [
                                 {
-                                    "ARTIST": "Judy Garland.",
+                                    "ARTIST": "Judy Garland",
                                     "SONG": "Somewhere Over the Rainbow"
                                 }
                             ]
@@ -4846,7 +4853,7 @@
                         {
                             "1995-11-16": [
                                 {
-                                    "ARTIST": "Johann Strauss.",
+                                    "ARTIST": "Johann Strauss II",
                                     "SONG": "Blue Danube"
                                 }
                             ]
@@ -4909,7 +4916,7 @@
                         {
                             "1996-01-15": [
                                 {
-                                    "ARTIST": "James Horner.",
+                                    "ARTIST": "James Horner",
                                     "SONG": "Star Trek Next Generation theme"
                                 }
                             ]
@@ -4917,7 +4924,7 @@
                         {
                             "1996-01-16": [
                                 {
-                                    "ARTIST": "The Royal Guardsmen.",
+                                    "ARTIST": "The Royal Guardsmen",
                                     "SONG": "Smallest Astronaut"
                                 }
                             ]
@@ -4933,7 +4940,7 @@
                         {
                             "1996-01-18": [
                                 {
-                                    "ARTIST": "Sheryl Crow.",
+                                    "ARTIST": "Sheryl Crow",
                                     "SONG": "All I Wanna Do"
                                 }
                             ]
@@ -5012,7 +5019,7 @@
                         {
                             "1996-03-28": [
                                 {
-                                    "ARTIST": "Brass, Rhythm and Reed.",
+                                    "ARTIST": "Brass, Rhythm and Reed",
                                     "SONG": "Jumpin' at the Woodside"
                                 }
                             ]
@@ -5094,7 +5101,7 @@
                         {
                             "1996-05-27": [
                                 {
-                                    "ARTIST": "The Doors.",
+                                    "ARTIST": "The Doors",
                                     "SONG": "Light My Fire"
                                 },
                                 {
@@ -5147,7 +5154,7 @@
                         {
                             "1996-06-23": [
                                 {
-                                    "ARTIST": "the 1980 U.S. Air Force Academy Drum and Bugle Corps",
+                                    "ARTIST": "1980 United States Air Force Academy Drum and Bugle Corps",
                                     "CAPCOM": "Kay Hire",
                                     "Comment": "Payload commander Susan Helms played xylophone on the recording.",
                                     "SONG": "Flight of the Bumblebee performed"
@@ -5216,8 +5223,9 @@
                         {
                             "1996-06-30": [
                                 {
-                                    "ARTIST": "Francis Cabrel for Favier.",
+                                    "ARTIST": "Francis Cabrel",
                                     "CAPCOM": "Bill McArthur",
+                                    "Comment": "Played for Favier.",
                                     "SONG": "Les Murs De Poussiere (Dusty Walls)"
                                 }
                             ]
@@ -5281,7 +5289,7 @@
                         {
                             "1996-07-06": [
                                 {
-                                    "ARTIST": "The Electric Light Orchestra",
+                                    "ARTIST": "Electric Light Orchestra",
                                     "CAPCOM": "Blaine Hammond",
                                     "SONG": "Don't Bring Me Down"
                                 }
@@ -5290,7 +5298,7 @@
                         {
                             "1996-07-07": [
                                 {
-                                    "ARTIST": "REO Speedwagon.",
+                                    "ARTIST": "REO Speedwagon",
                                     "SONG": "Time For Me to Fly"
                                 }
                             ]
@@ -5350,7 +5358,7 @@
                         {
                             "1996-09-21": [
                                 {
-                                    "ARTIST": "Max Q.",
+                                    "ARTIST": "Max Q",
                                     "Comment": "Carl Walz is a member.",
                                     "SONG": "Another Saturday Night"
                                 }
@@ -5629,7 +5637,7 @@
                         {
                             "1997-01-21": [
                                 {
-                                    "ARTIST": "The Allison Brown Quartet",
+                                    "ARTIST": "The Alison Brown Quartet",
                                     "SONG": "My Favorite Marcia"
                                 }
                             ]
@@ -5780,7 +5788,7 @@
                                 {
                                     "ARTIST": "UNKNOWN",
                                     "CAPCOM": "Bill McArthur",
-                                    "SONG": "British National Anthem - God Save the Queen"
+                                    "SONG": "God Save the Queen (British National Anthem)"
                                 }
                             ]
                         },
@@ -6056,7 +6064,7 @@
                         {
                             "1997-10-06": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel",
+                                    "ARTIST": "Simon & Garfunkel",
                                     "CAPCOM": "Not Listed",
                                     "SONG": "Homeward Bound"
                                 }
@@ -6133,7 +6141,7 @@
                         {
                             "1997-11-27": [
                                 {
-                                    "ARTIST": "the U.S. Air Force Academy Cadet Chorale",
+                                    "ARTIST": "United States Air Force Academy Cadet Chorale",
                                     "CAPCOM": "Ellen Ochoa",
                                     "SONG": "America the Beautiful"
                                 }
@@ -6160,7 +6168,7 @@
                         {
                             "1997-11-30": [
                                 {
-                                    "ARTIST": "The Nylons",
+                                    "ARTIST": "Nylons",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "This Island Earth"
                                 }
@@ -6276,7 +6284,7 @@
                         {
                             "1998-01-30": [
                                 {
-                                    "ARTIST": "George Thorogood and the Destroyers",
+                                    "ARTIST": "George Thorogood & the Destroyers",
                                     "CAPCOM": "Marc Garneau",
                                     "SONG": "Bad To the Bone"
                                 }
@@ -6326,7 +6334,7 @@
                         {
                             "1998-04-21": [
                                 {
-                                    "ARTIST": "George Thorogood and the Destroyers",
+                                    "ARTIST": "George Thorogood & the Destroyers",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "Bad To the Bone"
                                 }
@@ -6394,7 +6402,7 @@
                         {
                             "1998-04-28": [
                                 {
-                                    "ARTIST": "Abba",
+                                    "ARTIST": "ABBA",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Take a Chance on Me"
                                 }
@@ -6454,7 +6462,7 @@
                         {
                             "1998-06-04": [
                                 {
-                                    "ARTIST": "the Del Vikings",
+                                    "ARTIST": "The Del-Vikings",
                                     "CAPCOM": "Marc Garneau",
                                     "Comment": "in honor of Andrew Thomas' return from Mir",
                                     "SONG": "Come Go With Me"
@@ -6464,7 +6472,7 @@
                         {
                             "1998-06-05": [
                                 {
-                                    "ARTIST": "The Sundowners",
+                                    "ARTIST": "Sundowners",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "South Australia"
                                 }
@@ -6530,7 +6538,7 @@
                         {
                             "1998-06-12": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel",
+                                    "ARTIST": "Simon & Garfunkel",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "Homeward Bound"
                                 }
@@ -6554,7 +6562,7 @@
                         {
                             "1998-10-31": [
                                 {
-                                    "ARTIST": "at King Cole",
+                                    "ARTIST": "Nat King Cole",
                                     "CAPCOM": "Mike Gernhardt",
                                     "Comment": "This song about parenthood was directed to Pedro Duque and his wife, Consuelo, who recently has a baby.",
                                     "SONG": "Cachito"
@@ -6564,9 +6572,10 @@
                         {
                             "1998-11-01": [
                                 {
-                                    "ARTIST": "pilot Steve Lindsay's wife Diane And/or Hallelujahs by Chris Rice.",
+                                    "ARTIST": "Tom Chapin",
+                                    "Comment": "Requested by pilot Steve Lindsay's wife Diane. Possibly (and/or) the song Hallelujahs by Chris Rice.",
                                     "CAPCOM": "Mike Gernhardt",
-                                    "SONG": "This Pretty Planetby Tom Chapin \tCOMMENT: requested"
+                                    "SONG": "This Pretty Planet"
                                 }
                             ]
                         },
@@ -6613,10 +6622,10 @@
                         {
                             "1998-11-06": [
                                 {
-                                    "ARTIST": "composer and pianist Peter Nero",
+                                    "ARTIST": "Peter Nero",
                                     "CAPCOM": "Scott Horowitz",
-                                    "Comment": "a long-time friend of the Glenns.",
-                                    "SONG": "Voyage Into Space, an original composition written for John Glenn"
+                                    "Comment": "A long-time friend of the Glenns. An original composition written for John Glenn.",
+                                    "SONG": "Voyage Into Space"
                                 }
                             ]
                         },
@@ -6638,7 +6647,7 @@
                         {
                             "1998-12-04": [
                                 {
-                                    "ARTIST": "the Temptations",
+                                    "ARTIST": "The Temptations",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "an appropriate description of the full slate of activities the crew will be involved with as they get ready for the important events of the flight by checking out the equipment and tools that will be utilized during rendezvous, docking and space walking activities.",
                                     "SONG": "Get Ready"
@@ -6677,7 +6686,7 @@
                         {
                             "1998-12-08": [
                                 {
-                                    "ARTIST": "Dwight Yoakum.",
+                                    "ARTIST": "Dwight Yoakum",
                                     "CAPCOM": "Janet Kavandi",
                                     "Comment": "Requested by the wife of Pilot Rick Sturckow, a California native.",
                                     "SONG": "Streets of Bakersfield"
@@ -6778,7 +6787,7 @@
                         {
                             "1999-05-29": [
                                 {
-                                    "ARTIST": "the Space Center Intermediate Band",
+                                    "ARTIST": "The Space Center Intermediate Band",
                                     "Comment": "Mission Specialist  Dan Barry's daughter Jenny plays flute in that band.",
                                     "SONG": "Themes from Star Wars"
                                 }
@@ -6787,7 +6796,7 @@
                         {
                             "1999-05-30": [
                                 {
-                                    "ARTIST": "U.S. Coast Guard Band",
+                                    "ARTIST": "United States Coast Guard Band",
                                     "Comment": "or Morning Call by USMC Band.",
                                     "SONG": "Morning Colors"
                                 }
@@ -6860,8 +6869,9 @@
                         {
                             "1999-07-23": [
                                 {
-                                    "ARTIST": "her family.",
-                                    "SONG": "Beep Beep - Louis Prima \t\tCOMMENT: music for Eileen Collins provided"
+                                    "ARTIST": "Louis Prima",
+                                    "COMMENT": "Music for Eileen Collins provided by her family.",
+                                    "SONG": "Beep Beep"
                                 }
                             ]
                         },
@@ -6876,8 +6886,8 @@
                         {
                             "1999-07-25": [
                                 {
-                                    "ARTIST": "Suzy Boguss",
-                                    "Comment": "written by Judy Collins and performed by Suzy Boguss chosen in honor of Pilot Jeff Ashby",
+                                    "ARTIST": "Suzy Bogguss",
+                                    "Comment": "written by Judy Collins and performed by Suzy Bogguss chosen in honor of Pilot Jeff Ashby",
                                     "SONG": "Someday Soon"
                                 }
                             ]
@@ -6885,7 +6895,7 @@
                         {
                             "1999-07-26": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel",
+                                    "ARTIST": "Simon & Garfunkel",
                                     "SONG": "The Sounds of Silence"
                                 }
                             ]
@@ -6907,7 +6917,7 @@
                         {
                             "1999-12-20": [
                                 {
-                                    "ARTIST": "Bachman-Turner Overdrive's",
+                                    "ARTIST": "Bachman-Turner Overdrive",
                                     "SONG": "Taking Care of Business"
                                 }
                             ]
@@ -6941,7 +6951,7 @@
                         {
                             "1999-12-24": [
                                 {
-                                    "ARTIST": "Steppenwolf's",
+                                    "ARTIST": "Steppenwolf",
                                     "Comment": "was played for Smith and the children's song Skinnamarink by Kimbo for Grunsfeld.",
                                     "SONG": "Magic Carpet Ride"
                                 }
@@ -6958,7 +6968,7 @@
                         {
                             "1999-12-26": [
                                 {
-                                    "ARTIST": "Reba McEntyre",
+                                    "ARTIST": "Reba McEntire",
                                     "Comment": "played for Pilot Scott Kelly at the request of his wife.",
                                     "SONG": "We're So Good Together"
                                 }
@@ -7113,7 +7123,7 @@
                         {
                             "2000-02-21": [
                                 {
-                                    "ARTIST": "Frankie Valli & Four Seasons",
+                                    "ARTIST": "Frankie Valli and the 4 Seasons",
                                     "SONG": "Stay",
                                     "TEAM": "Blue Team"
                                 }
@@ -7236,7 +7246,7 @@
                         {
                             "2000-09-10": [
                                 {
-                                    "ARTIST": "the band Smash Mouth",
+                                    "ARTIST": "Smash Mouth",
                                     "Comment": "The song was played for the two space walkers at the request of the EVA training and flight control teams to celebrate what will be the sixth space walk in support of station assembly and the 50th space walk in Space Shuttle history.",
                                     "SONG": "All Star"
                                 }
@@ -7290,7 +7300,7 @@
                                 {
                                     "ARTIST": "UNKNOWN",
                                     "Comment": "played for Burbank, a Lieutenant Commander in the Coast Guard.",
-                                    "SONG": "U.S. Coast Guard Hymn Semper Paratus (Always Ready)"
+                                    "SONG": "United States Coast Guard Hymn Semper Paratus (Always Ready)"
                                 }
                             ]
                         },
@@ -7356,7 +7366,7 @@
                             "2000-10-15": [
                                 {
                                     "ARTIST": "Monty Python",
-                                    "Comment": "from the movie Monty Python and the Holy Grail",
+                                    "Comment": "From the movie Monty Python and the Holy Grail",
                                     "SONG": "Camelot"
                                 }
                             ]
@@ -7372,7 +7382,7 @@
                         {
                             "2000-10-17": [
                                 {
-                                    "ARTIST": "the United States Military Academy Band and its field musical group The Hellcats",
+                                    "ARTIST": "United States Military Academy Band and its field musical group The Hellcats",
                                     "SONG": "The Army Goes Rolling Along, performed"
                                 }
                             ]
@@ -7388,7 +7398,7 @@
                         {
                             "2000-10-19": [
                                 {
-                                    "ARTIST": "the United States Naval Academy Band.",
+                                    "ARTIST": "United States Naval Academy Band",
                                     "SONG": "Anchors Away - Fanfare Version"
                                 }
                             ]
@@ -7484,7 +7494,7 @@
                         {
                             "2000-12-06": [
                                 {
-                                    "ARTIST": "Puccini opera aria",
+                                    "ARTIST": "Puccini",
                                     "Comment": "for Garneau",
                                     "SONG": "O Mio Babbino Caro"
                                 }
@@ -7568,15 +7578,16 @@
                         {
                             "2001-02-11": [
                                 {
-                                    "ARTIST": "Johann Strauss, Jr.",
-                                    "SONG": "Blue Danube Waltz from the film 2001 - a Space Odyssey"
+                                    "ARTIST": "Johann Strauss II",
+                                    "Comment": "Waltz from the film 2001: A Space Odyssey",
+                                    "SONG": "Blue Danube"
                                 }
                             ]
                         },
                         {
                             "2001-02-12": [
                                 {
-                                    "ARTIST": "Frank Sinatra",
+                                    "ARTIST": "Frank Sinatra and Quincy Jones",
                                     "SONG": "Fly Me to the Moon"
                                 }
                             ]
@@ -7632,7 +7643,7 @@
                         {
                             "2001-02-19": [
                                 {
-                                    "ARTIST": "George Thorogood and the Destroyers",
+                                    "ARTIST": "George Thorogood & the Destroyers",
                                     "SONG": "Bad To the Bone"
                                 }
                             ]
@@ -7640,7 +7651,7 @@
                         {
                             "2001-02-20": [
                                 {
-                                    "ARTIST": "the Clash",
+                                    "ARTIST": "The Clash",
                                     "Comment": "as the crew prepared for their return trip to Earth",
                                     "SONG": "Should I Stay or Should I Go"
                                 }
@@ -7654,8 +7665,8 @@
                         {
                             "2001-03-08": [
                                 {
-                                    "ARTIST": "Rockit Scientists a group of training division instructors",
-                                    "Comment": "with whom shuttle Commander Jim Wetherbee plays drums from time to time.",
+                                    "ARTIST": "Rockit Scientists",
+                                    "Comment": "A group of training division instructors with whom shuttle Commander Jim Wetherbee plays drums from time to time.",
                                     "SONG": "Living the Life"
                                 }
                             ]
@@ -7773,7 +7784,7 @@
                         {
                             "2001-04-20": [
                                 {
-                                    "ARTIST": "the musical group Smash Mouth",
+                                    "ARTIST": "Smash Mouth",
                                     "Comment": "It was chosen for Phillips, making his first spaceflight.",
                                     "SONG": "Then the Morning Comes"
                                 }
@@ -7907,7 +7918,7 @@
                         {
                             "2001-07-14": [
                                 {
-                                    "ARTIST": "N'Sync",
+                                    "ARTIST": "NSYNC",
                                     "Comment": "for Mission Specialist Janet Kavandi.",
                                     "SONG": "Space Cowboy"
                                 }
@@ -7970,7 +7981,7 @@
                         {
                             "2001-07-21": [
                                 {
-                                    "ARTIST": "the Baha Men",
+                                    "ARTIST": "The Baha Men",
                                     "Comment": "for Hobaugh.",
                                     "SONG": "Who Let the Dogs Out?"
                                 }
@@ -8037,7 +8048,7 @@
                         {
                             "2001-08-14": [
                                 {
-                                    "ARTIST": "Christopher Cross.",
+                                    "ARTIST": "Christopher Cross",
                                     "SONG": "Theme from the movie, Arthur or Arthur's Theme (Best That You Can Do)"
                                 }
                             ]
@@ -8063,7 +8074,7 @@
                         {
                             "2001-08-17": [
                                 {
-                                    "ARTIST": "Forrester's sons Patrick and Andrew.",
+                                    "ARTIST": "Patrick G. Forrester's sons Patrick and Andrew",
                                     "SONG": "Time Bomb"
                                 }
                             ]
@@ -8071,7 +8082,7 @@
                         {
                             "2001-08-18": [
                                 {
-                                    "ARTIST": "the Eagles",
+                                    "ARTIST": "The Eagles",
                                     "Comment": "It was requested for Expedition Two Commander Yury Usachev by his wife.",
                                     "SONG": "Hotel California,"
                                 }
@@ -8080,7 +8091,7 @@
                         {
                             "2001-08-19": [
                                 {
-                                    "ARTIST": "the Drifters",
+                                    "ARTIST": "The Drifters",
                                     "Comment": "played for Jim Voss by his wife Suzan.",
                                     "SONG": "Under the Boardwalk"
                                 }
@@ -8150,7 +8161,7 @@
                         {
                             "2001-12-09": [
                                 {
-                                    "ARTIST": "the Fire Department of New York Emerald Society Pipes & Drums",
+                                    "ARTIST": "The Fire Department of New York Emerald Society Pipes & Drums",
                                     "Comment": "A New York firefighter presented Pilot Mark Kelly with today's  wakeup music when Kelly visited the World Trade Center site with former NASA Administrator Dan Goldin shortly after the September 11 attacks.",
                                     "SONG": "It's A Grand Ol' Flag"
                                 }
@@ -8213,7 +8224,7 @@
                         {
                             "2001-12-16": [
                                 {
-                                    "ARTIST": "Bing Crosby.",
+                                    "ARTIST": "Bing Crosby",
                                     "SONG": "I'll Be Home For Christmas,"
                                 }
                             ]
@@ -8267,7 +8278,7 @@
                         {
                             "2002-03-05": [
                                 {
-                                    "ARTIST": "the Ohio State University marching band",
+                                    "ARTIST": "Ohio State University marching band",
                                     "Comment": "played for Ohio State alumni Nancy Currie and Rick Linnehan aboard Columbia.",
                                     "SONG": "Carmen Ohio, performed"
                                 }
@@ -8285,15 +8296,16 @@
                         {
                             "2002-03-07": [
                                 {
-                                    "ARTIST": "Limp Bizkit.",
-                                    "SONG": "The Mission Impossible: II theme song"
+                                    "ARTIST": "Limp Bizkit",
+                                    "Comment": "Mission Impossible II: Theme",
+                                    "SONG": "Take a Look Around"
                                 }
                             ]
                         },
                         {
                             "2002-03-08": [
                                 {
-                                    "ARTIST": "AC DC",
+                                    "ARTIST": "AC/DC",
                                     "Comment": "The song was played for pilot Duane Carey.",
                                     "SONG": "Who Made Who"
                                 }
@@ -8311,7 +8323,7 @@
                         {
                             "2002-03-10": [
                                 {
-                                    "ARTIST": "the Moody Blues",
+                                    "ARTIST": "The Moody Blues",
                                     "Comment": "dedicated to first-time fliers, pilot Digger and spacewalker Massimino.",
                                     "SONG": "Floating"
                                 }
@@ -8333,7 +8345,7 @@
                         {
                             "2002-04-09": [
                                 {
-                                    "ARTIST": "the Baha Men.",
+                                    "ARTIST": "The Baha Men",
                                     "SONG": "The Best Years of Our Lives"
                                 }
                             ]
@@ -8350,12 +8362,12 @@
                         {
                             "2002-04-11": [
                                 {
-                                    "ARTIST": "the school band",
+                                    "ARTIST": "University of California-Berkeley School Band",
                                     "Comment": "Ochoa requested the songs be played for crewmates Walheim and Smith who attended the rival schools. Ochoa's also a Stanford graduate. PC",
                                     "SONG": "University of California-Berkeley fight song"
                                 },
                                 {
-                                    "ARTIST": "the Stanford University band",
+                                    "ARTIST": "Stanford University Band",
                                     "Comment": "Ibid.",
                                     "SONG": "All Right Now"
                                 }
@@ -8400,7 +8412,7 @@
                         {
                             "2002-04-16": [
                                 {
-                                    "ARTIST": "the Purdue University Marching band",
+                                    "ARTIST": "Purdue University Marching band",
                                     "Comment": "It was dedicated to Purdue graduate Ross.",
                                     "SONG": "I Am an American,"
                                 }
@@ -8426,7 +8438,7 @@
                         {
                             "2002-04-19": [
                                 {
-                                    "ARTIST": "The Police.",
+                                    "ARTIST": "The Police",
                                     "SONG": "Message in a Bottle,"
                                 }
                             ]
@@ -8475,7 +8487,7 @@
                         {
                             "2002-06-10": [
                                 {
-                                    "ARTIST": "the Flamingos",
+                                    "ARTIST": "The Flamingos",
                                     "Comment": "from the American Graffiti soundtrack which was selected for Paul Lockhart. Selected by his wife Mary. The two danced to the song at their wedding. PC",
                                     "SONG": "I Only Have Eyes for You"
                                 }
@@ -8537,7 +8549,7 @@
                         {
                             "2002-06-17": [
                                 {
-                                    "ARTIST": "the University of Texas Marching Band",
+                                    "ARTIST": "University of Texas Marching Band",
                                     "Comment": "Cockrell and Lockhart hold degrees from that university.",
                                     "SONG": "The Eyes of Texas, performed"
                                 }
@@ -8611,7 +8623,7 @@
                         {
                             "2002-10-11": [
                                 {
-                                    "ARTIST": "the Wellesley College Choir",
+                                    "ARTIST": "The Wellesley College Choir",
                                     "Comment": "was for Pamela Melroy, a 1983 graduate.",
                                     "SONG": "Oh Thou Tupelo,"
                                 }
@@ -8656,8 +8668,9 @@
                         {
                             "2002-10-16": [
                                 {
-                                    "ARTIST": "her husband, Chris.",
-                                    "SONG": "Prime Timeby The Alan Parsons Project \t\tCOMMENT: was played for Pilot Pam Melroy, requested"
+                                    "ARTIST": "The Alan Parsons Project",
+                                    "Comment": "Was played for Pilot Pam Melroy, requested by her husband, Chris.",
+                                    "SONG": "Prime Time"
                                 }
                             ]
                         },
@@ -8824,7 +8837,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "the Texas Elementary Honors choir",
+                                    "ARTIST": "Texas Elementary Honors choir",
                                     "Comment": "with Rick Husband's daughter, Laura",
                                     "SONG": "America, the Beautiful",
                                     "TEAM": "Red Team"
@@ -8872,7 +8885,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Black Watch and 51 Band of Highland Brigade.",
+                                    "ARTIST": "Black Watch and 51 Band of Highland Brigade",
                                     "Comment": "Dedicated to Laurel Clark - The same song on bagpipes was played at her wedding, for the wakeup in space, and at her funeral. PC",
                                     "SONG": "Amazing Grace",
                                     "TEAM": "Red Team"
@@ -8888,7 +8901,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Steve Green.",
+                                    "ARTIST": "Steve Green",
                                     "Comment": "Dedicated to Rick Husband. PC",
                                     "SONG": "God of Wonders",
                                     "TEAM": "Red Team"
@@ -8904,7 +8917,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Ravi Shankar.",
+                                    "ARTIST": "Ravi Shankar",
                                     "Comment": "Dedicated to Kalpana Chawla. PC",
                                     "SONG": "Prabhati",
                                     "TEAM": "Red Team"
@@ -8952,7 +8965,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Celine Dion.",
+                                    "ARTIST": "Celine Dion",
                                     "Comment": "Dedicated to Rick Husband. PC",
                                     "SONG": "The Prayer",
                                     "TEAM": "Red Team"
@@ -8968,7 +8981,7 @@
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Train.",
+                                    "ARTIST": "Train",
                                     "Comment": "Dedicated to Kalpana Chawla. PC",
                                     "SONG": "Drops of Jupiter",
                                     "TEAM": "Red Team"
@@ -8984,7 +8997,7 @@
                                     "SONG": "When Day is Done"
                                 },
                                 {
-                                    "ARTIST": "Queen.",
+                                    "ARTIST": "Queen",
                                     "Comment": "Dedicated to Ilan Ramon. A videotape of the wakeup activities survived the accident. PC. A special good morning to my wife, Rona, the love of my life, Ramon said. In Hebrew, he added that he loved and missed his wife and children. So, here we come, for a wonderful day in space.",
                                     "SONG": "Love of My Life",
                                     "TEAM": "Red Team"
@@ -8994,13 +9007,13 @@
                         {
                             "2003-01-27": [
                                 {
-                                    "ARTIST": "Earl Klugh.",
+                                    "ARTIST": "Earl Klugh",
                                     "Comment": "Dedicated to Mike Anderson. PC",
                                     "SONG": "Slow Boat to Rio",
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Runrig.",
+                                    "ARTIST": "Runrig",
                                     "Comment": "Dedicated to Laurel Clark PC",
                                     "SONG": "Running to the Light",
                                     "TEAM": "Red Team"
@@ -9010,13 +9023,13 @@
                         {
                             "2003-01-28": [
                                 {
-                                    "ARTIST": "The Beach Boys.",
+                                    "ARTIST": "The Beach Boys",
                                     "Comment": "Dedicated to Dave Brown. PC",
                                     "SONG": "I Get Around",
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "James Taylor.",
+                                    "ARTIST": "James Taylor",
                                     "Comment": "Dedicated to Rick Husband. PC",
                                     "SONG": "Up on the Roof",
                                     "TEAM": "Red Team"
@@ -9026,13 +9039,13 @@
                         {
                             "2003-01-29": [
                                 {
-                                    "ARTIST": "John Lennon.",
+                                    "ARTIST": "John Lennon",
                                     "Comment": "McCool and Ramon said their observations from orbit reveal no borders on the Earth below and reiterated in both English and Hebrew their hopes for peace in the world. Dedicated to Willie McCool. PC. Imagine was played at Ilan Ramon's funeral as his funeral dirge. The mourners listened to the recording sent to the astronauts, which ended with Ilan's voice translating Lennon's words into Hebrew: You may say I'm a dreamer, but I'm not the only one.",
                                     "SONG": "Imagine",
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Abita Parveen.",
+                                    "ARTIST": "Abita Parveen",
                                     "Comment": "Dedicated to Kalpana Chawla. A videotape of the crew activities during this wakeup call survived the accident. PC",
                                     "SONG": "Yaar ko hamne ja ba ja dekha",
                                     "TEAM": "Red Team"
@@ -9042,13 +9055,13 @@
                         {
                             "2003-01-30": [
                                 {
-                                    "ARTIST": "Enya.",
+                                    "ARTIST": "Enya",
                                     "Comment": "Dedicated to Dave Brown. PC",
                                     "SONG": "Silver Inches",
                                     "TEAM": "Blue Team"
                                 },
                                 {
-                                    "ARTIST": "Yehoram Gaon.",
+                                    "ARTIST": "Yehoram Gaon",
                                     "Comment": "Dedicated to Ilan Ramon - The tune is the same as Arlo Guthrie's City of New Orleans. Ilan said, Good morning, Stephanie, it was wonderful to hear your voice in Hebrew. It was perfect timing while we flew over Israel to hear this song, which says I've been to the North Pole and to everywhere but there's no place better than Israel. PC",
                                     "SONG": "Shalom lach eretz nehederet",
                                     "TEAM": "Red Team"
@@ -9058,7 +9071,7 @@
                         {
                             "2003-01-31": [
                                 {
-                                    "ARTIST": "Kirk Franklin.",
+                                    "ARTIST": "Kirk Franklin",
                                     "Comment": "Dedicated to Mike Anderson. PC",
                                     "SONG": "If You've Been Delivered",
                                     "TEAM": "Blue Team"
@@ -9107,7 +9120,7 @@
                         {
                             "2005-07-29": [
                                 {
-                                    "ARTIST": "the chorus from the Japanese School of Houston",
+                                    "ARTIST": "Chorus from the Japanese School of Houston",
                                     "Comment": "It is made up of a group of children, including Noguchi's. The Station crew was awakened at 11:09 p.m. CDT by a tone onboard.",
                                     "SONG": "Sanpo,"
                                 }
@@ -9127,7 +9140,7 @@
                                 {
                                     "ARTIST": "Dire Straits",
                                     "CAPCOM": "Shannon Lucid",
-                                    "Comment": "for Steve Robinson. The Space Station crew was awakened at 10:39 p.m. CDT by a tone onboard. CAPsule COMmunicator (CAPCOM) Shannon Lucid radioed the crew with Dire Straits' Walk of Life, in honor of the duo's upcoming repair work on the International Space Station. What a great day to go do a walk of life, said Robinson, who happens to play guitar in the astronaut rock band, Max-Q. I like that line in there: 'You got the action, and you got the motion.'",
+                                    "Comment": "for Steve Robinson. The Space Station crew was awakened at 10:39 p.m. CDT by a tone onboard. CAPsule COMmunicator (CAPCOM) Shannon Lucid radioed the crew with Dire Straits' Walk of Life, in honor of the duo's upcoming repair work on the International Space Station. What a great day to go do a walk of life, said Robinson, who happens to play guitar in the astronaut rock band, Max Q. I like that line in there: 'You got the action, and you got the motion.'",
                                     "SONG": "Walk of Life"
                                 }
                             ]
@@ -9162,7 +9175,7 @@
                         {
                             "2005-08-04": [
                                 {
-                                    "ARTIST": "UNKOWN",
+                                    "ARTIST": "UNKNOWN",
                                     "Comment": "dedicated to Mission Specialist Wendy Lawrence at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later.",
                                     "SONG": "Anchors Aweigh"
                                 }
@@ -9180,7 +9193,7 @@
                         {
                             "2005-08-06": [
                                 {
-                                    "ARTIST": "the Japanese group SMAP",
+                                    "ARTIST": "SMAP",
                                     "Comment": "It was played for Mission Specialist Soichi Noguchi of the Japan Aerospace Exploration Agency (JAXA).",
                                     "SONG": "The One and Only Flower in the World"
                                 }
@@ -9211,7 +9224,7 @@
                         {
                             "2005-07-05": [
                                 {
-                                    "ARTIST": "the New Galveston Chorale",
+                                    "ARTIST": "The New Galveston Chorale",
                                     "Comment": "played for Mission Specialist Stephanie Wilson.",
                                     "SONG": "Lift Every Voice and Sing"
                                 }
@@ -9229,7 +9242,7 @@
                         {
                             "2006-07-07": [
                                 {
-                                    "ARTIST": "the Beatles",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "played for Mission Specialist Lisa Nowak.",
                                     "SONG": "Good Day Sunshine"
                                 }
@@ -9265,7 +9278,7 @@
                         {
                             "2006-07-11": [
                                 {
-                                    "ARTIST": "Smashmouth",
+                                    "ARTIST": "Smash Mouth",
                                     "Comment": "for Mission Specialist Lisa Nowak. Requested by her family.",
                                     "SONG": "All Star"
                                 }
@@ -9292,7 +9305,7 @@
                         {
                             "2006-07-14": [
                                 {
-                                    "ARTIST": "the The Fightin' Texas Aggie Band",
+                                    "ARTIST": "The Fightin' Texas Aggie Band",
                                     "Comment": "for Mission Specialist Mike Fossum, a graduate of Texas A&M University. According to Mission Control, the selection was sent by Fossum's wife. He is the first Texas A&M graduate in space. You know Mike, there are quite a few Aggies right here in Mission Control, and all throughout Texas, who have been watching you intently during this mission, said astronaut Steve Swanson from Mission Control in Houston. I think we can say the eyes of Texas are upon you.",
                                     "SONG": "Aggie War Hymn"
                                 }
@@ -9369,7 +9382,7 @@
                         {
                             "2006-09-14": [
                                 {
-                                    "ARTIST": "the Surfaris",
+                                    "ARTIST": "The Surfaris",
                                     "Comment": "for Pilot Chris Ferguson.",
                                     "SONG": "Wipe Out"
                                 }
@@ -9378,7 +9391,7 @@
                         {
                             "2006-09-15": [
                                 {
-                                    "ARTIST": "the Eagles",
+                                    "ARTIST": "The Eagles",
                                     "Comment": "for Mission Specialist Joe Tanner.",
                                     "SONG": "Hotel California"
                                 }
@@ -9446,7 +9459,7 @@
                         {
                             "2006-12-10": [
                                 {
-                                    "ARTIST": "the Beatles",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "for Mark Polansky.",
                                     "SONG": "Here Comes the Sun"
                                 }
@@ -9500,16 +9513,16 @@
                         {
                             "2006-12-16": [
                                 {
-                                    "ARTIST": "the London Philharmonic Orchestra",
+                                    "ARTIST": "The London Philharmonic Orchestra",
                                     "Comment": "The music was played for Nicholas Patrick.",
-                                    "SONG": "Aaron Copeland's Fanfare for the Common Man,"
+                                    "SONG": "Aaron Copland's Fanfare for the Common Man,"
                                 }
                             ]
                         },
                         {
                             "2006-12-17": [
                                 {
-                                    "ARTIST": "the Vienna Philharmonic Orchestra",
+                                    "ARTIST": "The Vienna Philharmonic Orchestra",
                                     "Comment": "for Christer Fuglesang.",
                                     "SONG": "Beautiful Blue Danube"
                                 }
@@ -9518,8 +9531,8 @@
                         {
                             "2006-12-18": [
                                 {
-                                    "ARTIST": "the Beach Boys",
-                                    "Comment": "for the entire crew in honor of the vibrations the spacewalkers may create today to attempt to free the balky solar panels.",
+                                    "ARTIST": "The Beach Boys",
+                                    "Comment": "for the entire crew in honor of the vibrations the space walkers may create today to attempt to free the balky solar panels.",
                                     "SONG": "Good Vibrations,"
                                 }
                             ]
@@ -9527,7 +9540,7 @@
                         {
                             "2006-12-19": [
                                 {
-                                    "ARTIST": "the Gear Daddies",
+                                    "ARTIST": "Gear Daddies",
                                     "Comment": "The song, dedicated to the entire crew, was requested by the training team who sent a message to Oefelein saying they had arranged for him to fly the shuttle half a lap around the station.",
                                     "SONG": "The Zamboni Song,"
                                 }
@@ -9586,7 +9599,7 @@
                         {
                             "2007-06-11": [
                                 {
-                                    "ARTIST": "the Ozark Mountain Daredevils",
+                                    "ARTIST": "The Ozark Mountain Daredevils",
                                     "Comment": "played for Mission Specialist Steven Swanson.",
                                     "SONG": "It Probably Always Will"
                                 }
@@ -9631,8 +9644,8 @@
                         {
                             "2007-06-16": [
                                 {
-                                    "ARTIST": "the UTEP Pep Band",
-                                    "Comment": "was played for Mission Specialist (and UTEP alumnus) John Danny Olivas at 7:38 a.m. CDT.",
+                                    "ARTIST": "UTEP Pep Band",
+                                    "Comment": "was played for Mission Specialist (and UTEP (The University of Texas at El Paso) alumnus) John Danny Olivas at 7:38 a.m. CDT.",
                                     "SONG": "University of Texas at El Paso Fight Song"
                                 }
                             ]
@@ -9699,7 +9712,7 @@
                         {
                             "2007-08-09": [
                                 {
-                                    "ARTIST": "Russell Watson.",
+                                    "ARTIST": "Russell Watson",
                                     "Comment": "played for Mission Specialist Rick Mastracchio.",
                                     "SONG": "Where My Heart Will Take Me"
                                 }
@@ -9726,7 +9739,7 @@
                         {
                             "2007-08-12": [
                                 {
-                                    "ARTIST": "Shania Twain.",
+                                    "ARTIST": "Shania Twain",
                                     "Comment": "It was played for Mission Specialist Dave Williams.",
                                     "SONG": "Up! performed"
                                 }
@@ -9762,7 +9775,7 @@
                         {
                             "2007-08-16": [
                                 {
-                                    "ARTIST": "the Foo Fighters",
+                                    "ARTIST": "Foo Fighters",
                                     "Comment": "It was for Mission Specialist Rick Mastracchio.",
                                     "SONG": "Times Like These"
                                 }
@@ -9780,7 +9793,7 @@
                         {
                             "2007-08-18": [
                                 {
-                                    "ARTIST": "the Foo Fighters",
+                                    "ARTIST": "Foo Fighters",
                                     "Comment": "It was played for Mission Specialist Alvin Drew.",
                                     "SONG": "Learn to Fly,"
                                 }
@@ -9798,7 +9811,7 @@
                         {
                             "2007-08-20": [
                                 {
-                                    "ARTIST": "the Long John Baldry Trio",
+                                    "ARTIST": "Long John Baldry Trio",
                                     "Comment": "a Canadian group. It was for Williams, a Canadian Space Agency astronaut.",
                                     "SONG": "Flying,"
                                 }
@@ -9866,7 +9879,7 @@
                         {
                             "2007-10-29": [
                                 {
-                                    "ARTIST": "One by Wynton Marsalis",
+                                    "ARTIST": "Wynton Marsalis",
                                     "Comment": "was played for Mission Specialist Stephanie Wilson, one of the robot arm operators for this morning's hand off of the P6 truss element between the shuttle and station robot arms.",
                                     "SONG": "One"
                                 }
@@ -9988,9 +10001,9 @@
                         {
                             "2008-02-11": [
                                 {
-                                    "ARTIST": "Steve Miller",
+                                    "ARTIST": "Steve Miller Band",
                                     "Comment": "was played for Mission Specialist Leland Melvin on the day he will use the station's robotic arm to lift the Columbus research module from Atlantis' payload bay.",
-                                    "SONG": "Fly Like an Eagle, written"
+                                    "SONG": "Fly Like an Eagle"
                                 }
                             ]
                         },
@@ -10060,8 +10073,8 @@
                         {
                             "2008-02-19": [
                                 {
-                                    "ARTIST": "Spamalot",
-                                    "Comment": "played for Commander Steve Frick.",
+                                    "ARTIST": "Monty Python",
+                                    "Comment": "Artist originally listed in the chronology as Spamalot. Played for Commander Steve Frick.",
                                     "SONG": "Always Look on the Bright Side"
                                 }
                             ]
@@ -10124,7 +10137,7 @@
                         {
                             "2008-03-15": [
                                 {
-                                    "ARTIST": "the White Stripes",
+                                    "ARTIST": "White Stripes",
                                     "Comment": "The song was played for Mission Specialist Robert L. Behnken. Thanks for that, Al, Robert Behnken replied. Good morning to you as well, and thanks for that great wakeup music, that's one of my favorite songs. It always reminds me of all the great friends that I've met going to different schools, or through different training, just like the shuttle crew I'm with right now. Thanks again, Al, and a great good morning to you. You bet. Have a fine day out there.",
                                     "SONG": "We're Going to be Friends"
                                 }
@@ -10186,7 +10199,7 @@
                         {
                             "2008-03-22": [
                                 {
-                                    "ARTIST": "Heartland's",
+                                    "ARTIST": "Heartland",
                                     "Comment": "The song was played for Endeavour Commander Dominic Gorie.",
                                     "SONG": "I Loved Her First"
                                 }
@@ -10213,7 +10226,7 @@
                         {
                             "2008-03-25": [
                                 {
-                                    "ARTIST": "by Andrea Bocelli",
+                                    "ARTIST": "Andrea Bocelli",
                                     "Comment": "An Italian song that translates to I will go with you. The song was performed by Andrea Bocelli and played for French astronaut Leopold Eyharts. I'd like to see everybody back on Earth, Eyharts told flight controllers. Thanks a lot for the music and see you very soon.",
                                     "SONG": "Con Te Partiro"
                                 }
@@ -10236,7 +10249,7 @@
                         {
                             "2008-06-01": [
                                 {
-                                    "ARTIST": "the Moody Blues",
+                                    "ARTIST": "The Moody Blues",
                                     "Comment": "The song was played for Pilot Ken Ham.",
                                     "SONG": "Your Wildest Dreams"
                                 }
@@ -10290,7 +10303,7 @@
                         {
                             "2008-06-07": [
                                 {
-                                    "ARTIST": "Godaigo",
+                                    "ARTIST": "Godiego",
                                     "Comment": "was played for Mission Specialist Akihiko Hoshide.",
                                     "SONG": "Taking Off"
                                 }
@@ -10308,7 +10321,7 @@
                         {
                             "2008-06-09": [
                                 {
-                                    "ARTIST": "the Fightin' Texas Aggie Band",
+                                    "ARTIST": "The Fightin' Texas Aggie Band",
                                     "Comment": "was played for Mission Specialist Mike Fossum.",
                                     "SONG": "The Spirit of Aggieland performed"
                                 }
@@ -10353,7 +10366,7 @@
                         {
                             "2008-06-14": [
                                 {
-                                    "ARTIST": "the U.S. Merchant Marine Academy Band",
+                                    "ARTIST": "United States Merchant Marine Academy Band",
                                     "Comment": "was played for Commander Mark Kelly and the entire crew.",
                                     "SONG": "Life on an Ocean Wave"
                                 }
@@ -10403,7 +10416,7 @@
                         {
                             "2008-11-19": [
                                 {
-                                    "ARTIST": "Aaron Copeland",
+                                    "ARTIST": "Aaron Copland",
                                     "Comment": "It was played for Pilot Eric Boe.",
                                     "SONG": "Fanfare for the Common Man"
                                 }
@@ -10439,7 +10452,7 @@
                         {
                             "2008-11-23": [
                                 {
-                                    "ARTIST": "Frankie Valli",
+                                    "ARTIST": "Frankie Valli and the 4 Seasons",
                                     "Comment": "It was for Ferguson. It was his 23rd wedding anniversary.",
                                     "SONG": "Can't Take My Eyes Off of You"
                                 }
@@ -10493,7 +10506,7 @@
                         {
                             "2008-11-29": [
                                 {
-                                    "ARTIST": "UNKNWON",
+                                    "ARTIST": "UNKNOWN",
                                     "Comment": "was played for Mission Specialist Greg Chamitoff.",
                                     "SONG": "Twinkle, Twinkle, Little Star"
                                 }
@@ -10525,7 +10538,7 @@
                         {
                             "2009-03-17": [
                                 {
-                                    "ARTIST": "the Tokyo Broadcast Children's Choir",
+                                    "ARTIST": "Tokyo Broadcast Children's Choir",
                                     "Comment": "The song traditionally accompanies exercise for Japanese schoolchildren, and was played for astronaut Koichi Wakata of the Japan Aerospace Exploration Agency.",
                                     "SONG": "Radio Exercise,"
                                 }
@@ -10552,7 +10565,7 @@
                         {
                             "2009-03-20": [
                                 {
-                                    "ARTIST": "the Grateful Dead",
+                                    "ARTIST": "The Grateful Dead",
                                     "Comment": "was played for Mission Specialist John Phillips.",
                                     "SONG": "Box of Rain"
                                 }
@@ -10561,7 +10574,7 @@
                         {
                             "2009-03-21": [
                                 {
-                                    "ARTIST": "the group Pilgrim and Trout",
+                                    "ARTIST": "Pilgrim and Trout",
                                     "Comment": "for Mission Specialist Richard Arnold.",
                                     "SONG": "In a Little While"
                                 }
@@ -10597,7 +10610,7 @@
                         {
                             "2009-03-25": [
                                 {
-                                    "ARTIST": "the Standells",
+                                    "ARTIST": "The Standells",
                                     "Comment": "played for Pilot Tony Antonelli.",
                                     "SONG": "Dirty Water"
                                 }
@@ -10701,7 +10714,7 @@
                         {
                             "2009-05-19": [
                                 {
-                                    "ARTIST": "the Dave Matthews Band",
+                                    "ARTIST": "Dave Matthews Band",
                                     "Comment": "It was played for Mission Specialist Megan McArthur.",
                                     "SONG": "Lie in Our Graves performed"
                                 }
@@ -10728,8 +10741,8 @@
                         {
                             "2009-05-22": [
                                 {
-                                    "ARTIST": "Monty Python (The Meaning of Life)",
-                                    "Comment": "It was played for the entire crew.",
+                                    "ARTIST": "Monty Python",
+                                    "Comment": "From The Meaning of Life. Played for the entire crew.",
                                     "SONG": "The Galaxy Song"
                                 }
                             ]
@@ -10760,8 +10773,8 @@
                         {
                             "2009-07-16": [
                                 {
-                                    "ARTIST": "the band 10,000 Maniacs",
-                                    "Comment": "emanated from speakers inside Endeavour's crew cabin, a wake-up call targeted especially for Mission Specialist Tim Kopra.",
+                                    "ARTIST": "10,000 Maniacs",
+                                    "Comment": "Emanated from speakers inside Endeavour's crew cabin, a wake-up call targeted especially for Mission Specialist Tim Kopra.",
                                     "SONG": "These Are Days"
                                 }
                             ]
@@ -10796,9 +10809,9 @@
                         {
                             "2009-07-20": [
                                 {
-                                    "ARTIST": "composer Barry Gray",
+                                    "ARTIST": "Barry Gray",
                                     "Comment": "for Canadian Space Agency astronaut Julie Payette.",
-                                    "SONG": "The theme from the 1960s television series Thunderbirds,"
+                                    "SONG": "The theme from the 1960s television series Thunderbirds"
                                 }
                             ]
                         },
@@ -10850,7 +10863,7 @@
                         {
                             "2009-07-26": [
                                 {
-                                    "ARTIST": "George Frederic Handel",
+                                    "ARTIST": "Handel",
                                     "Comment": "The excerpt was uplinked for Canadian Space Agency astronaut Julie Payette.",
                                     "SONG": "Dixit Dominus."
                                 }
@@ -10936,7 +10949,7 @@
                         {
                             "2009-09-01": [
                                 {
-                                    "ARTIST": "the Indiana University Band",
+                                    "ARTIST": "The Indiana University Band",
                                     "Comment": "was played for Pilot Kevin Ford, born in Indiana and on his first spaceflight.",
                                     "SONG": "Indiana, Our Indiana"
                                 }
@@ -11017,7 +11030,7 @@
                         {
                             "2009-09-10": [
                                 {
-                                    "ARTIST": "the Beatles",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "was played for Pilot Kevin Ford.",
                                     "SONG": "Good Day Sunshine"
                                 }
@@ -11058,7 +11071,7 @@
                         {
                             "2009-11-19": [
                                 {
-                                    "ARTIST": "The Newsboys",
+                                    "ARTIST": "Newsboys",
                                     "Comment": "was played for Mission Specialist Randy Bresnik, a tune chosen for Bresnik by his wife. Thanks to my wonderful wife Rebecca for that song and the wonder of creation that's going on inside of her and what's going to happen tomorrow, Bresnik radioed Mission Control.",
                                     "SONG": "In Wonder"
                                 }
@@ -11103,7 +11116,7 @@
                         {
                             "2009-11-24": [
                                 {
-                                    "ARTIST": "the U.S. Marine Corps Band",
+                                    "ARTIST": "United States Marine Corps Band",
                                     "Comment": "was played for STS-129 Commander Charlie Hobaugh.",
                                     "SONG": "Marine Corps Hymn"
                                 }
@@ -11302,8 +11315,8 @@
                         {
                             "2010-04-08": [
                                 {
-                                    "ARTIST": "Idina Menzel and Kristen Chenoweth",
-                                    "Comment": "from the musical Wicked, played for Mission Specialist Dottie Metcalf- Lindenburger.",
+                                    "ARTIST": "Idina Menzel and Kristin Chenoweth",
+                                    "Comment": "from the musical Wicked, played for Mission Specialist Dottie Metcalf-Lindenburger.",
                                     "SONG": "Defying Gravity"
                                 }
                             ]
@@ -11338,7 +11351,7 @@
                         {
                             "2010-04-12": [
                                 {
-                                    "ARTIST": "the Indigo Girls",
+                                    "ARTIST": "Indigo Girls",
                                     "Comment": "for Mission Specialist Dottie Metcalf- Lindenburger and the rest of the crew.",
                                     "SONG": "Galileo"
                                 }
@@ -11374,7 +11387,7 @@
                         {
                             "2010-04-16": [
                                 {
-                                    "ARTIST": "the Newsboys",
+                                    "ARTIST": "Newsboys",
                                     "Comment": "selected for Pilot James P. Dutton Jr.",
                                     "SONG": "Joy performed"
                                 }
@@ -11546,7 +11559,7 @@
                         {
                             "2011-02-27": [
                                 {
-                                    "ARTIST": "The Manhattan Transfer quartet",
+                                    "ARTIST": "The Manhattan Transfer",
                                     "Comment": "was played for Commander Steve Lindsey.",
                                     "SONG": "Java Jive"
                                 }
@@ -11659,7 +11672,7 @@
                         {
                             "2011-05-17": [
                                 {
-                                    "ARTIST": "the band Train",
+                                    "ARTIST": "Train",
                                     "Comment": "played for Pilot Greg Johnson, a tune selected for Johnson by his family and radioed up to the shuttle by Mission Control. I love that song and I love being in space, Johnson radioed Mission Control. Johnson thanked his teenage son Matt for choosing the song and apologized for missing his birthday, which is tomorrow. And I want to say that's a perfect way to start an exciting rendezvous day!",
                                     "SONG": "Drops of Jupiter"
                                 }
@@ -11704,7 +11717,7 @@
                         {
                             "2011-05-22": [
                                 {
-                                    "ARTIST": "the Foo Fighters",
+                                    "ARTIST": "Foo Fighters",
                                     "Comment": "for Mission Specialist Andrew Feustel.",
                                     "SONG": "Times Like These"
                                 }
@@ -11713,7 +11726,7 @@
                         {
                             "2011-05-23": [
                                 {
-                                    "ARTIST": "the Italian duo Zero Assoluto",
+                                    "ARTIST": "Zero Assoluto",
                                     "Comment": "uplinked especially for Mission Specialist Roberto Vittori of Italy.",
                                     "SONG": "Svegliarsi La Mattina (Woke Up This Morning)"
                                 }
@@ -11767,7 +11780,7 @@
                         {
                             "2011-05-29": [
                                 {
-                                    "ARTIST": "the Tucson, Arizona-based band Calexico",
+                                    "ARTIST": "Calexico",
                                     "Comment": "was played for Kelly. Mark Kelly picked Calexico's Slowness as a wake-up call to honor his wife, Congresswoman Gabrielle Giffords, and her hometown, Tucson. Kelly tells mission control in Houston that Gabby really wants to get back there and is really looking forward to that, so it's an appropriate song. That's coming soon.",
                                     "SONG": "Slowness"
                                 }
@@ -11785,9 +11798,9 @@
                         {
                             "2011-05-31": [
                                 {
-                                    "ARTIST": "the band Stormy Mondays",
+                                    "ARTIST": "Stormy Mondays",
                                     "Comment": "This song was chosen in an online vote of the general public as the winner in the Space Shuttle Program's Original Song Contest, which attracted 1350 entrants.",
-                                    "SONG": "Sunrise Number 1,"
+                                    "SONG": "Sunrise Number 1"
                                 }
                             ]
                         }
@@ -11991,7 +12004,7 @@
                             "1997-07-04:Sol 6": [
                                 {
                                     "ARTIST": "Glenn Miller",
-                                    "Comment": "(with live accompaniment by Chief Engineer Rob Manning)",
+                                    "Comment": "With live accompaniment by Chief Engineer Rob ManningW",
                                     "SOL": "Sol 6",
                                     "SONG": "In the Mood"
                                 }
@@ -12029,7 +12042,8 @@
                                 {
                                     "ARTIST": "Richard Strauss",
                                     "SOL": "Sol 14",
-                                    "SONG": "Also Sprach Zarathrustra (Theme from 2001: A Space Odyssey)"
+                                    "Comment": "Theme from 2001: A Space Odyssey",
+                                    "SONG": "Also sprach Zarathustra"
                                 }
                             ]
                         },
@@ -12176,7 +12190,7 @@
                         {
                             "1997-07-04:Sol 33": [
                                 {
-                                    "ARTIST": "Blood, Sweat and Tears",
+                                    "ARTIST": "Blood, Sweat & Tears",
                                     "SOL": "Sol 33",
                                     "SONG": "You've Made Me So Very Happy"
                                 }
@@ -12248,9 +12262,9 @@
                         {
                             "2004-01-04:Sol 2": [
                                 {
-                                    "ARTIST": "the Beatles.",
+                                    "ARTIST": "The Beatles",
                                     "SOL": "Sol 2",
-                                    "SONG": "Good Morning, Good Morning,"
+                                    "SONG": "Good Morning, Good Morning"
                                 }
                             ]
                         },
@@ -12266,10 +12280,10 @@
                         {
                             "2004-01-04:Sol 4": [
                                 {
-                                    "ARTIST": "the Mormon Tabernacle Choir",
+                                    "ARTIST": "Mormon Tabernacle Choir",
                                     "Comment": "Presidential phone call.",
                                     "SOL": "Sol 4",
-                                    "SONG": "Hail to the Chief,"
+                                    "SONG": "Hail to the Chief"
                                 }
                             ]
                         },
@@ -12299,27 +12313,27 @@
                                     "ARTIST": "Casaca",
                                     "Comment": "Brazilian song suggested by investigator from Brazil, RRGTM student that week from Brazil.",
                                     "SOL": "Sol 7",
-                                    "SONG": "Da Da Da,"
+                                    "SONG": "Da Da Da"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 8": [
                                 {
-                                    "ARTIST": "Cheryl Crow.",
+                                    "ARTIST": "Cheryl Crow",
                                     "Comment": "Laid-back sol.",
                                     "SOL": "Sol 8",
-                                    "SONG": "Soak Up the Sun,"
+                                    "SONG": "Soak Up the Sun"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 9": [
                                 {
-                                    "ARTIST": "Jimmy Cliff.",
+                                    "ARTIST": "Jimmy Cliff",
                                     "Comment": "Picture taking sol.",
                                     "SOL": "Sol 9",
-                                    "SONG": "I Can See Clearly Now,"
+                                    "SONG": "I Can See Clearly Now"
                                 }
                             ]
                         },
@@ -12335,77 +12349,77 @@
                                     "ARTIST": "Buster Poindexter",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 10",
-                                    "SONG": "Hit the Road Jack,"
+                                    "SONG": "Hit the Road Jack"
                                 },
                                 {
-                                    "ARTIST": "the Byrds",
+                                    "ARTIST": "The Byrds",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 10",
-                                    "SONG": "Turn, Turn, Turn,"
+                                    "SONG": "Turn, Turn, Turn"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 11": [
                                 {
-                                    "ARTIST": "the Beach Boys",
+                                    "ARTIST": "The Beach Boys",
                                     "Comment": "Rest of turn on landing deck.",
                                     "SOL": "Sol 11",
-                                    "SONG": "I Get Around,"
+                                    "SONG": "I Get Around"
                                 },
                                 {
                                     "ARTIST": "Ratt",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 11",
-                                    "SONG": "Round and Round,"
+                                    "SONG": "Round and Round"
                                 },
                                 {
-                                    "ARTIST": "Thal\u00eda.",
+                                    "ARTIST": "Thalía",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 11",
-                                    "SONG": "You Spin Me 'Round,"
+                                    "SONG": "You Spin Me Round"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 12": [
                                 {
-                                    "ARTIST": "Steppenwolf;",
+                                    "ARTIST": "Steppenwolf",
                                     "Comment": "Egress.",
                                     "SOL": "Sol 12",
-                                    "SONG": "Born to be Wild,"
+                                    "SONG": "Born to be Wild"
                                 },
                                 {
-                                    "ARTIST": "Riders in the Sky;",
+                                    "ARTIST": "Riders in the Sky",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 12",
-                                    "SONG": "Rawhide,"
+                                    "SONG": "Rawhide"
                                 },
                                 {
-                                    "ARTIST": "the Baha Men.",
+                                    "ARTIST": "The Baha Men",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 12",
-                                    "SONG": "Who Let The Dogs Out?,"
+                                    "SONG": "Who Let The Dogs Out?"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 13": [
                                 {
-                                    "ARTIST": "the Four Tops.",
+                                    "ARTIST": "Four Tops",
                                     "Comment": "First robotic arm activity.",
                                     "SOL": "Sol 13",
-                                    "SONG": "Reach Out,"
+                                    "SONG": "Reach Out"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 14": [
                                 {
-                                    "ARTIST": "the Platters.",
+                                    "ARTIST": "The Platters",
                                     "Comment": "Touching robotic arm down on Mars.",
                                     "SOL": "Sol 14",
-                                    "SONG": "You've Got The Magic Touch,"
+                                    "SONG": "You've Got The Magic Touch"
                                 }
                             ]
                         },
@@ -12415,65 +12429,65 @@
                                     "ARTIST": "Sting",
                                     "Comment": "Last engineering activities, first drive on the surface.",
                                     "SOL": "Sol 15",
-                                    "SONG": "If You Love Somebody Set Them Free,"
+                                    "SONG": "If You Love Somebody Set Them Free"
                                 },
                                 {
-                                    "ARTIST": "The B-52's;",
+                                    "ARTIST": "The B-52's",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 15",
-                                    "SONG": "Roam,"
+                                    "SONG": "Roam"
                                 },
                                 {
-                                    "ARTIST": "The Cars.",
+                                    "ARTIST": "The Cars",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 15",
-                                    "SONG": "Good Times Roll,"
+                                    "SONG": "Good Times Roll"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 16": [
                                 {
-                                    "ARTIST": "Eric Clapton.",
+                                    "ARTIST": "Eric Clapton",
                                     "Comment": "Crew starts Mars day after California midnight, part of the sol dedicated to deleting contents of flash.",
                                     "SOL": "Sol 16",
-                                    "SONG": "After Midnight,"
+                                    "SONG": "After Midnight"
                                 },
                                 {
-                                    "ARTIST": "Weird Al Yankovic.",
+                                    "ARTIST": "Weird Al Yankovic",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 16",
-                                    "SONG": "Trash Day,"
+                                    "SONG": "Trash Day"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 17": [
                                 {
-                                    "ARTIST": "Queen.",
+                                    "ARTIST": "Queen",
                                     "Comment": "First arm activities and observations on a rock.",
                                     "SOL": "Sol 17",
-                                    "SONG": "We Will Rock You,"
+                                    "SONG": "We Will Rock You"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 18": [
                                 {
-                                    "ARTIST": "Peter Gabriel.",
+                                    "ARTIST": "Peter Gabriel",
                                     "Comment": "Intended first [Rock Abrasion Tool] RAT sol, though ran into problems later, to put it mildly.",
                                     "SOL": "Sol 18",
-                                    "SONG": "Sledgehammer,"
+                                    "SONG": "Sledgehammer"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 19": [
                                 {
-                                    "ARTIST": "Abba.",
+                                    "ARTIST": "ABBA",
                                     "Comment": "Objective was to regain contact with Spirit after a loss of communications. We did.",
                                     "SOL": "Sol 19",
-                                    "SONG": "S.O.S.,"
+                                    "SONG": "S.O.S."
                                 }
                             ]
                         },
@@ -12490,10 +12504,10 @@
                         {
                             "2004-01-04:Sol 21": [
                                 {
-                                    "ARTIST": "The Hooters.",
+                                    "ARTIST": "The Hooters",
                                     "Comment": "A rousing lullaby for when we were trying, and succeeded, to get the rover to go to sleep.",
                                     "SOL": "Sol 21",
-                                    "SONG": "Satellite,"
+                                    "SONG": "Satellite"
                                 }
                             ]
                         },
@@ -12533,7 +12547,7 @@
                                     "ARTIST": "Elvis Presley",
                                     "Comment": "Continuing debug, got picture!",
                                     "SOL": "Sol 25",
-                                    "SONG": "(You're The) Devil In Disguise,"
+                                    "SONG": "(You're The) Devil In Disguise"
                                 },
                                 {
                                     "ARTIST": "The Beatles",
@@ -12546,7 +12560,7 @@
                         {
                             "2004-01-04:Sol 26": [
                                 {
-                                    "ARTIST": "Huey Lewis & The News",
+                                    "ARTIST": "Huey Lewis and the News",
                                     "Comment": "Trying yet another recipe for getting task trace, still didn't work.",
                                     "SOL": "Sol 26",
                                     "SONG": "I Want a New Drug"
@@ -12566,10 +12580,10 @@
                         {
                             "2004-01-04:Sol 28": [
                                 {
-                                    "ARTIST": "Willie Nelson.",
+                                    "ARTIST": "Willie Nelson",
                                     "Comment": "Can't wait to get back on ..., back to normal use of the flash file system, itching to get going.",
                                     "SOL": "Sol 28",
-                                    "SONG": "On the Road Again,"
+                                    "SONG": "On the Road Again"
                                 }
                             ]
                         },
@@ -12596,10 +12610,10 @@
                         {
                             "2004-01-04:Sol 31": [
                                 {
-                                    "ARTIST": "the Ramones.",
+                                    "ARTIST": "Ramones",
                                     "Comment": "Very low activity sol to get the rover rested and ready for surgery on the following sol.",
                                     "SOL": "Sol 31",
-                                    "SONG": "I Wanna Be Sedated,"
+                                    "SONG": "I Wanna Be Sedated"
                                 }
                             ]
                         },
@@ -12609,29 +12623,29 @@
                                     "ARTIST": "The Surfaris",
                                     "Comment": "File system reformat.",
                                     "SOL": "Sol 32",
-                                    "SONG": "Wipe Out,"
+                                    "SONG": "Wipe Out"
                                 },
                                 {
-                                    "ARTIST": "Twisted Sister.",
+                                    "ARTIST": "Twisted Sister",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 32",
-                                    "SONG": "We're Not Gonna Take It,"
+                                    "SONG": "We're Not Gonna Take It"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 33": [
                                 {
-                                    "ARTIST": "Gene Autry,",
+                                    "ARTIST": "Gene Autry",
                                     "Comment": "Back to normal operations, color flag picture on RAT.",
                                     "SOL": "Sol 33",
-                                    "SONG": "Back In the Saddle Again,"
+                                    "SONG": "Back In the Saddle Again"
                                 },
                                 {
-                                    "ARTIST": "Beyonc\u00e9.",
+                                    "ARTIST": "Beyonce",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 33",
-                                    "SONG": "The Star Spangled Banner,"
+                                    "SONG": "The Star Spangled Banner"
                                 }
                             ]
                         },
@@ -12641,33 +12655,33 @@
                                     "ARTIST": "The Bobs",
                                     "Comment": "First RAT grinding.",
                                     "SOL": "Sol 34",
-                                    "SONG": "The Laundry Cycle: Pounded on a Rock,"
+                                    "SONG": "The Laundry Cycle: Pounded on a Rock"
                                 },
                                 {
-                                    "ARTIST": "R. Kelly.",
+                                    "ARTIST": "R. Kelly",
                                     "Comment": "Ibid.",
                                     "SOL": "Sol 34",
-                                    "SONG": "Bump N' Grind,"
+                                    "SONG": "Bump N' Grind"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 35": [
                                 {
-                                    "ARTIST": "Credence Clearwater Revival.",
+                                    "ARTIST": "Creedence Clearwater Revival",
                                     "Comment": "Intended drive around lander to begin drive to crater. Didn't get anywhere though.",
                                     "SOL": "Sol 35",
-                                    "SONG": "Up Around the Bend,"
+                                    "SONG": "Up Around the Bend"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 36": [
                                 {
-                                    "ARTIST": "Elvis Presley.",
+                                    "ARTIST": "Elvis Presley",
                                     "Comment": "Drive didn't work yestersol -- we've been stuck here for weeks. Drive did work later that sol.",
                                     "SOL": "Sol 36",
-                                    "SONG": "Stuck On You,"
+                                    "SONG": "Stuck On You"
                                 }
                             ]
                         },
@@ -12684,50 +12698,50 @@
                         {
                             "2004-01-04:Sol 38": [
                                 {
-                                    "ARTIST": "Van Halen.",
+                                    "ARTIST": "Van Halen",
                                     "Comment": "HGA [High Gain Antenna] problem that sol, no activities, song played late in the sol.",
                                     "SOL": "Sol 38",
-                                    "SONG": "Runnin' With the Devil,"
+                                    "SONG": "Runnin' With the Devil"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 39": [
                                 {
-                                    "ARTIST": "Buster Poindexter.",
+                                    "ARTIST": "Buster Poindexter",
                                     "Comment": "Another long drive -- yes, this is a reuse of that song.",
                                     "SOL": "Sol 39",
-                                    "SONG": "Hit the Road Jack,"
+                                    "SONG": "Hit the Road Jack"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 40": [
                                 {
-                                    "ARTIST": "Louis Armstrong.",
+                                    "ARTIST": "Louis Armstrong",
                                     "Comment": "Mars, that is.",
                                     "SOL": "Sol 40",
-                                    "SONG": "What a Wonderful World,"
+                                    "SONG": "What a Wonderful World"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 41": [
                                 {
-                                    "ARTIST": "Eve 6.",
+                                    "ARTIST": "Eve 6",
                                     "Comment": "Driving song, though only did several inches of driving to position in front of rock.",
                                     "SOL": "Sol 41",
-                                    "SONG": "Open Road Song,"
+                                    "SONG": "Open Road Song"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 42": [
                                 {
-                                    "ARTIST": "John Hiatt.",
+                                    "ARTIST": "John Hiatt",
                                     "Comment": "Observations of the rock Mimi.",
                                     "SOL": "Sol 42",
-                                    "SONG": "Lift Up Every Stone,"
+                                    "SONG": "Lift Up Every Stone"
                                 }
                             ]
                         },
@@ -12737,84 +12751,84 @@
                                     "ARTIST": "Bon Jovi",
                                     "Comment": "Many sols tend to start with our fingers crossed.",
                                     "SOL": "Sol 43",
-                                    "SONG": "Livin' On a Prayer,"
+                                    "SONG": "Livin' On a Prayer"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 44": [
                                 {
-                                    "ARTIST": "Carole King.",
+                                    "ARTIST": "Carole King",
                                     "Comment": "Heading for that crater.",
                                     "SOL": "Sol 44",
-                                    "SONG": "Way Over Yonder,"
+                                    "SONG": "Way Over Yonder"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 45": [
                                 {
-                                    "ARTIST": "Diana Ross.",
+                                    "ARTIST": "Diana Ross",
                                     "Comment": "Touch and go sol.",
                                     "SOL": "Sol 45",
-                                    "SONG": "Touch Me in the Morning,"
+                                    "SONG": "Touch Me in the Morning"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 46": [
                                 {
-                                    "ARTIST": "The Everly Brothers.",
+                                    "ARTIST": "The Everly Brothers",
                                     "Comment": "Generic wakeup song.",
                                     "SOL": "Sol 46",
-                                    "SONG": "Wake Up Little Susie,"
+                                    "SONG": "Wake Up Little Susie"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 47": [
                                 {
-                                    "ARTIST": "Hot Soup.",
+                                    "ARTIST": "Hot Soup",
                                     "Comment": "Trenching sol.",
                                     "SOL": "Sol 47",
-                                    "SONG": "Dig Down Deep,"
+                                    "SONG": "Dig Down Deep"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 48": [
                                 {
-                                    "ARTIST": "Devo.",
+                                    "ARTIST": "Devo",
                                     "Comment": "Working in the trench.",
                                     "SOL": "Sol 48",
-                                    "SONG": "Working in the Coal Mine,"
+                                    "SONG": "Working in the Coal Mine"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 49": [
                                 {
-                                    "ARTIST": "Beth Carvalho.",
+                                    "ARTIST": "Beth Carvalho",
                                     "Comment": "Brazilian song played on Mars Pathfinder, played again for Carnival weekend.",
                                     "SOL": "Sol 49",
-                                    "SONG": "Coisinha Do Pai,"
+                                    "SONG": "Coisinha Do Pai"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 50": [
                                 {
-                                    "ARTIST": "Beth Carvalho.",
+                                    "ARTIST": "Beth Carvalho",
                                     "Comment": "Brazilian song written by same artist inspired by use of previous song on MPF, this one is a Mars Samba, also for Carnival weekend. Starts off Hello NASA!.",
                                     "SOL": "Sol 50",
-                                    "SONG": "Samba De Marte,"
+                                    "SONG": "Samba De Marte"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 51": [
                                 {
-                                    "ARTIST": "Vangelis.",
+                                    "ARTIST": "Vangelis",
                                     "Comment": "Appropriate for slow-motion races.",
                                     "SOL": "Sol 51",
                                     "SONG": "Theme from 'Chariots of Fire'"
@@ -12824,7 +12838,7 @@
                         {
                             "2004-01-04:Sol 52": [
                                 {
-                                    "ARTIST": "Foreigner.",
+                                    "ARTIST": "Foreigner",
                                     "SOL": "Sol 52",
                                     "SONG": "Cold as Ice"
                                 }
@@ -12853,21 +12867,21 @@
                         {
                             "2004-01-04:Sol 55": [
                                 {
-                                    "ARTIST": "Cathy Fink",
+                                    "ARTIST": "Cathy Fink and Marcy Marxer",
                                     "SOL": "Sol 55",
                                     "SONG": "Brush Your Teeth"
                                 },
                                 {
-                                    "ARTIST": "Tony Orlando and Dawn.",
+                                    "ARTIST": "Tony Orlando and Dawn",
                                     "SOL": "Sol 55",
-                                    "SONG": "Marcy Marxer, and Knock Three Times"
+                                    "SONG": "Knock Three Times"
                                 }
                             ]
                         },
                         {
                             "2004-01-04:Sol 56": [
                                 {
-                                    "ARTIST": "Jump 5.",
+                                    "ARTIST": "Jump 5",
                                     "SOL": "Sol 56",
                                     "SONG": "Walking On Sunshine"
                                 }
@@ -12895,7 +12909,7 @@
                         {
                             "2004-01-04:Sol 60": [
                                 {
-                                    "ARTIST": "the Mighty Mighty Bosstones.",
+                                    "ARTIST": "The Mighty Mighty Bosstones",
                                     "SOL": "Sol 60",
                                     "SONG": "Pictures to Prove It"
                                 }
@@ -12904,7 +12918,7 @@
                         {
                             "2004-01-04:Sol 61": [
                                 {
-                                    "ARTIST": "Guided by Voices.",
+                                    "ARTIST": "Guided by Voices",
                                     "SOL": "Sol 61",
                                     "SONG": "Motor Away"
                                 }
@@ -12913,7 +12927,7 @@
                         {
                             "2004-01-04:Sol 62": [
                                 {
-                                    "ARTIST": "Atticus Fault.",
+                                    "ARTIST": "Atticus Fault",
                                     "SOL": "Sol 62",
                                     "SONG": "My First Trip to Mars,"
                                 }
@@ -12932,7 +12946,7 @@
                         {
                             "2004-01-04:Sol 67": [
                                 {
-                                    "ARTIST": "the Carpenters",
+                                    "ARTIST": "The Carpenters",
                                     "Comment": "The song was fitting, as yestersols's drive put Spirit at the rim of Bonneville crater, but it took some additional maneuvering to get the rover perfectly placed for the 360-degree panoramic camera images it will take on upcoming sols.",
                                     "SOL": "Sol 67",
                                     "SONG": "On Top of the World"
@@ -12951,7 +12965,7 @@
                         {
                             "2004-01-04:Sol 77": [
                                 {
-                                    "ARTIST": "the Doobie Brothers",
+                                    "ARTIST": "The Doobie Brothers",
                                     "Comment": "since the rover was to make its final approach to the rock target named Mazatzal today.",
                                     "SOL": "Sol 77",
                                     "SONG": "One Step Closer"
@@ -13004,7 +13018,7 @@
                         {
                             "2004-01-04:Sol 2": [
                                 {
-                                    "ARTIST": "the Turtles",
+                                    "ARTIST": "The Turtles",
                                     "Comment": "First full sol with both rovers on Mars.",
                                     "SOL": "Sol 2",
                                     "SONG": "So Happy Together,"
@@ -13034,7 +13048,7 @@
                         {
                             "2004-01-04:Sol 5": [
                                 {
-                                    "ARTIST": "REM",
+                                    "ARTIST": "R.E.M.",
                                     "SOL": "Sol 5",
                                     "SONG": "Stand"
                                 },
@@ -13136,7 +13150,7 @@
                         {
                             "2004-01-04:Sol 13": [
                                 {
-                                    "ARTIST": "the Beach Boys",
+                                    "ARTIST": "The Beach Boys",
                                     "Comment": "Jaunt away from lander.",
                                     "SOL": "Sol 13",
                                     "SONG": "Little Honda (aka First Gear),"
@@ -13247,7 +13261,7 @@
                         {
                             "2004-01-04:Sol 23": [
                                 {
-                                    "ARTIST": "Blood, Sweat, and Tears",
+                                    "ARTIST": "Blood, Sweat, & Tears",
                                     "Comment": "Right front trenching wheel.",
                                     "SOL": "Sol 23",
                                     "SONG": "Spinning Wheel,"
@@ -13277,7 +13291,7 @@
                         {
                             "2004-01-04:Sol 26": [
                                 {
-                                    "ARTIST": "the Beastie Boys",
+                                    "ARTIST": "Beastie Boys",
                                     "Comment": "Every rover part exercised.",
                                     "SOL": "Sol 26",
                                     "SONG": "Body Movin',"
@@ -13297,7 +13311,7 @@
                         {
                             "2004-01-04:Sol 28": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel",
+                                    "ARTIST": "Simon & Garfunkel",
                                     "Comment": "El Capitan target assessment.",
                                     "SOL": "Sol 28",
                                     "SONG": "I am a Rock,"
@@ -13307,7 +13321,7 @@
                         {
                             "2004-01-04:Sol 29": [
                                 {
-                                    "ARTIST": "the Doors",
+                                    "ARTIST": "The Doors",
                                     "Comment": "Heavy weather at DSS-63 and DSS-14.",
                                     "SOL": "Sol 29",
                                     "SONG": "Riders on the Storm,"
@@ -13337,7 +13351,7 @@
                         {
                             "2004-01-04:Sol 32": [
                                 {
-                                    "ARTIST": "the Beatles",
+                                    "ARTIST": "The Beatles",
                                     "Comment": "Long MB integration -- no IDD or mobility.",
                                     "SOL": "Sol 32",
                                     "SONG": "Let It Be"
@@ -13357,7 +13371,7 @@
                         {
                             "2004-01-04:Sol 34": [
                                 {
-                                    "ARTIST": "Lenny Kravitz.",
+                                    "ARTIST": "Lenny Kravitz",
                                     "SOL": "Sol 34",
                                     "SONG": "Dig In"
                                 }
@@ -13366,7 +13380,7 @@
                         {
                             "2004-01-04:Sol 35": [
                                 {
-                                    "ARTIST": "Jimmy Cliff.",
+                                    "ARTIST": "Jimmy Cliff",
                                     "SOL": "Sol 35",
                                     "SONG": "I Can See Clearly Now"
                                 }
@@ -13375,7 +13389,7 @@
                         {
                             "2004-01-04:Sol 36": [
                                 {
-                                    "ARTIST": "Sting.",
+                                    "ARTIST": "Sting",
                                     "SOL": "Sol 36",
                                     "SONG": "Rock Steady"
                                 }
@@ -13384,7 +13398,7 @@
                         {
                             "2004-01-04:Sol 37": [
                                 {
-                                    "ARTIST": "the Cars.",
+                                    "ARTIST": "The Cars",
                                     "SOL": "Sol 37",
                                     "SONG": "Let's Go"
                                 }
@@ -13413,7 +13427,7 @@
                         {
                             "2004-01-04:Sol 41": [
                                 {
-                                    "ARTIST": "Willie Nelson.",
+                                    "ARTIST": "Willie Nelson",
                                     "SOL": "Sol 41",
                                     "SONG": "On the Road Again"
                                 }
@@ -13454,7 +13468,7 @@
                                     "SONG": "Eclipse"
                                 },
                                 {
-                                    "ARTIST": "Kenny Loggins,",
+                                    "ARTIST": "Kenny Loggins",
                                     "Comment": "the second song, was played because Opportunity is halfway through its primary 90-sol surface mission.",
                                     "SOL": "Sol 45",
                                     "SONG": "Meet Me Halfway"
@@ -13490,7 +13504,7 @@
                         {
                             "2004-01-04:Sol 48": [
                                 {
-                                    "ARTIST": "John Williams.",
+                                    "ARTIST": "John Williams",
                                     "SOL": "Sol 48",
                                     "SONG": "Jaws: Main Title / Fist Victim"
                                 }
@@ -13509,7 +13523,7 @@
                         {
                             "2004-01-04:Sol 51": [
                                 {
-                                    "ARTIST": "Alabama.",
+                                    "ARTIST": "Alabama",
                                     "SOL": "Sol 51",
                                     "SONG": "Song of the South"
                                 }
@@ -13528,7 +13542,7 @@
                         {
                             "2004-01-04:Sol 54": [
                                 {
-                                    "ARTIST": "Carole King.",
+                                    "ARTIST": "Carole King",
                                     "SOL": "Sol 54",
                                     "SONG": "I Feel The Earth Move"
                                 }
@@ -13537,7 +13551,7 @@
                         {
                             "2004-01-04:Sol 56": [
                                 {
-                                    "ARTIST": "the Steve Miller Band.",
+                                    "ARTIST": "Steve Miller Band",
                                     "SOL": "Sol 56",
                                     "SONG": "Fly Like an Eagle"
                                 }
@@ -13546,7 +13560,7 @@
                         {
                             "2004-01-04:Sol 57": [
                                 {
-                                    "ARTIST": "the JBs and Fred Wesley.",
+                                    "ARTIST": "Fred Wesley & The JB's",
                                     "SOL": "Sol 57",
                                     "SONG": "If You Don't Get it the First Time, Back Up and Try it Again"
                                 }
@@ -13565,7 +13579,7 @@
                         {
                             "2004-01-04:Sol 59": [
                                 {
-                                    "ARTIST": "Simon and Garfunkel.",
+                                    "ARTIST": "Simon & Garfunkel",
                                     "SOL": "Sol 59",
                                     "SONG": "59th Street Bridge Song (Feeling Groovy)"
                                 }
@@ -13584,7 +13598,7 @@
                         {
                             "2004-01-04:Sol 64": [
                                 {
-                                    "ARTIST": "REM.",
+                                    "ARTIST": "R.E.M.",
                                     "SOL": "Sol 64",
                                     "SONG": "Stand"
                                 }
@@ -13593,7 +13607,7 @@
                         {
                             "2004-01-04:Sol 65": [
                                 {
-                                    "ARTIST": "Aerosmith.",
+                                    "ARTIST": "Aerosmith",
                                     "SOL": "Sol 65",
                                     "SONG": "Back in the Saddle"
                                 }
@@ -13621,7 +13635,7 @@
                         {
                             "2004-01-04:Sol 68": [
                                 {
-                                    "ARTIST": "Van Morrison.",
+                                    "ARTIST": "Van Morrison",
                                     "SOL": "Sol 68",
                                     "SONG": "Got to Go Back"
                                 }
@@ -13640,7 +13654,7 @@
                         {
                             "2004-01-04:Sol 70": [
                                 {
-                                    "ARTIST": "The Greatful Dead.",
+                                    "ARTIST": "The Grateful Dead",
                                     "SOL": "Sol 70",
                                     "SONG": "Truckin'"
                                 }
@@ -13649,7 +13663,7 @@
                         {
                             "2004-01-04:Sol 72": [
                                 {
-                                    "ARTIST": "Dion and the Belmonts.",
+                                    "ARTIST": "Dion and the Belmonts",
                                     "SOL": "Sol 72",
                                     "SONG": "The Wanderer"
                                 }
@@ -13698,7 +13712,7 @@
                         {
                             "2004-01-04:Sol 101": [
                                 {
-                                    "ARTIST": "Cat Stevens;",
+                                    "ARTIST": "Cat Stevens",
                                     "SOL": "Sol 101-102",
                                     "SONG": "Morning has Broken"
                                 },
