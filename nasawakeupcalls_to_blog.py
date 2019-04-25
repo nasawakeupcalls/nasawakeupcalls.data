@@ -15,19 +15,28 @@ songs_arr = []
 comment_arr = []
 
 
+urls_file = os.path.join("urls", "urls")
+
+
 def my_name_is_sol(date_):
     """Take the Martian landing date and calculate the SOL based on the given
     offset.
     """
     landing_date = date_.split(":")[0]
     offset = date_.split("Sol")[1]
-    date = datetime.datetime(int(landing_date.split("-")[0]), int(landing_date.split("-")[1]), int(landing_date.split("-")[2]))
-    return date + (datetime.timedelta(days=1, minutes=39, seconds=35)  * int(offset))
+    date = datetime.datetime(
+        int(landing_date.split("-")[0]),
+        int(landing_date.split("-")[1]),
+        int(landing_date.split("-")[2]),
+    )
+    return date + (datetime.timedelta(days=1, minutes=39, seconds=35) * int(offset))
 
 
 def set_file_datetime(file_name, date_):
-    if not "Sol" in date_:
-        date = datetime.datetime(int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2]))
+    if "Sol" not in date_:
+        date = datetime.datetime(
+            int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2])
+        )
         modTime = time.mktime(date.timetuple())
         os.utime(file_name, (modTime, modTime))
         return
@@ -36,16 +45,17 @@ def set_file_datetime(file_name, date_):
 
 
 def date_to_human(date_):
-    if not "Sol" in date_:
-        d_ = datetime.datetime(int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2]))
+    if "Sol" not in date_:
+        d_ = datetime.datetime(
+            int(date_.split("-")[0]), int(date_.split("-")[1]), int(date_.split("-")[2])
+        )
         return d_.strftime("%B %d, %Y")
     return my_name_is_sol(date_).strftime("%B %d, %Y")
 
 
 def pretty_json(dict_data):
     """Function docstring."""
-    return json.dumps(
-        dict_data, sort_keys=True, indent=4, separators=(',', ': '))
+    return json.dumps(dict_data, sort_keys=True, indent=4, separators=(",", ": "))
 
 
 def output_rows(program, mission):
@@ -60,7 +70,9 @@ def output_rows(program, mission):
             for song in songlist:
                 """output a new post..."""
                 if song_details != "":
-                    song_details = "{}\n{} by {}".format(song_details, song["SONG"], song["ARTIST"])
+                    song_details = "{}\n{} by {}".format(
+                        song_details, song["SONG"], song["ARTIST"]
+                    )
                 else:
                     song_details = "{} by {}".format(song["SONG"], song["ARTIST"])
                 if not song.get("Comment"):
@@ -78,25 +90,33 @@ def output_rows(program, mission):
             template = template.replace("{{ %song_details% }}", song_details)
             if comment == "":
                 comment = "No mission comment"
-            template = template.replace("{{ %comment% }}", comment.replace("Ibid.\n", "").replace("Ibid.", ""))
+            template = template.replace(
+                "{{ %comment% }}", comment.replace("Ibid.\n", "").replace("Ibid.", "")
+            )
             template = template.replace("{{ %date% }}", date_)
             template = template.replace("{{ %date_human% }}", date_to_human(date_))
-
             date_string = None
             if "Sol" not in date_:
-                date_string = date_.replace(" ", "_")
+                date_string = date_.replace(" ", "-")
             else:
-                date_string = my_name_is_sol(date_).strftime("%Y_%m_%d")
-            file_name = os.path.join("posts", "{}-{}.md".format(date_string, mission_name.replace(" ", "_")))
+                date_string = my_name_is_sol(date_).strftime("%Y-%m-%d")
+            file_name = os.path.join(
+                "posts", "{}-{}.md".format(date_string, mission_name.replace(" ", "_"))
+            )
             with open(file_name, "w") as blog_file:
                 blog_file.write(template)
+            with open(urls_file, "a+") as url_listing:
+                url_ = '"/{}/{}",'.format(date_string, mission_name.replace(" ", "_"))
+                url_listing.write("{}\n".format(url_))
             set_file_datetime(file_name, date_)
 
 
 def main():
     """Primary entry point of the script."""
+    with open(urls_file, "w") as url_listing:
+        """Clear the url_listing."""
     data = None
-    with open('nasawakeupcalls.json') as f:
+    with open("nasawakeupcalls.json") as f:
         data = json.load(f)
     for program in data["Programs"]:
         program_ = program.get("Title")
