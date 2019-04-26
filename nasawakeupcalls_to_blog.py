@@ -4,6 +4,7 @@
 import datetime
 import json
 import os
+import random
 import time
 
 
@@ -60,6 +61,7 @@ def pretty_json(dict_data):
 
 def output_rows(program, mission):
     """Function docstring."""
+    stars = ["✦", "✫", "⊹", "✺", "✧", "✷", "✵"]
     mission_name = mission.get("Mission")
     calls = mission.get("WakeupCalls", [])
     for call in calls:
@@ -70,11 +72,13 @@ def output_rows(program, mission):
             for song in songlist:
                 """output a new post..."""
                 if song_details != "":
-                    song_details = "{}\n{} by {}".format(
-                        song_details, song["SONG"], song["ARTIST"]
+                    song_details = "{}  &nbsp;<br />{} {} by {}".format(
+                        song_details, random.choice(stars), song["SONG"], song["ARTIST"]
                     )
                 else:
-                    song_details = "{} by {}".format(song["SONG"], song["ARTIST"])
+                    song_details = "{} {} by {}".format(
+                        random.choice(stars), song["SONG"], song["ARTIST"]
+                    )
                 if not song.get("Comment"):
                     continue
                 if comment != "":
