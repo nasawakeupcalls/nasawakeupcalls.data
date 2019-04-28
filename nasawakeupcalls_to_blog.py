@@ -98,6 +98,7 @@ def output_rows(program, mission):
                 "{{ %comment% }}", comment.replace("Ibid.\n", "").replace("Ibid.", "")
             )
             template = template.replace("{{ %date% }}", date_)
+            template = template.replace("{{ %date_computer% }}", date)
             template = template.replace("{{ %date_human% }}", date_to_human(date_))
             date_string = None
             if "Sol" not in date_:

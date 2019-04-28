@@ -2,6 +2,8 @@
 layout: post
 title:  {{ %mission% }}
 author: "NASA: Music to Wake Up By"
+type: MusicPlaylist
+date_modified: {{ %date_computer% }}
 ---
 
 ----
