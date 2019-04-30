@@ -11,5 +11,7 @@ date_modified: {{ %date_computer% }}
 ----
 {{ %song_details% }}
 
-##### Comment:
+#### Comment:
 * {{ %comment% }}
+
+{{ %dedication% }}

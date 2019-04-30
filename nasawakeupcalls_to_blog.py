@@ -18,6 +18,9 @@ comment_arr = []
 
 urls_file = os.path.join("urls", "urls")
 
+# Header for output of a mission dedication.
+dedication_title = "#### *Dedication:*"
+
 
 def my_name_is_sol(date_):
     """Take the Martian landing date and calculate the SOL based on the given
@@ -63,6 +66,7 @@ def output_rows(program, mission):
     """Function docstring."""
     stars = ["✦", "✫", "⊹", "✺", "✧", "✷", "✵"]
     mission_name = mission.get("Mission")
+    dedication = mission.get("Dedication")
     calls = mission.get("WakeupCalls", [])
     for call in calls:
         for date, songlist in call.items():
@@ -100,6 +104,11 @@ def output_rows(program, mission):
             template = template.replace("{{ %date% }}", date_)
             template = template.replace("{{ %date_computer% }}", date)
             template = template.replace("{{ %date_human% }}", date_to_human(date_))
+            if dedication:
+                dedication_quote = "{}\n> *{}*".format(dedication_title, dedication)
+            else:
+                dedication_quote = ""
+            template = template.replace("{{ %dedication% }}", dedication_quote)
             date_string = None
             if "Sol" not in date_:
                 date_string = date_.replace(" ", "-")
@@ -109,7 +118,7 @@ def output_rows(program, mission):
                 "posts", "{}-{}.md".format(date_string, mission_name.replace(" ", "_"))
             )
             with open(file_name, "w") as blog_file:
-                blog_file.write(template)
+                blog_file.write(template.strip() + "\n")
             with open(urls_file, "a+") as url_listing:
                 url_ = '"/{}/{}",'.format(date_string, mission_name.replace(" ", "_"))
                 url_listing.write("{}\n".format(url_))
