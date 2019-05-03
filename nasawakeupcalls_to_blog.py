@@ -72,17 +72,29 @@ def output_rows(program, mission):
         for date, songlist in call.items():
             date_ = date
             song_details = ""
+            song_details_simple = ""
+            song_array = ""
             comment = ""
             for song in songlist:
                 """output a new post..."""
                 if song_details != "":
-                    song_details = "{}  &nbsp;<br />{} {} by {}".format(
+                    song_details = "{}  &nbsp;<br />\n{} {} by {}".format(
                         song_details, random.choice(stars), song["SONG"], song["ARTIST"]
+                    )
+                    song_details_simple = "{} or '{} by {}'".format(
+                        song_details_simple, song["SONG"], song["ARTIST"]
+                    )
+                    song_array = '{}, "{} by {}"'.format(
+                        song_array, song["SONG"], song["ARTIST"]
                     )
                 else:
                     song_details = "{} {} by {}".format(
                         random.choice(stars), song["SONG"], song["ARTIST"]
                     )
+                    song_details_simple = "'{} by {}'".format(
+                        song["SONG"], song["ARTIST"]
+                    )
+                    song_array = '"{} by {}"'.format(song["SONG"], song["ARTIST"])
                 if not song.get("Comment"):
                     continue
                 if comment != "":
@@ -96,6 +108,11 @@ def output_rows(program, mission):
                 template = blog_template.read()
             template = template.replace("{{ %mission% }}", mission_name)
             template = template.replace("{{ %song_details% }}", song_details)
+            template = template.replace(
+                "{{ %song_details_simple% }}", song_details_simple
+            )
+            template = template.replace("{{ %song_array% }}", song_array)
+
             if comment == "":
                 comment = "No mission comment"
             template = template.replace(

@@ -4,6 +4,7 @@ title:  {{ %mission% }}
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: {{ %date_computer% }}
+songs: [{{ %song_array% }}]
 ---
 
 ----
@@ -15,3 +16,15 @@ date_modified: {{ %date_computer% }}
 * {{ %comment% }}
 
 {{ %dedication% }}
+
+<br/>
+<center>
+	<a target="_blank"
+	   href="https://twitter.com/intent/tweet?hashtags=Space,NASA,Playlist,NASAWakeupCalls,SpaceProgram&text={{ page.author}}, '{{ page.songs.first }}' {{ page.title }}, {{ page.date | date: '%B %d, %Y' }}. {{ site.url }}{{ page.url }} @nasawakeupcalls">
+	   <i class="fab fa-twitter" alt="Tweet this page"></i>
+	</a>
+	&nbsp; 	<i class="fas fa-user-astronaut" style="font-size: 1.2em;"></i> &nbsp;
+    <a type="amzn" search="{{ %song_details_simple% }}" category="popular music">
+        <i class="fab fa-amazon"></i>
+    </a>
+</center>
