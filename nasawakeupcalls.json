@@ -60,7 +60,7 @@
                         {
                             "1965-12-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Actual date between 4 December and 6 December. New lines to the song. Sent to the crew.",
                                     "SONG": "Time to Get Ready for Love"
                                 }
@@ -69,7 +69,7 @@
                         {
                             "1965-12-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "broadcast to them at 1:34 p.m. Mission Commentary, Tape 112, page 1",
                                     "SONG": "Hawaiian music",
                                     "TIME": "196512061334"
@@ -133,7 +133,7 @@
                         {
                             "1965-12-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Mission Commentary Tape 170, page 1",
                                     "SONG": "High Hopes"
                                 },
@@ -162,7 +162,7 @@
                                     "SONG": "What'd I Say"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "relayed from Tananarive station for Jim Lovell. A request from his daughter, Barbara, age 12 who hopes the song will bring her daddy home for Christmas, a little early.-  Mission Commentary, Tape 223, page 2",
                                     "SONG": "I Saw Mommie Kissing Santa Claus"
                                 }
@@ -180,7 +180,7 @@
                         {
                             "1965-12-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Sent to the crew just before retrofire. - Mission Commentary Tape 610, page 1",
                                     "SONG": "I'll Be Home For Christmas"
                                 },
@@ -300,12 +300,12 @@
                         {
                             "1969-05-25": [
                                 {
-                                    "ARTIST": "",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Zip-a-Dee-Doo-Dah was sent from mission control to the crew, but only after the crew themselves, awake before mission control's first transmission, sent 'Come Fly with Me'. The following message attached: \"Good morning, good morning! This is Tom, John, and Gene from KAT 10, broadcasting again from approximately 140,000 miles [259,280 km] out into the universe. It’s a beautiful day out here, and it appears that it might be a beautiful day down in Mother Earth country. For those of you who are not just ready for work or are just getting up: Get up lazy bones! It's time you got up! Big day ahead! And the thought for today is: Remember, National Secretary’s Week was last month!\"",
                                     "SONG": "Come Fly With Me"
                                 },
                                 {
-                                    "ARTIST": " ",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Zip-a-Dee-Doo-Dah",
                                     "Comment": "Ibid."
                                 }
@@ -314,7 +314,7 @@
                         {
                             "1969-05-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Reveille (Bugle Call)"
                                 }
                             ]
@@ -341,23 +341,23 @@
                         {
                             "1969-11-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Bugle & Boatswain's Pipe"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "First Call to Formation (trumpet)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Yankee Clipper, Apollo 12 (chorus)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Second Time Around (chorus)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Yankee Clipper, Apollo 12 (chorus)"
                                 }
                             ]
@@ -387,7 +387,7 @@
                         {
                             "1971-08-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "For Jim Irwin.",
                                     "SONG": "- Anchors Aweigh"
                                 }
@@ -396,7 +396,7 @@
                         {
                             "1971-08-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "- Al Kealoha Perry - Hawaiian War Chant from record Hawaii Calls."
                                 }
                             ]
@@ -409,7 +409,7 @@
                         {
                             "1972-12-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Ron Evans' alma mater.",
                                     "SONG": "Jayhawk Fight Song"
                                 }
@@ -436,7 +436,7 @@
                         {
                             "1972-12-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "to lunar crew. Honors Flight Director's Gerry Griffin's  alma mater, Texas A & M.",
                                     "SONG": "Texas Aggie Fight Song"
                                 }
@@ -494,15 +494,15 @@
                         {
                             "1972-12-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Anchors Aweigh"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Star Spangled Banner"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Played a second time.",
                                     "SONG": "Anchors Aweigh"
                                 }
@@ -546,12 +546,12 @@
                         {
                             "1973-08-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Girl from Ipanema"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Anchors Aweigh"
                                 }
@@ -569,7 +569,7 @@
                         {
                             "1973-08-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Army Air Corps Song"
                                 }
@@ -578,7 +578,7 @@
                         {
                             "1973-08-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Come Fly With Me"
                                 }
                             ]
@@ -586,7 +586,7 @@
                         {
                             "1973-08-25": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Selections from Julie London and Tijuana Brass"
                                 }
@@ -615,7 +615,7 @@
                         {
                             "1973-09-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Message from Mother Earth (the alter ego of Bob Crippen) followed by the instrumental, Come Saturday Morning",
                                     "SONG": "Come Saturday Morning (Instrumental)"
                                 }
@@ -632,7 +632,7 @@
                         {
                             "1973-09-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Jack Lousma. Jack said Mission Control should be standing at attention.",
                                     "SONG": "Marine Corps Hymn"
                                 }
@@ -641,7 +641,7 @@
                         {
                             "1973-09-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Moonlight Becomes You"
                                 }
@@ -674,7 +674,7 @@
                         {
                             "1973-11-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Henry Hartsfield",
                                     "Comment": "Symbolic of  the fact that the crew of Skylab 4 will be taking a walk in the blackness of space to repair the control system for an Earth-scanning antenna.",
                                     "SONG": "A Walk in the Black Forest"
@@ -720,7 +720,7 @@
                         {
                             "1973-12-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "UNIDENTIFIED",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -729,7 +729,7 @@
                         {
                             "1973-12-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "A message from the people of Germany followed by German Christmas songs. Santa Claus Day in Germany falls on this date.",
                                     "SONG": "German Christmas songs"
                                 },
@@ -784,7 +784,7 @@
                         {
                             "1973-12-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Christmas music The Little Drummer Boy"
                                 }
                             ]
@@ -792,11 +792,11 @@
                         {
                             "1973-12-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Twelve Days of Christmas"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Little Drummer Boy"
                                 }
                             ]
@@ -804,7 +804,7 @@
                         {
                             "1973-12-25": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Ring Christmas Bells"
                                 }
                             ]
@@ -860,7 +860,7 @@
                         {
                             "1974-01-02": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bruce McCandless",
                                     "Comment": "UNIDENTIFIED",
                                     "SONG": "UNIDENTIFIED"
@@ -903,7 +903,7 @@
                         {
                             "1974-01-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Henry Hartsfield",
                                     "SONG": "Herb Alpert & Tijuana Brass medley"
                                 }
@@ -912,7 +912,7 @@
                         {
                             "1974-01-12": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bruce McCandless",
                                     "SONG": "Come Saturday Morning"
                                 }
@@ -949,7 +949,7 @@
                         {
                             "1974-01-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bruce McCandless",
                                     "SONG": "Spiders and  Snakes"
                                 }
@@ -958,7 +958,7 @@
                         {
                             "1974-01-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "O What a Beautiful Morning"
                                 }
@@ -967,12 +967,12 @@
                         {
                             "1974-01-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Anchors Aweigh"
                                 },
@@ -987,17 +987,17 @@
                         {
                             "1974-01-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Marines Hymn"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Quiet Village"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Crippen",
                                     "SONG": "Hawaiian War Chant"
                                 }
@@ -1020,7 +1020,7 @@
                         {
                             "1974-01-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Richard Truly",
                                     "SONG": "Spiders and Snakes"
                                 }
@@ -1045,7 +1045,7 @@
                         {
                             "1974-01-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Richard Truly",
                                     "SONG": "Misty"
                                 }
@@ -1080,7 +1080,7 @@
                         {
                             "1974-01-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Henry Hartsfield",
                                     "SONG": "A medley of soft music..."
                                 }
@@ -1108,7 +1108,7 @@
                         {
                             "1974-01-30": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Henry Hartsfield",
                                     "SONG": "Ghost Riders in the Sky"
                                 }
@@ -1213,7 +1213,7 @@
                         {
                             "1975-07-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Midnight in Moscow"
                                 }
                             ]
@@ -1327,7 +1327,7 @@
                         {
                             "1982-03-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Marine Corps Hymn"
                                 }
                             ]
@@ -1335,7 +1335,7 @@
                         {
                             "1982-03-25": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for the benefit of  pilot C. Gordon Fullerton, an Air Force colonel, who commented: That will get us off to a fast start.",
                                     "SONG": "The Air Force Song (Off We Go Into the Wild Blue Yonder)"
                                 }
@@ -1353,12 +1353,12 @@
                         {
                             "1982-03-27": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Exchange of music between the ground and the Columbia, the Columbia playing for the flight control team, I'm Sitting On Top of the World and the flight team transmitting up Those Magnificent Men and Their Flying Machines.",
                                     "SONG": "I'm Sitting On Top of the World"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Those Magnificent Men and Their Flying Machines."
                                 }
@@ -1376,17 +1376,17 @@
                         {
                             "1982-03-29": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "CAPCOM Steve Nagel uplinked This is My Country to the crew and the crew responded with downlink medley of the The Air Force Song  (Off We Go Into the Wild Blue Yonder) and the Marine Corps Hymn.",
                                     "SONG": "This is My Country"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Marine Corps Hymn."
                                 }
@@ -1400,7 +1400,7 @@
                         {
                             "1982-06-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Up, Up and Away"
                                 }
                             ]
@@ -1443,12 +1443,12 @@
                         {
                             "1982-07-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for TK Mattingly, and",
                                     "SONG": "Delta Tau Delta fraternity song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Hank Hartsfield.",
                                     "SONG": "Delta Chi fraternity song"
                                 }
@@ -1457,7 +1457,7 @@
                         {
                             "1982-07-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "This is My Country"
                                 }
                             ]
@@ -1470,7 +1470,7 @@
                         {
                             "1982-11-12": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "76 Trombones from the Music Man"
                                 }
                             ]
@@ -1478,7 +1478,7 @@
                         {
                             "1982-11-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Cotton-eyed Joe"
                                 }
                             ]
@@ -1486,7 +1486,7 @@
                         {
                             "1982-11-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of two Marines onboard: Columbia pilot Bob Overmyer, active duty Marine Corps colonel, and Vance Brand who began his career as a Marine aviator",
                                     "SONG": "Marine's Hymn Halls of Montezuma"
                                 }
@@ -1495,7 +1495,7 @@
                         {
                             "1982-11-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Stroll"
                                 }
                             ]
@@ -1532,7 +1532,7 @@
                         {
                             "1983-04-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The significance of that being referring to this crew as the F-crew for the purposes of training documents the crews have been listed alphabetically. A-crew was the STS-I crew -John Young,Bob Crippen. B-crew was the STS-2 crew - Dick Truly and Joe Engle. Of course, now up to STS-6. This is the F-crew and in a jocular vein they refer to themselves not as the F-crew but the F-Troop and accordingly the significance of this mornings wake up call. From STS-6 AIR/GROUND TRANSCRIPT",
                                     "SONG": "Theme from F-Troop"
                                 }
@@ -1563,11 +1563,11 @@
                         {
                             "1983-06-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Texas Aggie, Fight Song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "of course, a tribute to the Mission Commander, Bob Crippen who is a UT graduate. It was preceded by the Texas A&M, Texas Aggie, Fight Song which was a greeting card to Crip from Jerry Griffin, the Center Director at JSC (Johnson Space Center), who is a Texas A&M graduate. From STS-7 AIR/GROUND TRANSCRIPT",
                                     "SONG": "The University of Texas Fight Song"
                                 }
@@ -1576,7 +1576,7 @@
                         {
                             "1983-06-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "A&M, Texas A&M Aggie War Hymn"
                                 },
                                 {
@@ -1589,11 +1589,11 @@
                         {
                             "1983-06-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Texas Aggie War Hymn"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
@@ -1602,7 +1602,7 @@
                                     "SONG": "When You're Smiling"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "and in response by CHallenger (some version of Tequila Sunrise)",
                                     "SONG": "Tequila Sunrise"
                                 }
@@ -1611,11 +1611,11 @@
                         {
                             "1983-06-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Texas A&M Aggie War Hymn"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "from which John Fabian is a graduate.",
                                     "SONG": "Washington State University Cougar Fight Song"
                                 }
@@ -1624,7 +1624,7 @@
                         {
                             "1983-06-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The uplink music",
                                     "SONG": "Texas A&M, Texas Aggie War Hymn,"
                                 },
@@ -1643,7 +1643,7 @@
                         {
                             "1983-06-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Texas Aggie War Hymn"
                                 },
                                 {
@@ -1662,7 +1662,7 @@
                         {
                             "1983-08-31": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for the alma mater of Commander Richard Truly.",
                                     "SONG": "Georgia Tech Fight Song"
                                 }
@@ -1671,7 +1671,7 @@
                         {
                             "1983-09-01": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Mission Specialist Dale Gardner's alma mater.",
                                     "SONG": "Illinois Fight Song"
                                 }
@@ -1680,7 +1680,7 @@
                         {
                             "1983-09-02": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Guy Bluford's Alma Mater",
                                     "SONG": "Penn State Fight Song"
                                 }
@@ -1689,7 +1689,7 @@
                         {
                             "1983-09-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for alumnus Bill Thornton.",
                                     "SONG": "University of North Carolina Fight Song"
                                 }
@@ -1763,12 +1763,12 @@
                         {
                             "1984-02-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "North Carolina A&T University alma mater of which Mission Specialist Ron McNair is an alumnus and Southern to the Top, the fight song from the University of Southern Mississippi, the alma mater of Mission Specialist Bob Stewart. From STS-41-B AIR/GROUND TRANSCRIPT",
                                     "SONG": "North Carolina A&T University alma mater"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Southern to the Top"
                                 }
@@ -1786,7 +1786,7 @@
                         {
                             "1984-02-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "from all the Air Force CAPCOMs.",
                                     "SONG": "A live rendition of The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 }
@@ -1817,12 +1817,12 @@
                         {
                             "1984-04-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Ox van Hoften,",
                                     "SONG": "Fight song of the University of California at Berkeley"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of T. J. Hart.",
                                     "SONG": "Lehigh University Fight Song"
                                 }
@@ -1864,12 +1864,12 @@
                         {
                             "1984-04-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for mission commander, Bob Crippen,",
                                     "SONG": "University of Texas fight song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Pilot, Dick Scobee.",
                                     "SONG": "University of Arizona fight song"
                                 }
@@ -1883,7 +1883,7 @@
                         {
                             "1984-08-31": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Anchors Aweigh"
                                 }
                             ]
@@ -1907,7 +1907,7 @@
                         {
                             "1984-09-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Hair"
                                 }
                             ]
@@ -1953,7 +1953,7 @@
                         {
                             "1984-10-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "(written and sung by a friend of McBride's. See Before Lift-off: The Making of a Space Shuttle Crew by Henry S.F. Cooper Jr.,p.198.",
                                     "SONG": "Song of Jon McBride"
                                 }
@@ -1970,7 +1970,7 @@
                         {
                             "1984-10-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Navy Wings are Made of Gold"
                                 }
                             ]
@@ -1994,7 +1994,7 @@
                         {
                             "1984-10-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Boomer Sooner The University of Oklahoma Fight Song"
                                 },
                                 {
@@ -2011,7 +2011,7 @@
                         {
                             "1984-11-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Good Morning Starshine from the musical Hair"
                                 },
                                 {
@@ -2023,7 +2023,7 @@
                         {
                             "1984-11-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Dave Hilmers",
                                     "Comment": "Marine Corps Hymn for the 209th birthday of the U.S. Marine Corps. Crew responded with John Philip Sousa's Stars and Stripes Forever",
                                     "SONG": "Marine Corps Hymn"
@@ -2038,7 +2038,7 @@
                         {
                             "1984-11-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Theme from film Victory at Sea"
                                 },
                                 {
@@ -2109,7 +2109,7 @@
                         {
                             "1984-11-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Theme from TV show Peter Gunn"
                                 },
                                 {
@@ -2248,7 +2248,7 @@
                         {
                             "1985-06-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "David Leestma",
                                     "Comment": "First Wakeup, for Sultan Salman Abdulaziz Al-Saud who is from Riyadh, Saudi Arabia",
                                     "SONG": "Medley of unidentified Saudi Arabian music"
@@ -2260,7 +2260,7 @@
                                     "SONG": "Be from the movie Jonathan Livingston Seagull"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Springer",
                                     "Comment": "Second Wakeup",
                                     "SONG": "Happy Talk from the movie South Pacific"
@@ -2303,7 +2303,7 @@
                         {
                             "1985-08-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "David Leestma",
                                     "Comment": "awakened the crew as they passed over Australia.",
                                     "SONG": "Waltzing Matilda"
@@ -2385,7 +2385,7 @@
                         {
                             "1985-11-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for first Air Force space shuttle commander, Brewster H. Shaw, Jr.",
                                     "SONG": "The Air Force Hymn"
                                 }
@@ -2394,7 +2394,7 @@
                         {
                             "1985-11-27": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2403,7 +2403,7 @@
                         {
                             "1985-11-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2412,7 +2412,7 @@
                         {
                             "1985-11-29": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "America the Beautiful"
                                 }
                             ]
@@ -2420,7 +2420,7 @@
                         {
                             "1985-11-30": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2429,7 +2429,7 @@
                         {
                             "1985-12-02": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "James Wetherbee",
                                     "Comment": "a joke played on Jerry Ross, a graduate of Purdue, one of Notre Dame's rivals by Jim Wetherbee.",
                                     "SONG": "Notre Dame Fight Song or Notre Dame Victory March"
@@ -2462,7 +2462,7 @@
                         {
                             "1986-01-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2479,7 +2479,7 @@
                         {
                             "1986-01-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2488,7 +2488,7 @@
                         {
                             "1986-01-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2497,7 +2497,7 @@
                         {
                             "1986-01-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -2506,7 +2506,7 @@
                         {
                             "1986-01-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Stars and Stripes Forever"
                                 }
                             ]
@@ -2553,7 +2553,7 @@
                         {
                             "1988-10-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Fun, Fun, Fun... Beach Boys parody with original lyrics"
                                 }
                             ]
@@ -2566,12 +2566,12 @@
                         {
                             "1988-12-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "because Hoot Gibson and Bill Shepherd were Navy grads and Mike Mullane graduated from West Point.",
                                     "SONG": "Army Fight Song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Navy Fight Song"
                                 }
@@ -2580,7 +2580,7 @@
                         {
                             "1988-12-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "based on an inside joke between the Atlantis crew and CAPCOM members of the astronaut class of 1984.",
                                     "SONG": "Theme from TV show Rawhide with satirical lyrics"
                                 }
@@ -2617,7 +2617,7 @@
                         {
                             "1989-03-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Ken Cameron",
                                     "Comment": "tribute to mission specialists Bob Springer and Jim Buchli. We got two Marines standing at attention up here, said Captain Coats.",
                                     "SONG": "Brass band rendition of the Marine Corps Hymn"
@@ -2633,19 +2633,19 @@
                                     "SONG": "theme from Star Trek"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "G. David Low.",
                                     "Comment": "Ibid.",
                                     "SONG": "Anchors Aweigh"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "G. David Low.",
                                     "Comment": "Ibid.",
                                     "SONG": "The Air Force Song (Off We Go Into the Wild Blue Yonder)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "G. David Low.",
                                     "Comment": "Ibid.",
                                     "SONG": "Drexel University Fight Song"
@@ -2655,13 +2655,13 @@
                         {
                             "1989-03-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "G. David Low",
                                     "Comment": "Discovery crew woke up Mission Control with Heigh-Ho, Heigh-Ho, It's Off To Work We Go from movie Snow White. Mission Control replied with Stars and Stripes Forever.",
                                     "SONG": "Heigh-Ho, Heigh-Ho, It's Off To Work We Go"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "G. David Low",
                                     "Comment": "Ibid.",
                                     "SONG": "Stars and Stripes Forever"
@@ -2698,22 +2698,22 @@
                         {
                             "1989-05-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Crew members awakened with medley from their respective alma maters: Anchors Aweigh, played for STS-30 commander Dave Walker - Navy The Wild Blue Yonder for pilot Ron Grabe and Mark Lee - Air Force Colorado State University fight song for Mission Specialist Mary Cleave; and Florida State University fight song for Mission Specialist Norm Thagard",
                                     "SONG": "Anchors Aweigh"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "The Wild Blue Yonder"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Colorado State University fight song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Florida State University fight song"
                                 }
@@ -2749,19 +2749,19 @@
                         {
                             "1989-10-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Medley: 1. Hail Purdue, 2. Reveille, 3. Anchors Aweigh as tribute to commander Don Williams and pilot Mike McCulley who were both Purdue and Naval Academy graduates.",
                                     "SONG": "Hail Purdue"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Ibid.",
                                     "SONG": "Reveille (Bugle Call)"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Ibid.",
                                     "SONG": "Anchors Aweigh"
@@ -2771,19 +2771,19 @@
                         {
                             "1989-10-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "University fight songs medley sent as a tribute to the Mission Specialists and their undergraduate schools: 1. University of Oklahoma for Shannon Lucid, 2. University of Connecticut for Franklin Chang-Diaz, 3. State University of New York at Buffalo for Ellen Baker.",
                                     "SONG": "University of Oklahoma"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Ibid.",
                                     "SONG": "University of Connecticut"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Tammy Jernigan",
                                     "Comment": "Ibid.",
                                     "SONG": "State University of New York"
@@ -2884,7 +2884,7 @@
                         {
                             "1990-01-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "University of Washington's fight song for Mission Specialist Bonnie Dunbar. (from tape with a bunch of fight songs performed by USC band)",
                                     "SONG": "Bow Down to Washington"
                                 }
@@ -2893,7 +2893,7 @@
                         {
                             "1990-01-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "the University of Colorado fight song, in honor of Mission Specialist Marsha Ivins.",
                                     "SONG": "Glory, Glory, Colorado"
                                 }
@@ -2911,7 +2911,7 @@
                         {
                             "1990-01-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Washington and Lee the fight song of Washington and Lee University for David Low.",
                                     "SONG": "Washington and Lee"
                                 }
@@ -2929,7 +2929,7 @@
                         {
                             "1990-01-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Lt. Commander U.S. Navy Wetherbee;",
                                     "SONG": "Anchor's Aweigh"
                                 },
@@ -3029,7 +3029,7 @@
                                     "SONG": "Fanfare for the Common Man"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Story Musgrave",
                                     "Comment": "to pay homage to commander Richard Searfoss' alma mater.",
                                     "SONG": "The University of Missouri Fight Song"
@@ -3138,7 +3138,7 @@
                         {
                             "1991-06-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for O'Connor, a Colonel in USMC and Gutierrez, a Lt. Colonel in the Air Force.",
                                     "SONG": "A Military Medally Marine Corps and Air Force music"
                                 }
@@ -3155,7 +3155,7 @@
                         {
                             "1991-06-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Greetings from crew's children followed by Somewhere Out There from movie An American Tail",
                                     "SONG": "Somewhere Out There"
                                 }
@@ -3164,7 +3164,7 @@
                         {
                             "1991-06-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "a humorous western ballad that is a favorite of mission specialist Tammy Jernigan.",
                                     "SONG": "Cow Patty"
                                 }
@@ -3220,7 +3220,7 @@
                         {
                             "1991-08-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for James Adamson who is from Montana",
                                     "SONG": "Excerpt from Dances With Wolves soundtrack"
                                 }
@@ -3263,7 +3263,7 @@
                         {
                             "1991-08-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for graduate G. David Low",
                                     "SONG": "Washington and Lee University fight song"
                                 }
@@ -3387,12 +3387,12 @@
                         {
                             "1991-11-30": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "For football game that day between the schools and Auburn graduates Jim Voss and Jan Davis. Voss was on Atlantis for his first spaceflight, Davis was the Capcom. PC",
                                     "SONG": "University of Alabama fight song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "Auburn University fight song"
                                 }
@@ -3442,7 +3442,7 @@
                         {
                             "1992-05-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "with taped messages from Kathy Thornton's children for Mother's Day.",
                                     "SONG": "Theme song from the Disney animated feature Winnie the Pooh"
                                 }
@@ -3515,7 +3515,7 @@
                         {
                             "1992-10-25": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unidentified",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -3543,7 +3543,7 @@
                         {
                             "1992-10-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "set the tone for today's planned discussion between the STS-52 crew, students at the University of Hawaii and the Polynesian sailing canoe Hokulea located somewhere in the South Pacific.",
                                     "SONG": "Hawaiian music"
                                 }
@@ -3618,7 +3618,7 @@
                         {
                             "1992-12-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 }
                             ]
@@ -3626,7 +3626,7 @@
                         {
                             "1992-12-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for crew members Dave Walker and Bob Cabana",
                                     "SONG": "Anchor's Aweigh"
                                 }
@@ -3644,7 +3644,7 @@
                         {
                             "1992-12-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "From the Halls of Montezuma"
                                 }
                             ]
@@ -3657,7 +3657,7 @@
                         {
                             "1993-01-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 }
                             ]
@@ -3732,7 +3732,7 @@
                         {
                             "1993-06-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Mission Specialist Nancy Sherlock, nicknamed Smurf.",
                                     "SONG": "The Smurfs"
                                 }
@@ -3860,7 +3860,7 @@
                         {
                             "1993-09-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Walk, Don't Run"
                                 }
                             ]
@@ -3868,7 +3868,7 @@
                         {
                             "1993-09-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Videotape views of Earth with Theme for the Common Man by crew beat Mission Control's wakeup call by five minutes. We didn't mean to preempt your music, just precede it, Discovery commander Frank Culbertson Jr. told Mission Control's Susan Helms. Of course the videotape views of the Earth are just on the flight day highlights. On the shuttle they just hear the music. PC",
                                     "SONG": "Theme for the Common Man"
                                 }
@@ -4106,7 +4106,7 @@
                         {
                             "1993-12-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "chosen by Mission Specialist Claude Nicollier",
                                     "SONG": "A traditional Swiss Alpine song"
                                 }
@@ -4195,7 +4195,7 @@
                         {
                             "1994-02-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Mission Specialist Sergei Krikalev, the first Russian cosmonaut to fly aboard a U.S. spacecraft.",
                                     "SONG": "Russian folk tunes"
                                 }
@@ -4267,7 +4267,7 @@
                         {
                             "1994-03-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Marine Corps Hymn Halls of Montezuma"
                                 }
                             ]
@@ -4283,7 +4283,7 @@
                         {
                             "1994-03-12": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "from movie Beauty and the Beast soundtrack in honor of the commander's two children",
                                     "SONG": "Be Our Guest"
                                 }
@@ -4470,7 +4470,7 @@
                         {
                             "1994-10-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "There was a problem with the galley water system putting bubbles into the crew's drinking water. So Capcom Bill McArthur sent the song to the Blue shift. PC",
                                     "SONG": "Tiny Bubbles"
                                 }
@@ -4507,7 +4507,7 @@
                         {
                             "1995-02-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "From a Girl Scout Brownie troop (the daughter of the people who send flowers to MCC each mission is in the troop)",
                                     "SONG": "Make New Friends"
                                 }
@@ -4595,7 +4595,7 @@
                         {
                             "1995-07-01": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Russian pop song Kuca, Kuca, Kuca (pronounced Keesa Keesa Keesa)"
                                 }
                             ]
@@ -4611,7 +4611,7 @@
                         {
                             "1995-07-03": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "...in honor of former Seminole Norm Thagard...celebrating his 52nd birthday today.",
                                     "SONG": "The Florida State Seminole Fight Song"
                                 }
@@ -4629,7 +4629,7 @@
                         {
                             "1995-07-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Flying solo and ahead of the Mir space station by about 120 nautical miles, the crew on board Atlantis awoke to a children's song, 'I Love My Moon,' a special dedication to Commander Hoot Gibson from his 26-day old daughter Emilee Louise. Query Book has singer as Tonja Weimer.",
                                     "SONG": "I Love My Moon"
                                 }
@@ -4638,11 +4638,11 @@
                         {
                             "1995-07-06": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Beatles' Hello, Goodbye parody"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Paul Anka's Lay Your Head on My Shoulder parody"
                                 }
                             ]
@@ -4663,7 +4663,7 @@
                         {
                             "1995-07-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The crew of STS-70 was awakened shortly after three this morning Central time to the theme from 'Woody Woodpecker,' a cartoon character adopted as the mascot for the mission when real woodpeckers plucked holes in protective insulation on Discovery's external fuel tank last month causing a delay in the mission. MCC Status Report",
                                     "SONG": "Woody Woodpecker (Theme)"
                                 }
@@ -4690,7 +4690,7 @@
                         {
                             "1995-07-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Mission Specialist Mary Ellen Weber responded with 'Good mornin' Houston, how 'bout then Indians?' MCC Status Report",
                                     "SONG": "Fight song for the Cleveland Indians, Talkin' Tribe."
                                 }
@@ -4713,7 +4713,7 @@
                         {
                             "1995-07-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Unknown.",
                                     "SONG": "UNIDENTIFIED"
                                 }
@@ -4722,7 +4722,7 @@
                         {
                             "1995-07-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "a UT song. Randy Stone switched from an Aggie song to a UT song.",
                                     "SONG": "Eyes of Texas"
                                 }
@@ -4744,7 +4744,7 @@
                         {
                             "1995-09-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Theme from Scooby Doo"
                                 }
                             ]
@@ -4760,7 +4760,7 @@
                         {
                             "1995-09-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Theme from Rin Tin Tin"
                                 }
                             ]
@@ -4776,7 +4776,7 @@
                         {
                             "1995-09-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "a tribute to Jim Voss who was promoted to the rank of Colonel in the U.S. Army.",
                                     "SONG": "Theme from the film Patton"
                                 }
@@ -4785,7 +4785,7 @@
                         {
                             "1995-09-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "attribute to Mike Gernhardt who has the same nickname.",
                                     "SONG": "Theme from cartoon TV show, Underdog"
                                 }
@@ -4870,7 +4870,7 @@
                         {
                             "1995-11-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "performed as as a drill team chant cadence.",
                                     "SONG": "Do Wah Diddy Diddy"
                                 }
@@ -4900,7 +4900,7 @@
                         {
                             "1996-01-13": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Koichi Wakata and SFU retrieval.",
                                     "SONG": "Sea in Springtime (traditional Japanese song)"
                                 }
@@ -4909,7 +4909,7 @@
                         {
                             "1996-01-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Theme from the original Godzilla film"
                                 }
                             ]
@@ -4933,7 +4933,7 @@
                         {
                             "1996-01-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Heigh-Ho, Heigh-Ho, It's Off To Work We Go from movie Snow White."
                                 }
                             ]
@@ -4985,7 +4985,7 @@
                         {
                             "1996-03-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "referring to Shannon Lucid's arrival the next day.",
                                     "SONG": "When the Roll is Called Up Yonder"
                                 }
@@ -5041,7 +5041,7 @@
                         {
                             "1996-05-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Commander John H. Casper, an Air Force Colonel, and pilot Curtis L.Brown, an Air Force Lieutenant Colonel.",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 }
@@ -5059,7 +5059,7 @@
                         {
                             "1996-05-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Anchors Aweigh"
                                 }
                             ]
@@ -5067,7 +5067,7 @@
                         {
                             "1996-05-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "a children's song provided by Casper's wife, Chris.",
                                     "SONG": "Milky Way"
                                 }
@@ -5418,7 +5418,7 @@
                         {
                             "1996-11-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Theme From Fireball XL5"
                                 }
@@ -5630,7 +5630,7 @@
                                     "SONG": "Ticket to Ride"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "So Long, Farewell from The Sound of Music"
                                 }
                             ]
@@ -5695,7 +5695,7 @@
                         {
                             "1997-02-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "For Mark Lee",
                                     "SONG": "The Packerena"
@@ -5723,7 +5723,7 @@
                         {
                             "1997-02-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "That Thing You Do! Theme from the motion picture"
                                 }
@@ -5787,7 +5787,7 @@
                         {
                             "1997-05-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "God Save the Queen (British National Anthem)"
                                 }
@@ -5796,7 +5796,7 @@
                         {
                             "1997-05-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "French National Anthem - La Marseillaise"
                                 }
@@ -5805,7 +5805,7 @@
                         {
                             "1997-05-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Peruvian National Anthem"
                                 }
@@ -5814,7 +5814,7 @@
                         {
                             "1997-05-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Russian National Anthem"
                                 }
@@ -5841,7 +5841,7 @@
                         {
                             "1997-05-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "U.S. National Anthem"
                                 }
@@ -6097,7 +6097,7 @@
                         {
                             "1997-11-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Ginga Shounen Tai (Galaxy Boys) Theme from a Japanese science fiction puppet show"
                                 }
@@ -6133,7 +6133,7 @@
                         {
                             "1997-11-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Ellen Ochoa",
                                     "SONG": "Ukrainian National Anthem"
                                 }
@@ -6151,7 +6151,7 @@
                         {
                             "1997-11-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Florida State University Seminoles Fight Song"
                                 }
@@ -6178,7 +6178,7 @@
                         {
                             "1997-12-01": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "Ultraman Theme from Japanese TV science fiction cartoon show"
                                 }
@@ -6237,7 +6237,7 @@
                         {
                             "1998-01-25": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Marc Garneau",
                                     "SONG": "Friends, We Are Migrant Birds An old Russian pilots' song"
                                 }
@@ -6385,7 +6385,7 @@
                         {
                             "1998-04-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bill McArthur",
                                     "SONG": "Fight On, State Fight Song for Penn State University"
                                 }
@@ -6430,7 +6430,7 @@
                         {
                             "1998-05-01": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Curbeam",
                                     "SONG": "If I Only Had a Brain from The Wizard of Oz"
                                 }
@@ -6519,7 +6519,7 @@
                         {
                             "1998-06-10": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "played in honor of Franklin Chang-Diaz's record-breaking time in orbit aboard a Space Shuttle, a total of more than 51 days spent in orbit during six shuttle flights.",
                                     "SONG": "Superman - TV Theme Song"
@@ -6529,7 +6529,7 @@
                         {
                             "1998-06-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "played in honor of Janet Kavandi",
                                     "SONG": "Interplanet Janet Song from the Schoolhouse Rock educational videotape series"
@@ -6603,7 +6603,7 @@
                         {
                             "1998-11-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "Comment": "a cheering song from Keio University where Payload Specialist Chiaki Mukai received her medical degree.",
                                     "SONG": "Wakaki Chi, (Young Spirit)"
@@ -6633,7 +6633,7 @@
                         {
                             "1998-11-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Scott Horowitz",
                                     "Comment": "Played for Pedro Duque at request of his wife, Consuelo.",
                                     "SONG": "La Cucaracha"
@@ -6658,7 +6658,7 @@
                         {
                             "1998-12-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Chris Hadfield",
                                     "SONG": "Anchors Aweigh"
                                 }
@@ -6677,7 +6677,7 @@
                         {
                             "1998-12-07": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Bob Curbeam",
                                     "Comment": "In honor of Mission Specialist Jerry Ross, who with fellow Mission Specialist Jim Newman, will conduct more than 18 hours of space walks during this flight.",
                                     "SONG": "Jerry the Rigger, an old Celtic song"
@@ -6697,7 +6697,7 @@
                         {
                             "1998-12-09": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "CAPCOM": "Jim Newman",
                                     "Comment": "selected for Mission Specialist Jim Newman by his wife, Mary Lee.",
                                     "SONG": "Floating in the Bathtub"
@@ -6824,12 +6824,12 @@
                         {
                             "1999-06-02": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Played for cosmonaut Valery Tokarev and Mission Specialist Ellen Ochoa.",
                                     "SONG": "Vasha Blagarodye a Russian song"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Ibid.",
                                     "SONG": "The Charleston"
                                 }
@@ -6847,7 +6847,7 @@
                         {
                             "1999-06-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in recognition of the deployment of the Starshine satellite.",
                                     "SONG": "Good Morning Starshine"
                                 }
@@ -6856,7 +6856,7 @@
                         {
                             "1999-06-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "to commemorate what spacecraft communicator in Mission  Control Mario Runco called a landing of a different kind referring to D-Day on June 6, 1944.",
                                     "SONG": "The Longest Day - Theme from the movie"
                                 }
@@ -6943,7 +6943,7 @@
                         {
                             "1999-12-23": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "was played for Nicollier and the song Only When I Sleep by The Corrs was played for Foale.",
                                     "SONG": "Traditional Swiss music"
                                 }
@@ -7200,7 +7200,7 @@
                         {
                             "2000-02-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "author unknown",
                                     "SONG": "Untitled Russian song"
                                 }
@@ -7299,7 +7299,7 @@
                         {
                             "2000-09-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Burbank, a Lieutenant Commander in the Coast Guard.",
                                     "SONG": "United States Coast Guard Hymn Semper Paratus (Always Ready)"
                                 }
@@ -7423,7 +7423,7 @@
                         {
                             "2000-10-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "The Air Force Song  (Off We Go Into the Wild Blue Yonder)"
                                 }
                             ]
@@ -7486,7 +7486,7 @@
                         {
                             "2000-12-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Noriega by USC Marching Band",
                                     "SONG": "Fight On (Trojan Fight Song) - University of Southern California fight song"
                                 }
@@ -7693,7 +7693,7 @@
                         {
                             "2001-03-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for astronaut Paul Richards as a selection from his children.",
                                     "SONG": "Blast Off from the animated feature Scooby Doo and the Alien Invaders"
                                 }
@@ -7755,7 +7755,7 @@
                         {
                             "2001-03-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "SONG": "Moscow Windows - Folk song"
                                 }
                             ]
@@ -7838,7 +7838,7 @@
                         {
                             "2001-04-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "That song was played for Endeavour crewmember Russian cosmonaut Yuri Lonchakov.",
                                     "SONG": "Russian folk song, Behind the Fog."
                                 }
@@ -7874,12 +7874,12 @@
                         {
                             "2001-04-30": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "(5:41 GMT)",
                                     "SONG": "Soundtrack to the movie Gladiator"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Robinson, etc.",
                                     "SONG": "Big Arm on His Ship"
                                 }
@@ -8031,7 +8031,7 @@
                         {
                             "2001-08-12": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Expedition Three Pilot Vladimir Dezhurov.",
                                     "SONG": "The White Eagle, a traditional Russian folk song"
                                 }
@@ -8207,7 +8207,7 @@
                         {
                             "2001-12-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Onufrienko, Dezhurov and Tyurin.The Expedition Four crew was awakened about a half-hour later with a wakeup tone on board the station.",
                                     "SONG": "Traditional Russian song, My Sweetheart,"
                                 }
@@ -8524,7 +8524,7 @@
                         {
                             "2002-06-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "in honor of Flag Day.",
                                     "SONG": "The Star Spangled Banner"
                                 }
@@ -8701,7 +8701,7 @@
                         {
                             "2002-11-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "provided by his daughter",
                                     "SONG": "The Wind Ensemble - Music for Wetherbee"
                                 }
@@ -8734,7 +8734,7 @@
                         {
                             "2002-11-28": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "from the movie Trading Places",
                                     "SONG": "Figaro's Wedding"
                                 }
@@ -8808,7 +8808,7 @@
                                     "SONG": "I Got You Babe"
                                 },
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "COMMENT: Clips from the movie Groundhog Day (I Got You Babe) and the television game show Jeopardy The Groundhog Day was a reference to the multiple landing attempts. At this point STS-113 tied the previous record of two additional extensions waiting for good weather. With the additional day beyond that, they set a new record for the number of landing tries. The Jeopardy theme music was a running gag between Mike Lopez-Alegria and the Capcoms where he would pose various questions about the mission's status as quizzes. At one point the Capcom answered one of L-A's queries, and he replied But you forgot to phrase it in the form of a question. The evening before when MCC said goodnight a Capcom cautioned the wakeup music may sound familiar. Wetherbee replied How will we know? (a reference to the repeating cycle in the movie Groundhog Day. PC",
                                     "SONG": "Jeopardy Theme"
                                 }
@@ -8832,7 +8832,7 @@
                         {
                             "2003-01-16": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Dedicated to Dave Brown. PC",
                                     "SONG": "EMA EMA",
                                     "TEAM": "Blue Team"
@@ -8864,7 +8864,7 @@
                         {
                             "2003-01-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Dedicated to Dave Brown. PC",
                                     "SONG": "Cultural Exchange",
                                     "TEAM": "Blue Team"
@@ -8896,7 +8896,7 @@
                         {
                             "2003-01-20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "Dedicated to Dave Brown. PC",
                                     "SONG": "Texan 60",
                                     "TEAM": "Blue Team"
@@ -9176,7 +9176,7 @@
                         {
                             "2005-08-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "dedicated to Mission Specialist Wendy Lawrence at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later.",
                                     "SONG": "Anchors Aweigh"
                                 }
@@ -9185,7 +9185,7 @@
                         {
                             "2005-08-05": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "dedicated to Pilot Jim Kelly, a colonel in the U.S. Air Force, at the request of Commander Eileen Collins. Space Station Expedition 11 crewmates John Phillips and Sergei Krikalev woke 30 minutes later.",
                                     "SONG": "The Air Force Song"
                                 }
@@ -9356,7 +9356,7 @@
                         {
                             "2006-09-11": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Mission Specialist Dan Burbank.",
                                     "SONG": "A solo cello performance"
                                 }
@@ -9654,7 +9654,7 @@
                         {
                             "2007-06-17": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Mission Specialist Jim Reilly.",
                                     "SONG": "Theme song from Band of Brothers,"
                                 }
@@ -9699,7 +9699,7 @@
                         {
                             "2007-06-22": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "was played for the mission commander, Col. Rick Sturckow, USMC.",
                                     "SONG": "The Marines' Hymn,"
                                 }
@@ -10029,7 +10029,7 @@
                         {
                             "2008-02-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The song, which is from the musical Oliver!, was played for Mission Specialist Stanley Love. That's a wonderful song, thanks so much for sending it, said Love, 42. He thanked his parents and family and people who may be feeling there's one fewer Love on Earth this Valentine's Day. But I'd like to assure them that it's great to be up here, and I'll be home soon.",
                                     "SONG": "Consider Yourself at Home."
                                 }
@@ -10164,7 +10164,7 @@
                         {
                             "2008-03-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "a Japanese song that translates to Song of Spinning Stars. The song was played for Mission Specialist Takao Doi, a Japan Aerospace Exploration Agency astronaut.",
                                     "SONG": "Ayaka Hirahara's Hoshi Tsumugi no Uta"
                                 }
@@ -10313,7 +10313,7 @@
                         {
                             "2008-06-08": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "was played for the STS-124 crew.",
                                     "SONG": "The theme music from The Mickey Mouse Club"
                                 }
@@ -10435,7 +10435,7 @@
                         {
                             "2008-11-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The music was for Mission Specialist Heidemarie Stefanyshyn-Piper. The song was in the Ukrainian language, which she learned as a child. It was Unharness Your Horses, Boys, a traditional song about Cossacks performed by The Ukrainians.",
                                     "SONG": "Unharness Your Horses, Boys"
                                 }
@@ -10507,7 +10507,7 @@
                         {
                             "2008-11-29": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "was played for Mission Specialist Greg Chamitoff.",
                                     "SONG": "Twinkle, Twinkle, Little Star"
                                 }
@@ -10679,7 +10679,7 @@
                         {
                             "2009-05-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "It was played for Mike Good.",
                                     "SONG": "God of Wonders."
                                 }
@@ -11212,7 +11212,7 @@
                         {
                             "2010-02-14": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "for Harrow  alumnus Mission Specialist Nicholas Patrick.",
                                     "SONG": "Forty Years On the Harrow School (London) song"
                                 }
@@ -11275,7 +11275,7 @@
                         {
                             "2010-02-21": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Commander George Zamka, who is a colonel in the Marine Corps.",
                                     "SONG": "The Marines' Hymn"
                                 }
@@ -11379,7 +11379,7 @@
                         {
                             "2010-04-15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Mission Specialist Rick Mastracchio.",
                                     "SONG": "Theme from Stargate"
                                 }
@@ -11406,7 +11406,7 @@
                         {
                             "2010-04-18": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "played for Commander Alan G. Poindexter.",
                                     "SONG": "The Star Spangled Banner"
                                 }
@@ -11510,7 +11510,7 @@
                         {
                             "2010-05-24": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "was played for Steve Bowen.",
                                     "SONG": "The theme to Wallace and Gromit"
                                 }
@@ -11605,7 +11605,7 @@
                         {
                             "2011-03-04": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The Ritual/Ancient Battle/2nd Kroykah, from volume two of Star Trek: The Original Television Soundtrack - better known as the Star Trek fight song was played for the crew. The song was chosen by the crew's training team.",
                                     "SONG": "Star Trek Fight Song"
                                 }
@@ -11691,7 +11691,7 @@
                         {
                             "2011-05-19": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "The song was sent up for Mike Fincke by shuttle thermal protection system engineer Dan Keenan, and Kenny McLaughlin, a Kennedy Space Center launch pad engineer. The two shuttle workers created the song to honor those who have helped make the space program a success.",
                                     "SONG": "We All Do What We Can Do."
                                 }
@@ -11754,7 +11754,7 @@
                         {
                             "2011-05-26": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "A modified version of the song Fun, Fun, Fun with shuttle-themed lyrics, played for all six STS-134 crew members.",
                                     "SONG": "Fun, Fun, Fun"
                                 }
@@ -12504,7 +12504,7 @@
                         {
                             "2004-01-04:Sol 20": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "(Objective was to get Spirit to send data. She did.",
                                     "SOL": "Sol 20",
                                     "SONG": "Baby, Talk to Me, from the musical Bye Bye Birdie"
@@ -13048,7 +13048,7 @@
                         {
                             "2004-01-04:Sol 4": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "original manuscript listed n/a so perhaps no song was played, RS",
                                     "SOL": "Sol 4",
                                     "SONG": "UNKNOWN"
@@ -13180,7 +13180,7 @@
                         {
                             "2004-01-04:Sol 15": [
                                 {
-                                    "ARTIST": "UNKNOWN",
+                                    "ARTIST": "Unidentified",
                                     "Comment": "(For the arrival at the bedrock.)",
                                     "SOL": "Sol 15",
                                     "SONG": "The Flintstones Theme Song, end credits, Version 2 from 1962"
