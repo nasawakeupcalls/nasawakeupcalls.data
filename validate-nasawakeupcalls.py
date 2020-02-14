@@ -5,14 +5,13 @@ import json
 
 
 def pretty_json(dict_data):
-    return json.dumps(
-        dict_data, sort_keys=True, indent=4, separators=(',', ': '))
+    return json.dumps(dict_data, sort_keys=True, indent=4, separators=(",", ": "))
 
 
 def main():
     """Primary entry point of the script."""
     data = None
-    with open('nasawakeupcalls.json') as f:
+    with open("nasawakeupcalls.json") as f:
         data = json.load(f)
     print(pretty_json(data))
 

@@ -6,15 +6,7 @@ import json
 import os
 import random
 import time
-
-
-dates_arr = []
-program_arr = []
-missions_arr = []
-artists_arr = []
-songs_arr = []
-comment_arr = []
-
+from urllib.parse import quote
 
 urls_file = os.path.join("urls", "urls")
 
@@ -57,6 +49,26 @@ def date_to_human(date_):
     return my_name_is_sol(date_).strftime("%B %d, %Y")
 
 
+def make_genre_url(genre):
+    return "[{}](https://www.discogs.com/genre/{})".format(genre, quote(genre))
+
+
+def make_style_url(style):
+    return "[{}](https://www.discogs.com/style/{})".format(style, quote(style))
+
+
+def make_discogs_uri(discogs):
+
+    link = """<a target="blank_" href="{{ %%uri%% }}">
+    <i class="fas fa-compact-disc"
+       title="Discogs entry for this song"
+       alt="Discogs entry for this song"
+       style="font-size: 1.1em;"></i></a>
+    """
+
+    return link.replace("{{ %%uri%% }}", discogs)
+
+
 def pretty_json(dict_data):
     """Function docstring."""
     return json.dumps(dict_data, sort_keys=True, indent=4, separators=(",", ": "))
@@ -72,35 +84,63 @@ def output_rows(program, mission):
         for date, songlist in call.items():
             date_ = date
             song_details = ""
-            # song_details_simple = ""
             song_array = ""
+            genre_array = ""
             comment = ""
             for song in songlist:
                 """output a new post..."""
+
+                # Genre associated with the song, we will append it to the song
+                # and it will become part of the front-matter.
+                genre = song.get("Genre")
+                if genre != None:
+                    if genre_array != "":
+                        genre_array = '{},"{}"'.format(genre_array, genre)
+                    else:
+                        genre_array = '"{}"'.format(genre)
+                style = song.get("Style")
+                genre_style = ""
+                if style is not None:
+                    style = ": {}".format(make_style_url(style))
+                    genre_style = "({}{})".format(make_genre_url(genre), style)
+                else:
+                    if genre is not None:
+                        genre_style = "({})".format(make_genre_url(genre))
+                discogs = song.get("DiscogsURI")
+                if discogs is not None:
+                    discogs = make_discogs_uri(discogs)
                 if song_details != "":
-                    song_details = "{}  &nbsp;<br />\n{} {} by {}".format(
-                        song_details, random.choice(stars), song["SONG"], song["ARTIST"]
+                    # Add a newline to create a new entry.
+                    song_details = "{}  &nbsp;<br />\n{} {} *by* {} {} {}".format(
+                        song_details,
+                        random.choice(stars),
+                        song["Song"],
+                        song["Artist"],
+                        genre_style if genre_style else "",
+                        discogs if discogs else "",
                     )
-                    #song_details_simple = "{} or '{} by {}'".format(
-                    #    song_details_simple, song["SONG"], song["ARTIST"]
-                    #)
                     song_array = '{}, "{} by {}"'.format(
-                        song_array, song["SONG"], song["ARTIST"]
+                        song_array, song["Song"], song["Artist"]
                     )
                 else:
-                    song_details = "{} {} by {}".format(
-                        random.choice(stars), song["SONG"], song["ARTIST"]
+                    song_details = "{} {} *by* {} {} {}".format(
+                        random.choice(stars),
+                        song["Song"],
+                        song["Artist"],
+                        genre_style if genre_style else "",
+                        discogs if discogs else "",
                     )
-                    #song_details_simple = "'{} by {}'".format(
-                    #    song["SONG"], song["ARTIST"]
-                    #)
-                    song_array = '"{} by {}"'.format(song["SONG"], song["ARTIST"])
+                    song_array = '"{} by {}"'.format(song["Song"], song["Artist"])
+
+                # Page "footer" the last component of the entry which includes
+                # the day's wakeup call comment.
                 if not song.get("Comment"):
                     continue
                 if comment != "":
                     comment = "{}\n{}".format(comment, song.get("Comment"))
                 else:
                     comment = "{}".format(song.get("Comment"))
+
             # Write out to the template we created.
             template = None
             path_ = os.path.join("template", "blog.template")
@@ -108,11 +148,8 @@ def output_rows(program, mission):
                 template = blog_template.read()
             template = template.replace("{{ %mission% }}", mission_name)
             template = template.replace("{{ %song_details% }}", song_details)
-            #template = template.replace(
-            #    "{{ %song_details_simple% }}", song_details_simple
-            #)
             template = template.replace("{{ %song_array% }}", song_array)
-
+            template = template.replace("{{ %genre_array% }}", genre_array)
             if comment == "":
                 comment = "No mission comment"
             template = template.replace(
@@ -121,6 +158,7 @@ def output_rows(program, mission):
             template = template.replace("{{ %date% }}", date_)
             template = template.replace("{{ %date_computer% }}", date)
             template = template.replace("{{ %date_human% }}", date_to_human(date_))
+
             if dedication:
                 dedication_quote = "{}\n> *{}*".format(dedication_title, dedication)
             else:

@@ -5,6 +5,7 @@ author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: {{ %date_computer% }}
 songs: [{{ %song_array% }}]
+genres: [{{ %genre_array% }}]
 ---
 
 ----
