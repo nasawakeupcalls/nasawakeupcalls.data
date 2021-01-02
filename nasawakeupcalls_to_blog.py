@@ -93,7 +93,7 @@ def output_rows(program, mission):
                 # Genre associated with the song, we will append it to the song
                 # and it will become part of the front-matter.
                 genre = song.get("Genre")
-                if genre != None:
+                if genre is not None:
                     if genre_array != "":
                         genre_array = '{},"{}"'.format(genre_array, genre)
                     else:
@@ -109,13 +109,16 @@ def output_rows(program, mission):
                 discogs = song.get("DiscogsURI")
                 if discogs is not None:
                     discogs = make_discogs_uri(discogs)
+                basic_song_details = "{} {} *by* {}".format(
+                    random.choice(stars),
+                    song["Song"],
+                    song["Artist"],
+                )
                 if song_details != "":
                     # Add a newline to create a new entry.
-                    song_details = "{}  &nbsp;<br />\n{} {} *by* {} {} {}".format(
+                    song_details = "{}  &nbsp;<br />\n{} {} {}".format(
                         song_details,
-                        random.choice(stars),
-                        song["Song"],
-                        song["Artist"],
+                        basic_song_details,
                         genre_style if genre_style else "",
                         discogs if discogs else "",
                     )
@@ -123,10 +126,8 @@ def output_rows(program, mission):
                         song_array, song["Song"], song["Artist"]
                     )
                 else:
-                    song_details = "{} {} *by* {} {} {}".format(
-                        random.choice(stars),
-                        song["Song"],
-                        song["Artist"],
+                    song_details = "{} {} {}".format(
+                        basic_song_details,
                         genre_style if genre_style else "",
                         discogs if discogs else "",
                     )
@@ -147,6 +148,10 @@ def output_rows(program, mission):
             with open(path_) as blog_template:
                 template = blog_template.read()
             template = template.replace("{{ %mission% }}", mission_name)
+            template = template.replace(
+                "{{ %basic_song_details% }}", basic_song_details.replace("*", "")
+            )
+            template = template.replace("{{ %random_star% }}", random.choice(stars))
             template = template.replace("{{ %song_details% }}", song_details)
             template = template.replace("{{ %song_array% }}", song_array)
             template = template.replace("{{ %genre_array% }}", genre_array)
@@ -182,8 +187,8 @@ def output_rows(program, mission):
 
 def main():
     """Primary entry point of the script."""
-    with open(urls_file, "w") as url_listing:
-        """Clear the url_listing."""
+    with open(urls_file, "w") as _:
+        """Truncate urls..."""
     data = None
     with open("nasawakeupcalls.json") as f:
         data = json.load(f)

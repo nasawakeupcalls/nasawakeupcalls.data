@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  {{ %mission% }}
+title:  "NASA Wakeup Calls: {{ %mission% }} {{ %basic_song_details% }} {{ %random_star% }} {{ %date_human% }}"
+blog_title: "{{ %mission% }}"
 author: "NASA: Music to Wake Up By"
 type: MusicPlaylist
 date_modified: {{ %date_computer% }}
