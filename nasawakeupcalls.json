@@ -51,7 +51,25 @@
                 },
                 {
                     "Commentary": "NOTHING FOUND",
-                    "Title": "Gemini 5"
+                    "Title": "Gemini 5",
+                    "Mission": "GEMINI 5",
+                    "WakeupCalls": [
+                        {
+                            "1965-08-26": [
+                                {
+                                    "Artist": "Al Hirt",
+                                    "Capcom": "James McDivitt",
+                                    "Comment": "From Gene Kranz \"Failure is not an Option\" (2000): \"The next two days became really limited. The seesaw effect of powering up and down took a toll, and then the Gemini thrusters started to fail, further limiting the flight plan. With the crew in drifting flight and many experiments canceled, (James) McDivitt, now a CapCom, decided it was time to pipe some Al Hirt jazz up to the crew for wake-up. Another MCC tradition was born.\" (26 August is an approximate date)",
+                                    "DiscogsMasterURL": null,
+                                    "DiscogsURI": null,
+                                    "Genre": "Jazz",
+                                    "Song": "Unknown",
+                                    "Style": null,
+                                    "Year": null
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
                     "Mission": "GEMINI 6",
